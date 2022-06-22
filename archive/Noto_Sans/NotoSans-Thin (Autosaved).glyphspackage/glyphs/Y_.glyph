@@ -1,0 +1,29 @@
+{
+glyphname = Y;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,714,l),
+(241,271,l),
+(241,0,l),
+(267,0,l),
+(267,275,l),
+(505,714,l),
+(475,714,l),
+(253,301,l),
+(30,714,l)
+);
+}
+);
+width = 505;
+}
+);
+note = Y;
+unicode = 89;
+}

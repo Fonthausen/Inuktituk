@@ -1,0 +1,20 @@
+{
+glyphname = uni1FDF.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (97,-259);
+ref = uni1FFE;
+},
+{
+pos = (0,-52);
+ref = tilde;
+}
+);
+width = 491;
+}
+);
+note = uni1FDF.case;
+}

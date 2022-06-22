@@ -1,0 +1,26 @@
+{
+glyphname = bracketleft.sc;
+kernRight = parenleft.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,-123,l),
+(233,-98,l),
+(97,-98,l),
+(97,532,l),
+(233,532,l),
+(233,557,l),
+(71,557,l),
+(71,-123,l)
+);
+}
+);
+width = 252;
+}
+);
+note = bracketleft.sc;
+}

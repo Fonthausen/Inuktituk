@@ -1,0 +1,25 @@
+{
+glyphname = uni204A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(528,472,l),
+(528,553,l),
+(43,553,l),
+(43,426,l),
+(343,426,l),
+(134,0,l),
+(313,0,l)
+);
+}
+);
+width = 586;
+}
+);
+note = uni204A;
+unicode = 8266;
+}

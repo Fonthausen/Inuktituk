@@ -1,0 +1,19 @@
+{
+glyphname = yanuktaprehalfdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = yaprehalfdeva;
+},
+{
+pos = (465,162);
+ref = nuktadeva;
+}
+);
+width = 334;
+}
+);
+note = yanuktaprehalfdeva;
+}

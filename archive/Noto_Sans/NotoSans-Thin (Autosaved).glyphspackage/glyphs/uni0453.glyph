@@ -1,0 +1,22 @@
+{
+glyphname = uni0453;
+kernLeft = uni0432;
+kernRight = uni0433;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni0433;
+},
+{
+pos = (178,0);
+ref = acute;
+}
+);
+width = 414;
+}
+);
+note = uni0453;
+unicode = 1107;
+}

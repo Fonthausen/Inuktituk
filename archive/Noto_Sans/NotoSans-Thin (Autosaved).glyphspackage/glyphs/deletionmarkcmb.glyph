@@ -1,0 +1,17 @@
+{
+glyphname = deletionmarkcmb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-279,0);
+ref = uni2034;
+}
+);
+width = 0;
+}
+);
+note = deletionmarkcmb;
+unicode = 7675;
+}

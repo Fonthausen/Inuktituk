@@ -1,0 +1,19 @@
+{
+glyphname = Iogonek_loclNAV.salt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I.salt;
+},
+{
+pos = (10,0);
+ref = ogonek;
+}
+);
+width = 232;
+}
+);
+note = Iogonek_loclNAV.salt;
+}

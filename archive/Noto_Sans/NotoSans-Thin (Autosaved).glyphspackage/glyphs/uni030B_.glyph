@@ -1,0 +1,17 @@
+{
+glyphname = uni030B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-132,0);
+ref = hungarumlaut;
+}
+);
+width = 0;
+}
+);
+note = uni030B;
+unicode = 779;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = iotadieresis;
+kernLeft = iotadieresistonos;
+kernRight = iotadieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-146,0);
+ref = dieresis;
+}
+);
+width = 404;
+}
+);
+note = iotadieresis;
+unicode = 970;
+}

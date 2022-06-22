@@ -1,0 +1,21 @@
+{
+glyphname = lacute.sc;
+kernLeft = b.sc;
+kernRight = l.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (-129,0);
+ref = acutecomb.sc;
+}
+);
+width = 501;
+}
+);
+note = lacute.sc;
+}

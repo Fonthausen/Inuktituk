@@ -1,0 +1,26 @@
+{
+glyphname = wideinvertedbridgebelowcmb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(239,-46,l),
+(159,-142,l),
+(-159,-142,l),
+(-239,-46,l),
+(-273,-46,l),
+(-173,-173,l),
+(173,-173,l),
+(273,-46,l)
+);
+}
+);
+width = 0;
+}
+);
+note = wideinvertedbridgebelowcmb;
+unicode = 7673;
+}

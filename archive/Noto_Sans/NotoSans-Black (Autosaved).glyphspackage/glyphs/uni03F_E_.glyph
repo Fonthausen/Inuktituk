@@ -1,0 +1,20 @@
+{
+glyphname = uni03FE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (307,272);
+ref = period;
+}
+);
+width = 649;
+}
+);
+note = uni03FE;
+unicode = 1022;
+}

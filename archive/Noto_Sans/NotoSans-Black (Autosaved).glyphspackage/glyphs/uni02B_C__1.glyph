@@ -1,0 +1,15 @@
+{
+glyphname = uni02BC_1;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quoteright.deva;
+}
+);
+width = 354;
+}
+);
+note = uni02BC_1;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = iotatonos;
+kernLeft = iotadieresistonos;
+kernRight = iotadieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (77,0);
+ref = tonos;
+}
+);
+width = 404;
+}
+);
+note = iotatonos;
+unicode = 943;
+}

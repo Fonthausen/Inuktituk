@@ -1,0 +1,15 @@
+{
+glyphname = etatonos.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = h.sc;
+}
+);
+width = 652;
+}
+);
+note = etatonos.sc;
+}

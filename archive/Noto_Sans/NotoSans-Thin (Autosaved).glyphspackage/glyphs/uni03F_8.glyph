@@ -1,0 +1,16 @@
+{
+glyphname = uni03F8;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = thorn;
+}
+);
+width = 583;
+}
+);
+note = uni03F8;
+unicode = 1016;
+}

@@ -1,0 +1,29 @@
+{
+glyphname = uni1F9C.ad;
+kernRight = iotadieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (253,0);
+ref = H;
+},
+{
+pos = (-28,-62);
+ref = uni1FBF;
+},
+{
+pos = (133,-62);
+ref = tonos;
+},
+{
+pos = (959,0);
+ref = uni1FBE;
+}
+);
+width = 1243;
+}
+);
+note = uni1F9C.ad;
+}

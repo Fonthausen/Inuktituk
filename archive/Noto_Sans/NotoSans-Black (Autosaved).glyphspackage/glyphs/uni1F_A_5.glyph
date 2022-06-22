@@ -1,0 +1,30 @@
+{
+glyphname = uni1FA5;
+kernLeft = alphatonos;
+kernRight = delta;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (203,0);
+ref = uni1FFE;
+},
+{
+pos = (421,0);
+ref = tonos;
+},
+{
+pos = (327,0);
+ref = uni037A;
+}
+);
+width = 923;
+}
+);
+note = uni1FA5;
+unicode = 8101;
+}

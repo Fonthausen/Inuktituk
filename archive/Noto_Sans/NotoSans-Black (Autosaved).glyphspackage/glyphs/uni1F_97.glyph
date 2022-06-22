@@ -1,0 +1,29 @@
+{
+glyphname = uni1F97;
+kernRight = etatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (146,0);
+ref = uni1FFE;
+},
+{
+pos = (49,207);
+ref = tilde;
+},
+{
+pos = (27,0);
+ref = uni037A;
+}
+);
+width = 665;
+}
+);
+note = uni1F97;
+unicode = 8087;
+}

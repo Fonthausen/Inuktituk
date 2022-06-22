@@ -1,0 +1,20 @@
+{
+glyphname = uni01EF;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni04E1;
+},
+{
+pos = (39,0);
+ref = caron;
+}
+);
+width = 607;
+}
+);
+note = uni01EF;
+unicode = 495;
+}

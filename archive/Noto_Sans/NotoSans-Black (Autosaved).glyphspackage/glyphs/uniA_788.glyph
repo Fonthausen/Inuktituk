@@ -1,0 +1,17 @@
+{
+glyphname = uniA788;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-816);
+ref = circumflex;
+}
+);
+width = 523;
+}
+);
+note = uniA788;
+unicode = 42888;
+}

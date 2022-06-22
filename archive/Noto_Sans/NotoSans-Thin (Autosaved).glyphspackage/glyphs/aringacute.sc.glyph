@@ -1,0 +1,25 @@
+{
+glyphname = aringacute.sc;
+kernLeft = a.sc;
+kernRight = a.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (-35,-51);
+ref = uni030A.sc;
+},
+{
+pos = (-3,134);
+ref = acutecomb.sc;
+}
+);
+width = 502;
+}
+);
+note = aringacute.sc;
+}

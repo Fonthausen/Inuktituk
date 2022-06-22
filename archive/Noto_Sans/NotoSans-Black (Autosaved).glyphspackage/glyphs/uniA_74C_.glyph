@@ -1,0 +1,20 @@
+{
+glyphname = uniA74C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (571,0);
+ref = degree;
+}
+);
+width = 967;
+}
+);
+note = uniA74C;
+unicode = 42828;
+}

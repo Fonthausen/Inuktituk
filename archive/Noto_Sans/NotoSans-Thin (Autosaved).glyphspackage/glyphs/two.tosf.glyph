@@ -1,0 +1,16 @@
+{
+glyphname = two.tosf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (21,0);
+ref = two.osf;
+}
+);
+width = 529;
+}
+);
+note = two.tosf;
+}

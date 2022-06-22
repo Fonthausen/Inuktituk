@@ -1,0 +1,31 @@
+{
+glyphname = uni207C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(353,710,l),
+(35,710,l),
+(35,626,l),
+(353,626,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(353,568,l),
+(35,568,l),
+(35,484,l),
+(353,484,l)
+);
+}
+);
+width = 388;
+}
+);
+note = uni207C;
+unicode = 8316;
+}

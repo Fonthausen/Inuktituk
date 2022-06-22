@@ -1,0 +1,22 @@
+{
+glyphname = overscore;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-3,880,l),
+(-3,760,l),
+(503,760,l),
+(503,880,l)
+);
+}
+);
+width = 500;
+}
+);
+note = overscore;
+unicode = 175;
+}

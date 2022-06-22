@@ -1,0 +1,30 @@
+{
+glyphname = tsereversedcy;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(54,0,l),
+(485,0,l),
+(485,528,l),
+(459,528,l),
+(459,25,l),
+(122,25,l),
+(122,528,l),
+(96,528,l),
+(96,25,l),
+(28,25,l),
+(28,-176,l),
+(54,-176,l)
+);
+}
+);
+width = 576;
+}
+);
+note = tsereversedcy;
+unicode = 42593;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = halfhturned;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(42,289,l),
+(42,264,l),
+(318,264,l),
+(318,0,l),
+(344,0,l),
+(344,528,l),
+(318,528,l),
+(318,289,l)
+);
+}
+);
+width = 435;
+}
+);
+note = halfhturned;
+unicode = 42998;
+}

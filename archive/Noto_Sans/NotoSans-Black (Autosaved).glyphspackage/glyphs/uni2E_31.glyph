@@ -1,0 +1,17 @@
+{
+glyphname = uni2E31;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,272);
+ref = period;
+}
+);
+width = 289;
+}
+);
+note = uni2E31;
+unicode = 11825;
+}

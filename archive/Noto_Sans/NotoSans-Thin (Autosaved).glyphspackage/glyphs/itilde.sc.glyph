@@ -1,0 +1,19 @@
+{
+glyphname = itilde.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-88,31);
+ref = tilde;
+}
+);
+width = 227;
+}
+);
+note = itilde.sc;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = uniA71B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(221,756,l),
+(221,626,l),
+(243,626,l),
+(243,756,l),
+(314,756,l),
+(232,882,l),
+(150,756,l)
+);
+}
+);
+width = 464;
+}
+);
+note = uniA71B;
+unicode = 42779;
+}

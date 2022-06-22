@@ -1,0 +1,19 @@
+{
+glyphname = manuktadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = madeva;
+},
+{
+pos = (486,162);
+ref = nuktadeva;
+}
+);
+width = 530;
+}
+);
+note = manuktadeva;
+}

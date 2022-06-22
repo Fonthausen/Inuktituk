@@ -1,0 +1,22 @@
+{
+glyphname = Tcaron;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (35,161);
+ref = caron;
+}
+);
+width = 591;
+}
+);
+note = Tcaron;
+unicode = 356;
+}

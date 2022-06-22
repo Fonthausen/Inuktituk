@@ -1,0 +1,16 @@
+{
+glyphname = rvocalicvowelsignlowdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-126);
+ref = rvocalicvowelsigndeva;
+}
+);
+width = 0;
+}
+);
+note = rvocalicvowelsignlowdeva;
+}

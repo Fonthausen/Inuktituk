@@ -1,0 +1,23 @@
+{
+glyphname = acandranuktadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = adeva;
+},
+{
+pos = (892,0);
+ref = ecandravowelsigndeva;
+},
+{
+pos = (605,33);
+ref = nuktadeva;
+}
+);
+width = 908;
+}
+);
+note = acandranuktadeva;
+}

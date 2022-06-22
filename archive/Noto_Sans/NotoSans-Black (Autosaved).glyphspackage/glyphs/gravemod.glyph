@@ -1,0 +1,16 @@
+{
+glyphname = gravemod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = grave;
+}
+);
+width = 418;
+}
+);
+note = gravemod;
+unicode = 715;
+}

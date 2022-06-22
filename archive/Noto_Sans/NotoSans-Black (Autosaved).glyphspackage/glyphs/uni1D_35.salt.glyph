@@ -1,0 +1,21 @@
+{
+glyphname = uni1D35.salt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(176,715,l),
+(50,715,l),
+(50,287,l),
+(176,287,l)
+);
+}
+);
+width = 226;
+}
+);
+note = uni1D35.salt;
+}

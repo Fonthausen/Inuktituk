@@ -1,0 +1,30 @@
+{
+glyphname = quotedbl.deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(270,729,l),
+(96,729,l),
+(116,471,l),
+(250,471,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(502,729,l),
+(328,729,l),
+(348,471,l),
+(482,471,l)
+);
+}
+);
+width = 582;
+}
+);
+note = quotedbl.deva;
+}

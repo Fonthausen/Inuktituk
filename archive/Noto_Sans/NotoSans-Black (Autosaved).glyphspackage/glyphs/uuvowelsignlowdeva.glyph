@@ -1,0 +1,16 @@
+{
+glyphname = uuvowelsignlowdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-126);
+ref = uuvowelsigndeva;
+}
+);
+width = 0;
+}
+);
+note = uuvowelsignlowdeva;
+}

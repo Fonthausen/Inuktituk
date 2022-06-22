@@ -1,0 +1,19 @@
+{
+glyphname = ashortanusvaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = adeva;
+},
+{
+pos = (908,0);
+ref = eshortvowelsignanusvaradeva;
+}
+);
+width = 908;
+}
+);
+note = ashortanusvaradeva;
+}

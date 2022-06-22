@@ -1,0 +1,22 @@
+{
+glyphname = napostrophe;
+kernRight = a;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (6,0);
+ref = n;
+},
+{
+pos = (-16,0);
+ref = quoteright;
+}
+);
+width = 579;
+}
+);
+note = napostrophe;
+unicode = 329;
+}

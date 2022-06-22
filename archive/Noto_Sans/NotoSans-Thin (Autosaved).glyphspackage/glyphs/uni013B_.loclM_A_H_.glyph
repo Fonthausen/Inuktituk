@@ -1,0 +1,19 @@
+{
+glyphname = uni013B.loclMAH;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (204,0);
+ref = cedilla;
+}
+);
+width = 506;
+}
+);
+note = uni013B.loclMAH;
+}

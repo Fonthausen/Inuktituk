@@ -1,0 +1,21 @@
+{
+glyphname = fi;
+kernLeft = f;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (413,0);
+ref = i;
+}
+);
+width = 738;
+}
+);
+note = fi;
+unicode = 64257;
+}

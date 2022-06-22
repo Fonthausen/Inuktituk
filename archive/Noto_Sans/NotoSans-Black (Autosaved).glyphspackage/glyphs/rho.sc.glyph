@@ -1,0 +1,16 @@
+{
+glyphname = rho.sc;
+kernRight = rho.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = p.sc;
+}
+);
+width = 546;
+}
+);
+note = rho.sc;
+}

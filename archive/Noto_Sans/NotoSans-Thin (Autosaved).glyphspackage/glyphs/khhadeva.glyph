@@ -1,0 +1,20 @@
+{
+glyphname = khhadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = khadeva;
+},
+{
+pos = (428,162);
+ref = nuktadeva;
+}
+);
+width = 732;
+}
+);
+note = khhadeva;
+unicode = 2393;
+}

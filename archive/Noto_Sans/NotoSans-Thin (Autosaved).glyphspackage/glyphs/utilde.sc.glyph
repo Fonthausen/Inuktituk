@@ -1,0 +1,21 @@
+{
+glyphname = utilde.sc;
+kernLeft = u.sc;
+kernRight = u.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (83,31);
+ref = tilde;
+}
+);
+width = 569;
+}
+);
+note = utilde.sc;
+}

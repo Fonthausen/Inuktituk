@@ -1,0 +1,17 @@
+{
+glyphname = uniA67E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (289,0);
+ref = uniA67C;
+}
+);
+width = 578;
+}
+);
+note = uniA67E;
+unicode = 42622;
+}

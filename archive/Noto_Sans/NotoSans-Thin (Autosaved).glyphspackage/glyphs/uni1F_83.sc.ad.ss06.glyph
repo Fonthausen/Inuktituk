@@ -1,0 +1,28 @@
+{
+glyphname = uni1F83.sc.ad.ss06;
+kernLeft = alpha.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (44,31);
+ref = uni1FFE;
+},
+{
+pos = (225,31);
+ref = uni1FEF;
+},
+{
+pos = (502,0);
+ref = i.sc;
+}
+);
+width = 729;
+}
+);
+note = uni1F83.sc.ad.ss06;
+}

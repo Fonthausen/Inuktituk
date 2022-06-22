@@ -1,0 +1,21 @@
+{
+glyphname = uni040C;
+kernRight = uni040C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni041A;
+},
+{
+pos = (229,161);
+ref = acute;
+}
+);
+width = 697;
+}
+);
+note = uni040C;
+unicode = 1036;
+}

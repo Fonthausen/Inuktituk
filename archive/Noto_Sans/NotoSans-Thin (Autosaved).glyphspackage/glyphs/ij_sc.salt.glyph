@@ -1,0 +1,19 @@
+{
+glyphname = ij_sc.salt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i_sc.salt;
+},
+{
+pos = (180,0);
+ref = j_sc.salt;
+}
+);
+width = 465;
+}
+);
+note = ij_sc.salt;
+}

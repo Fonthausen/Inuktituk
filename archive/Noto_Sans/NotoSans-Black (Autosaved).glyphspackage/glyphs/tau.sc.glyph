@@ -1,0 +1,17 @@
+{
+glyphname = tau.sc;
+kernLeft = tau.sc;
+kernRight = tau.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t.sc;
+}
+);
+width = 509;
+}
+);
+note = tau.sc;
+}

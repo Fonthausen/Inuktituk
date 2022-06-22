@@ -1,0 +1,17 @@
+{
+glyphname = uni1ABD;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-849);
+ref = uni1ABB;
+}
+);
+width = 0;
+}
+);
+note = uni1ABD;
+unicode = 6845;
+}

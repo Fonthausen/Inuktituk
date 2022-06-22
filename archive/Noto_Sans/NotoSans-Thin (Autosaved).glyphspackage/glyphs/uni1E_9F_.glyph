@@ -1,0 +1,16 @@
+{
+glyphname = uni1E9F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = delta;
+}
+);
+width = 567;
+}
+);
+note = uni1E9F;
+unicode = 7839;
+}

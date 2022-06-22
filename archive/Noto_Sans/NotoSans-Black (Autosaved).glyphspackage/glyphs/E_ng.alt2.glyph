@@ -1,0 +1,15 @@
+{
+glyphname = Eng.alt2;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Eng;
+}
+);
+width = 834;
+}
+);
+note = Eng.alt2;
+}

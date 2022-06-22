@@ -1,0 +1,20 @@
+{
+glyphname = uni1ECA;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (429,0);
+ref = dotbelowcomb;
+}
+);
+width = 283;
+}
+);
+note = uni1ECA;
+unicode = 7882;
+}

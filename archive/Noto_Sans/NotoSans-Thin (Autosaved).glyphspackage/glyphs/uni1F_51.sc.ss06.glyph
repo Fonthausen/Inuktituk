@@ -1,0 +1,21 @@
+{
+glyphname = uni1F51.sc.ss06;
+kernLeft = upsilon.sc;
+kernRight = upsilon.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (94,31);
+ref = uni1FFE;
+}
+);
+width = 417;
+}
+);
+note = uni1F51.sc.ss06;
+}

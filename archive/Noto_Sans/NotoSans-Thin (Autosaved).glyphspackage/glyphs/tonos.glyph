@@ -1,0 +1,26 @@
+{
+glyphname = tonos;
+kernLeft = tonos;
+kernRight = tonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(120,769,l),
+(120,776,l),
+(90,776,l),
+(40,612,l),
+(40,606,l),
+(61,606,l)
+);
+}
+);
+width = 160;
+}
+);
+note = tonos;
+unicode = 900;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = haraprehalfdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = haradeva;
+},
+{
+pos = (456,0);
+ref = viramadeva;
+}
+);
+width = 504;
+}
+);
+note = haraprehalfdeva;
+}

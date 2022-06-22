@@ -1,0 +1,33 @@
+{
+glyphname = paragraphus;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(103,0,l),
+(129,0,l),
+(129,345,l),
+(444,689,l),
+(487,689,l),
+(487,714,l),
+(103,714,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(129,374,l),
+(129,689,l),
+(416,689,l)
+);
+}
+);
+width = 489;
+}
+);
+note = paragraphus;
+unicode = 11853;
+}

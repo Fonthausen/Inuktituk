@@ -1,0 +1,16 @@
+{
+glyphname = seven.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-416);
+ref = uni2077;
+}
+);
+width = 328;
+}
+);
+note = seven.dnom;
+}

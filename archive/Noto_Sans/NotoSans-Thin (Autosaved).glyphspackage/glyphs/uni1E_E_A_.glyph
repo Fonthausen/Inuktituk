@@ -1,0 +1,22 @@
+{
+glyphname = uni1EEA;
+kernLeft = U;
+kernRight = Uhorn;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (194,186);
+ref = grave;
+}
+);
+width = 712;
+}
+);
+note = uni1EEA;
+unicode = 7914;
+}

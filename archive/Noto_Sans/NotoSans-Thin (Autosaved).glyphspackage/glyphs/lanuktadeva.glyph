@@ -1,0 +1,19 @@
+{
+glyphname = lanuktadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ladeva;
+},
+{
+pos = (604,15);
+ref = nuktadeva;
+}
+);
+width = 606;
+}
+);
+note = lanuktadeva;
+}

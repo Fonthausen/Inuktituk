@@ -1,0 +1,10 @@
+{
+glyphname = nbspace.deva;
+layers = (
+{
+layerId = m01;
+width = 260;
+}
+);
+note = nbspace.deva;
+}

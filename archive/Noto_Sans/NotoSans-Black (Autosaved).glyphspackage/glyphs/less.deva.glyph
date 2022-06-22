@@ -1,0 +1,24 @@
+{
+glyphname = less.deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(531,210,l),
+(251,332,l),
+(531,471,l),
+(531,616,l),
+(55,369,l),
+(55,284,l),
+(531,65,l)
+);
+}
+);
+width = 585;
+}
+);
+note = less.deva;
+}

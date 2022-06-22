@@ -1,0 +1,21 @@
+{
+glyphname = oslashacute.sc;
+kernLeft = c.sc;
+kernRight = d.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = oslash.sc;
+},
+{
+pos = (46,0);
+ref = acutecomb.sc;
+}
+);
+width = 676;
+}
+);
+note = oslashacute.sc;
+}

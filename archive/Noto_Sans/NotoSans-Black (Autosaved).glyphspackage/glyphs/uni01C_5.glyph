@@ -1,0 +1,24 @@
+{
+glyphname = uni01C5;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (734,0);
+ref = z;
+},
+{
+pos = (728,0);
+ref = caron;
+}
+);
+width = 1241;
+}
+);
+note = uni01C5;
+unicode = 453;
+}

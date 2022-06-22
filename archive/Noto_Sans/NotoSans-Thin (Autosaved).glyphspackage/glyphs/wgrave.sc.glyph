@@ -1,0 +1,21 @@
+{
+glyphname = wgrave.sc;
+kernLeft = w.sc;
+kernRight = w.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = w.sc;
+},
+{
+pos = (66,0);
+ref = gravecomb.sc;
+}
+);
+width = 695;
+}
+);
+note = wgrave.sc;
+}

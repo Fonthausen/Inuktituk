@@ -1,0 +1,16 @@
+{
+glyphname = uni203E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = overscore;
+}
+);
+width = 500;
+}
+);
+note = uni203E;
+unicode = 8254;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = uni02F7;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-795);
+ref = tilde;
+}
+);
+width = 405;
+}
+);
+note = uni02F7;
+unicode = 759;
+}

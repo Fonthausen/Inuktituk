@@ -1,0 +1,19 @@
+{
+glyphname = ngaprehalfdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ngadeva;
+},
+{
+pos = (516,0);
+ref = viramadeva;
+}
+);
+width = 737;
+}
+);
+note = ngaprehalfdeva;
+}

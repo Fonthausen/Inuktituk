@@ -1,0 +1,25 @@
+{
+glyphname = uni2042;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (302,0);
+ref = asterisk;
+},
+{
+pos = (0,-415);
+ref = asterisk;
+},
+{
+pos = (601,-415);
+ref = asterisk;
+}
+);
+width = 1138;
+}
+);
+note = uni2042;
+unicode = 8258;
+}

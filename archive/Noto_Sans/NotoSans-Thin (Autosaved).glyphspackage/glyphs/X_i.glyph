@@ -1,0 +1,41 @@
+{
+glyphname = Xi;
+kernRight = Epsilontonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(512,714,l),
+(82,714,l),
+(82,687,l),
+(512,687,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(472,389,l),
+(122,389,l),
+(122,362,l),
+(472,362,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(532,27,l),
+(62,27,l),
+(62,0,l),
+(532,0,l)
+);
+}
+);
+width = 594;
+}
+);
+note = Xi;
+unicode = 926;
+}

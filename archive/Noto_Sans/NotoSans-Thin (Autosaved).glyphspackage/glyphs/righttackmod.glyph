@@ -1,0 +1,26 @@
+{
+glyphname = righttackmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,350,l),
+(86,350,l),
+(86,198,l),
+(117,198,l),
+(117,257,l),
+(230,257,l),
+(230,291,l),
+(117,291,l)
+);
+}
+);
+width = 300;
+}
+);
+note = righttackmod;
+unicode = 43883;
+}

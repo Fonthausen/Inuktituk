@@ -1,0 +1,19 @@
+{
+glyphname = i.loclTRK.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (57,38);
+ref = dotaccent;
+}
+);
+width = 395;
+}
+);
+note = i.loclTRK.sc;
+}

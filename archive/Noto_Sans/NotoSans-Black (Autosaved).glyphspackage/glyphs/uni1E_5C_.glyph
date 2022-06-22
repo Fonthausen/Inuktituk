@@ -1,0 +1,24 @@
+{
+glyphname = uni1E5C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (717,0);
+ref = dotbelowcomb;
+},
+{
+pos = (122,161);
+ref = macronmod;
+}
+);
+width = 677;
+}
+);
+note = uni1E5C;
+unicode = 7772;
+}

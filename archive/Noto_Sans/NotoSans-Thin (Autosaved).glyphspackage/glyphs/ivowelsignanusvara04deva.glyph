@@ -1,0 +1,19 @@
+{
+glyphname = ivowelsignanusvara04deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ivowelsign04deva;
+},
+{
+pos = (754,30);
+ref = anusvaradeva;
+}
+);
+width = 225;
+}
+);
+note = ivowelsignanusvara04deva;
+}

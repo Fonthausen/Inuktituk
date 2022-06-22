@@ -1,0 +1,22 @@
+{
+glyphname = wacute;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (316,0);
+ref = acute;
+}
+);
+width = 910;
+}
+);
+note = wacute;
+unicode = 7811;
+}

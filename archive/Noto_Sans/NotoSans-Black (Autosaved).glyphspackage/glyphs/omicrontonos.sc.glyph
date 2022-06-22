@@ -1,0 +1,17 @@
+{
+glyphname = omicrontonos.sc;
+kernLeft = theta.sc;
+kernRight = theta.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+}
+);
+width = 676;
+}
+);
+note = omicrontonos.sc;
+}

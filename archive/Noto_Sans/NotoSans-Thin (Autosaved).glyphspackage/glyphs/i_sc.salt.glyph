@@ -1,0 +1,21 @@
+{
+glyphname = i_sc.salt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(109,559,l),
+(83,559,l),
+(83,0,l),
+(109,0,l)
+);
+}
+);
+width = 180;
+}
+);
+note = i_sc.salt;
+}

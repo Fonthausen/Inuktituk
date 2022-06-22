@@ -1,0 +1,20 @@
+{
+glyphname = zadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = jadeva;
+},
+{
+pos = (605,56);
+ref = nuktadeva;
+}
+);
+width = 884;
+}
+);
+note = zadeva;
+unicode = 2395;
+}

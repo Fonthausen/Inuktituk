@@ -1,0 +1,24 @@
+{
+glyphname = tetallcy;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-59,572,l),
+(218,572,l),
+(128,0,l),
+(319,0,l),
+(431,714,l),
+(-59,714,l)
+);
+}
+);
+width = 476;
+}
+);
+note = tetallcy;
+unicode = 7300;
+}

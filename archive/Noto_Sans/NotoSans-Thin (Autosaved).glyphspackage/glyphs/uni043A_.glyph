@@ -1,0 +1,31 @@
+{
+glyphname = uni043A;
+kernLeft = uni0432;
+kernRight = uni0436;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,528,l),
+(91,528,l),
+(91,0,l),
+(117,0,l),
+(117,267,l),
+(372,0,l),
+(408,0,l),
+(150,270,l),
+(397,528,l),
+(363,528,l),
+(117,271,l)
+);
+}
+);
+width = 417;
+}
+);
+note = uni043A;
+unicode = 1082;
+}

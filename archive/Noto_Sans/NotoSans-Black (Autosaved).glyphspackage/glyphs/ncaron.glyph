@@ -1,0 +1,20 @@
+{
+glyphname = ncaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (74,0);
+ref = caron;
+}
+);
+width = 670;
+}
+);
+note = ncaron;
+unicode = 328;
+}

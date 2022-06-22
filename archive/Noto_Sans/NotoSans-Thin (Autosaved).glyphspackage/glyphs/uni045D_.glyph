@@ -1,0 +1,21 @@
+{
+glyphname = uni045D;
+kernLeft = uni0432;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni0438;
+},
+{
+pos = (118,0);
+ref = grave;
+}
+);
+width = 574;
+}
+);
+note = uni045D;
+unicode = 1117;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = Ygrave;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (129,186);
+ref = grave;
+}
+);
+width = 505;
+}
+);
+note = Ygrave;
+unicode = 7922;
+}

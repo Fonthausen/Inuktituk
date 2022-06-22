@@ -1,0 +1,39 @@
+{
+glyphname = lcaron;
+kernLeft = b;
+kernRight = dcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,760,l),
+(312,728,o),
+(296,643,o),
+(288,614,q),
+(288,600,l),
+(402,600,l),
+(430,644,o),
+(468,712,o),
+(489,749,q),
+(489,760,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(66,760,l),
+(66,0,l),
+(257,0,l),
+(257,760,l)
+);
+}
+);
+width = 323;
+}
+);
+note = lcaron;
+unicode = 318;
+}

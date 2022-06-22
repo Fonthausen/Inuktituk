@@ -1,0 +1,25 @@
+{
+glyphname = Tironiansignet;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(523,633,l),
+(523,714,l),
+(38,714,l),
+(38,587,l),
+(338,587,l),
+(129,0,l),
+(308,0,l)
+);
+}
+);
+width = 556;
+}
+);
+note = Tironiansignet;
+unicode = 11858;
+}

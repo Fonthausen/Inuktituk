@@ -1,0 +1,20 @@
+{
+glyphname = uni01D4;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (119,0);
+ref = caron;
+}
+);
+width = 573;
+}
+);
+note = uni01D4;
+unicode = 468;
+}

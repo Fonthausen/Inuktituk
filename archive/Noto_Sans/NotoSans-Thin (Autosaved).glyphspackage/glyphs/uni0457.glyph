@@ -1,0 +1,21 @@
+{
+glyphname = uni0457;
+kernRight = icircumflex;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = dotlessi;
+},
+{
+pos = (-182,0);
+ref = dieresis;
+}
+);
+width = 207;
+}
+);
+note = uni0457;
+unicode = 1111;
+}

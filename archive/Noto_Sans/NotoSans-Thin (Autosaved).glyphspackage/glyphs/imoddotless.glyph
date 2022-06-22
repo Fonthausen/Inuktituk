@@ -1,0 +1,21 @@
+{
+glyphname = imoddotless;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(59,287,l),
+(75,287,l),
+(75,604,l),
+(59,604,l)
+);
+}
+);
+width = 135;
+}
+);
+note = imoddotless;
+}

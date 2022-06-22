@@ -1,0 +1,24 @@
+{
+glyphname = gamma.sc;
+kernRight = gamma.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(247,446,l),
+(399,446,l),
+(399,591,l),
+(60,591,l),
+(60,0,l),
+(247,0,l)
+);
+}
+);
+width = 438;
+}
+);
+note = gamma.sc;
+}

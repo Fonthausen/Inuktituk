@@ -1,0 +1,21 @@
+{
+glyphname = Ecaron;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (139,186);
+ref = caron;
+}
+);
+width = 550;
+}
+);
+note = Ecaron;
+unicode = 282;
+}

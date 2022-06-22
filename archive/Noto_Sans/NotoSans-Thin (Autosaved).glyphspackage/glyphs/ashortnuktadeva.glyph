@@ -1,0 +1,23 @@
+{
+glyphname = ashortnuktadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = adeva;
+},
+{
+pos = (670,0);
+ref = eshortvowelsigndeva;
+},
+{
+pos = (538,104);
+ref = nuktadeva;
+}
+);
+width = 670;
+}
+);
+note = ashortnuktadeva;
+}

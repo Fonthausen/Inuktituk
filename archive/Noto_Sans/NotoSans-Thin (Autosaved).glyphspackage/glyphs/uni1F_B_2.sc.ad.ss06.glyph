@@ -1,0 +1,24 @@
+{
+glyphname = uni1FB2.sc.ad.ss06;
+kernLeft = alpha.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (137,31);
+ref = uni1FEF;
+},
+{
+pos = (502,0);
+ref = i.sc;
+}
+);
+width = 729;
+}
+);
+note = uni1FB2.sc.ad.ss06;
+}

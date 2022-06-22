@@ -1,0 +1,17 @@
+{
+glyphname = uni0343;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-90,0);
+ref = uni1FBF;
+}
+);
+width = 0;
+}
+);
+note = uni0343;
+unicode = 835;
+}

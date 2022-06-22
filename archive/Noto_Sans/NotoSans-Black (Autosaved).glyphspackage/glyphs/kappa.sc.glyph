@@ -1,0 +1,15 @@
+{
+glyphname = kappa.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = k.sc;
+}
+);
+width = 596;
+}
+);
+note = kappa.sc;
+}

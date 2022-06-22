@@ -1,0 +1,26 @@
+{
+glyphname = Pi;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(271,556,l),
+(485,556,l),
+(485,0,l),
+(679,0,l),
+(679,714,l),
+(77,714,l),
+(77,0,l),
+(271,0,l)
+);
+}
+);
+width = 756;
+}
+);
+note = Pi;
+unicode = 928;
+}

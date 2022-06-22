@@ -1,0 +1,23 @@
+{
+glyphname = danuktaraprehalfdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = daradeva;
+},
+{
+pos = (426,0);
+ref = viramadeva;
+},
+{
+pos = (504,0);
+ref = nuktadeva;
+}
+);
+width = 469;
+}
+);
+note = danuktaraprehalfdeva;
+}

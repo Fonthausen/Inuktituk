@@ -1,0 +1,23 @@
+{
+glyphname = iinuktaanusvaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ideva;
+},
+{
+pos = (532,0);
+ref = rephanusvaradeva;
+},
+{
+pos = (505,-28);
+ref = nuktadeva;
+}
+);
+width = 540;
+}
+);
+note = iinuktaanusvaradeva;
+}

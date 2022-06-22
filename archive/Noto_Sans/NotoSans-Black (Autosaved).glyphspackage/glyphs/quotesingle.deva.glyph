@@ -1,0 +1,21 @@
+{
+glyphname = quotesingle.deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(268,729,l),
+(94,729,l),
+(114,471,l),
+(248,471,l)
+);
+}
+);
+width = 348;
+}
+);
+note = quotesingle.deva;
+}

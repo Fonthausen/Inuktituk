@@ -1,0 +1,21 @@
+{
+glyphname = wdieresis.sc;
+kernLeft = w.sc;
+kernRight = w.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = w.sc;
+},
+{
+pos = (146,0);
+ref = uni0308.sc;
+}
+);
+width = 899;
+}
+);
+note = wdieresis.sc;
+}

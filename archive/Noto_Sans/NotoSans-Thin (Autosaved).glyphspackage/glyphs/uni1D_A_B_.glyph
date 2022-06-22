@@ -1,0 +1,24 @@
+{
+glyphname = uni1DAB;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(268,302,l),
+(76,302,l),
+(76,604,l),
+(59,604,l),
+(59,287,l),
+(268,287,l)
+);
+}
+);
+width = 284;
+}
+);
+note = uni1DAB;
+unicode = 7595;
+}

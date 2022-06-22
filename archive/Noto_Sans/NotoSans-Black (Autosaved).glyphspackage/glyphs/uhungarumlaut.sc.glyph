@@ -1,0 +1,21 @@
+{
+glyphname = uhungarumlaut.sc;
+kernLeft = u.sc;
+kernRight = u.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (84,38);
+ref = hungarumlaut;
+}
+);
+width = 641;
+}
+);
+note = uhungarumlaut.sc;
+}

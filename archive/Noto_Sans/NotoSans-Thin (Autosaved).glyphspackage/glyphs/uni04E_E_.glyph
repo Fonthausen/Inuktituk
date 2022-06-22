@@ -1,0 +1,22 @@
+{
+glyphname = uni04EE;
+kernLeft = uni040E;
+kernRight = uni040E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni0423;
+},
+{
+pos = (129,186);
+ref = macronmod;
+}
+);
+width = 566;
+}
+);
+note = uni04EE;
+unicode = 1262;
+}

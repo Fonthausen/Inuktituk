@@ -1,0 +1,22 @@
+{
+glyphname = Ccaron;
+kernLeft = C;
+kernRight = C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (104,161);
+ref = caron;
+}
+);
+width = 649;
+}
+);
+note = Ccaron;
+unicode = 268;
+}

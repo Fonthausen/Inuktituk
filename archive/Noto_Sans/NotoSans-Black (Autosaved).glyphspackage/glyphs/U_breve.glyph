@@ -1,0 +1,22 @@
+{
+glyphname = Ubreve;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (141,161);
+ref = breve;
+}
+);
+width = 757;
+}
+);
+note = Ubreve;
+unicode = 364;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = uni1EF0;
+kernLeft = U;
+kernRight = Uhorn;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Uhorn;
+},
+{
+pos = (638,0);
+ref = dotbelowcomb;
+}
+);
+width = 712;
+}
+);
+note = uni1EF0;
+unicode = 7920;
+}

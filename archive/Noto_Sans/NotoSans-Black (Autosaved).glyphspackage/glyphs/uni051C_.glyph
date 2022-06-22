@@ -1,0 +1,16 @@
+{
+glyphname = uni051C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = W;
+}
+);
+width = 1039;
+}
+);
+note = uni051C;
+unicode = 1308;
+}

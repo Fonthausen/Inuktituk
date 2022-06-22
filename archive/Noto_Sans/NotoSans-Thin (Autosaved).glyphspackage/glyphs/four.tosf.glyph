@@ -1,0 +1,16 @@
+{
+glyphname = four.tosf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-21,0);
+ref = four.osf;
+}
+);
+width = 529;
+}
+);
+note = four.tosf;
+}

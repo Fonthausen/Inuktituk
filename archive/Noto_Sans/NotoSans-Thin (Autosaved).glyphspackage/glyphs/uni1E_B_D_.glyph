@@ -1,0 +1,22 @@
+{
+glyphname = uni1EBD;
+kernLeft = c;
+kernRight = b;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (53,0);
+ref = tilde;
+}
+);
+width = 540;
+}
+);
+note = uni1EBD;
+unicode = 7869;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = oacute;
+kernLeft = c;
+kernRight = b;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (204,0);
+ref = acute;
+}
+);
+width = 575;
+}
+);
+note = oacute;
+unicode = 243;
+}

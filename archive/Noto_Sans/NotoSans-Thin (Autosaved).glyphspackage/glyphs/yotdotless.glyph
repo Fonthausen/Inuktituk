@@ -1,0 +1,15 @@
+{
+glyphname = yotdotless;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni0237;
+}
+);
+width = 207;
+}
+);
+note = yotdotless;
+}

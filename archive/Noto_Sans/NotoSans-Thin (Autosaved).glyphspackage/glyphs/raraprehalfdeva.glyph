@@ -1,0 +1,19 @@
+{
+glyphname = raraprehalfdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = raprehalfdeva;
+},
+{
+pos = (454,0);
+ref = vattudeva;
+}
+);
+width = 379;
+}
+);
+note = raraprehalfdeva;
+}

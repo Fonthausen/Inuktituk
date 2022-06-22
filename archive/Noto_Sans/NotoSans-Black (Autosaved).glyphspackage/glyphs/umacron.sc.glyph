@@ -1,0 +1,21 @@
+{
+glyphname = umacron.sc;
+kernLeft = u.sc;
+kernRight = u.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (107,38);
+ref = macronmod;
+}
+);
+width = 641;
+}
+);
+note = umacron.sc;
+}

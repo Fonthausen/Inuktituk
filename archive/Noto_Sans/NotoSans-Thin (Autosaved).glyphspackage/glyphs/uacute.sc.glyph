@@ -1,0 +1,21 @@
+{
+glyphname = uacute.sc;
+kernLeft = u.sc;
+kernRight = u.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = u.sc;
+},
+{
+pos = (18,0);
+ref = acutecomb.sc;
+}
+);
+width = 569;
+}
+);
+note = uacute.sc;
+}

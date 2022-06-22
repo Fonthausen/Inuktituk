@@ -1,0 +1,18 @@
+{
+glyphname = uni045B;
+kernLeft = uni0452;
+kernRight = uni0452;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = hbar;
+}
+);
+width = 573;
+}
+);
+note = uni045B;
+unicode = 1115;
+}

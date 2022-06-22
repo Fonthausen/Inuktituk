@@ -1,0 +1,19 @@
+{
+glyphname = jhanuktaradevaNEP;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = jharadevaNEP;
+},
+{
+pos = (659,0);
+ref = nuktadeva;
+}
+);
+width = 1077;
+}
+);
+note = jhanuktaradevaNEP;
+}

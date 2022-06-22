@@ -1,0 +1,17 @@
+{
+glyphname = chi.sc;
+kernLeft = chi.sc;
+kernRight = chi.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = x.sc;
+}
+);
+width = 642;
+}
+);
+note = chi.sc;
+}

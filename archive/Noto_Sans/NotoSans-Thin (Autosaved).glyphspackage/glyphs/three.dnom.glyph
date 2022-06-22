@@ -1,0 +1,16 @@
+{
+glyphname = three.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-416);
+ref = uni00B3;
+}
+);
+width = 328;
+}
+);
+note = three.dnom;
+}

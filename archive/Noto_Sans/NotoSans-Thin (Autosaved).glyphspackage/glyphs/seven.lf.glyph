@@ -1,0 +1,24 @@
+{
+glyphname = seven.lf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(465,697,l),
+(465,714,l),
+(13,714,l),
+(13,689,l),
+(433,689,l),
+(138,0,l),
+(167,0,l)
+);
+}
+);
+width = 490;
+}
+);
+note = seven.lf;
+}

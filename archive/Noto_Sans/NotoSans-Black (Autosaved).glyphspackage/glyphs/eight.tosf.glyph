@@ -1,0 +1,16 @@
+{
+glyphname = eight.tosf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-2,0);
+ref = eight.osf;
+}
+);
+width = 606;
+}
+);
+note = eight.tosf;
+}

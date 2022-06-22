@@ -1,0 +1,26 @@
+{
+glyphname = uni1DC8;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(171,622,l),
+(183,638,l),
+(56,724,l),
+(-58,648,l),
+(-171,723,l),
+(-183,706,l),
+(-52,621,l),
+(58,697,l)
+);
+}
+);
+width = 0;
+}
+);
+note = uni1DC8;
+unicode = 7624;
+}

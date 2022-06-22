@@ -1,0 +1,22 @@
+{
+glyphname = ydieresis;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (-72,0);
+ref = dieresis;
+}
+);
+width = 428;
+}
+);
+note = ydieresis;
+unicode = 255;
+}

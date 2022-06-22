@@ -1,0 +1,19 @@
+{
+glyphname = ocandravowelrephcandrabindudeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = aavowelsigndeva;
+},
+{
+pos = (225,0);
+ref = ecandravowelrephcandrabindudeva;
+}
+);
+width = 225;
+}
+);
+note = ocandravowelrephcandrabindudeva;
+}

@@ -1,0 +1,29 @@
+{
+glyphname = uni1FAB;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (435,0);
+ref = uni03A9;
+},
+{
+pos = (-49,-62);
+ref = uni1FFE;
+},
+{
+pos = (169,-62);
+ref = uni1FEF;
+},
+{
+pos = (692,0);
+ref = uni037A;
+}
+);
+width = 1217;
+}
+);
+note = uni1FAB;
+unicode = 8107;
+}

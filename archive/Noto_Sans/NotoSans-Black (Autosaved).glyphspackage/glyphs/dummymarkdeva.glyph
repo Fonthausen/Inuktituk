@@ -1,0 +1,10 @@
+{
+glyphname = dummymarkdeva;
+layers = (
+{
+layerId = m01;
+width = 0;
+}
+);
+note = dummymarkdeva;
+}

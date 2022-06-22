@@ -1,0 +1,31 @@
+{
+glyphname = dbldandadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(596,0,l),
+(596,622,l),
+(419,622,l),
+(419,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(342,0,l),
+(342,622,l),
+(165,622,l),
+(165,0,l)
+);
+}
+);
+width = 673;
+}
+);
+note = dbldandadeva;
+unicode = 2405;
+}

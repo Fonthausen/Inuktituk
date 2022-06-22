@@ -1,0 +1,19 @@
+{
+glyphname = danuktarvocalicdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = darvocalicdeva;
+},
+{
+pos = (472,70);
+ref = nuktadeva;
+}
+);
+width = 582;
+}
+);
+note = danuktarvocalicdeva;
+}

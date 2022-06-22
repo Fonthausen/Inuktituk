@@ -1,0 +1,16 @@
+{
+glyphname = viramalowdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-139);
+ref = viramadeva;
+}
+);
+width = 0;
+}
+);
+note = viramalowdeva;
+}

@@ -1,0 +1,16 @@
+{
+glyphname = uni0245;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Lambda;
+}
+);
+width = 557;
+}
+);
+note = uni0245;
+unicode = 581;
+}

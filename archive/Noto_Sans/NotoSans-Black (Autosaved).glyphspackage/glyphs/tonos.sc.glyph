@@ -1,0 +1,15 @@
+{
+glyphname = tonos.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = tonos;
+}
+);
+width = 326;
+}
+);
+note = tonos.sc;
+}

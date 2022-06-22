@@ -1,0 +1,22 @@
+{
+glyphname = anudattadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-98,-125,l),
+(-98,-99,l),
+(-394,-99,l),
+(-394,-125,l)
+);
+}
+);
+width = 0;
+}
+);
+note = anudattadeva;
+unicode = 2386;
+}

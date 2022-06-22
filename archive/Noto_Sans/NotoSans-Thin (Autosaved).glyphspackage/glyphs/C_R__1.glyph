@@ -1,0 +1,10 @@
+{
+glyphname = CR_1;
+layers = (
+{
+layerId = m01;
+width = 260;
+}
+);
+note = CR_1;
+}

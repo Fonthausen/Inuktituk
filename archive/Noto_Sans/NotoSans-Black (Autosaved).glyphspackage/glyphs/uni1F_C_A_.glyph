@@ -1,0 +1,21 @@
+{
+glyphname = uni1FCA;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (276,0);
+ref = H;
+},
+{
+pos = (-30,-62);
+ref = uni1FEF;
+}
+);
+width = 1042;
+}
+);
+note = uni1FCA;
+unicode = 8138;
+}

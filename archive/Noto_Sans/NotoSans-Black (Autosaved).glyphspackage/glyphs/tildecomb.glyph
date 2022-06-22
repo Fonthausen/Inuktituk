@@ -1,0 +1,17 @@
+{
+glyphname = tildecomb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-616,0);
+ref = tilde;
+}
+);
+width = 0;
+}
+);
+note = tildecomb;
+unicode = 771;
+}

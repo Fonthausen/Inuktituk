@@ -1,0 +1,16 @@
+{
+glyphname = zero.numr;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-130);
+ref = uni2070;
+}
+);
+width = 328;
+}
+);
+note = zero.numr;
+}

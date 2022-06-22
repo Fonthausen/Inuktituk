@@ -1,0 +1,25 @@
+{
+glyphname = uniA8F4;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (364,-594);
+ref = candrabindudeva;
+},
+{
+pos = (275,51);
+ref = viramadeva;
+},
+{
+pos = (364,-317);
+ref = candrabindudeva;
+}
+);
+width = 481;
+}
+);
+note = uniA8F4;
+unicode = 43252;
+}

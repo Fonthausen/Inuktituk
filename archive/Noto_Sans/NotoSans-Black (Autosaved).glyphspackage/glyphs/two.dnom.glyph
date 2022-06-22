@@ -1,0 +1,16 @@
+{
+glyphname = two.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-416);
+ref = uni00B2;
+}
+);
+width = 399;
+}
+);
+note = two.dnom;
+}

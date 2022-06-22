@@ -1,0 +1,17 @@
+{
+glyphname = uni032C;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-261,-805);
+ref = caron;
+}
+);
+width = 0;
+}
+);
+note = uni032C;
+unicode = 812;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = iitalicDoubleStruckdotless;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,536,l),
+(145,536,l),
+(32,0,l),
+(205,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(254,483,l),
+(162,49,l),
+(95,49,l),
+(187,483,l)
+);
+}
+);
+width = 343;
+}
+);
+note = iitalicDoubleStruckdotless;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = uni1F3B.salt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (273,0);
+ref = I.salt;
+},
+{
+pos = (-48,-62);
+ref = uni1FFE;
+},
+{
+pos = (133,-62);
+ref = uni1FEF;
+}
+);
+width = 505;
+}
+);
+note = uni1F3B.salt;
+}

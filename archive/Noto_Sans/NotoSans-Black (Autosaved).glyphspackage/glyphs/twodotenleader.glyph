@@ -1,0 +1,20 @@
+{
+glyphname = twodotenleader;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (312,0);
+ref = period;
+},
+{
+ref = period;
+}
+);
+width = 600;
+}
+);
+note = twodotenleader;
+unicode = 8229;
+}

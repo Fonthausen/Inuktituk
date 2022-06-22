@@ -1,0 +1,27 @@
+{
+glyphname = uni1F89;
+kernLeft = tonos;
+kernRight = tonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (69,0);
+ref = A;
+},
+{
+pos = (-49,-62);
+ref = uni1FFE;
+},
+{
+pos = (298,0);
+ref = uni037A;
+}
+);
+width = 795;
+}
+);
+note = uni1F89;
+unicode = 8073;
+}

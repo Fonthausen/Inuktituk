@@ -1,0 +1,16 @@
+{
+glyphname = zero.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-416);
+ref = uni2070;
+}
+);
+width = 328;
+}
+);
+note = zero.dnom;
+}

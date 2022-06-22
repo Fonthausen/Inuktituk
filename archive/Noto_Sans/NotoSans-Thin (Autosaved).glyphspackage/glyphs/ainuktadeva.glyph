@@ -1,0 +1,23 @@
+{
+glyphname = ainuktadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = edeva;
+},
+{
+pos = (512,0);
+ref = evowelsigndeva;
+},
+{
+pos = (446,75);
+ref = nuktadeva;
+}
+);
+width = 503;
+}
+);
+note = ainuktadeva;
+}

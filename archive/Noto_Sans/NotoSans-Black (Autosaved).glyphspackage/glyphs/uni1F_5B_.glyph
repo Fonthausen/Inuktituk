@@ -1,0 +1,27 @@
+{
+glyphname = uni1F5B;
+kernLeft = Upsilontonos;
+kernRight = Upsilontonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (525,0);
+ref = Y;
+},
+{
+pos = (-49,-62);
+ref = uni1FFE;
+},
+{
+pos = (169,-62);
+ref = uni1FEF;
+}
+);
+width = 1189;
+}
+);
+note = uni1F5B;
+unicode = 8027;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = Etatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (256,0);
+ref = H;
+},
+{
+pos = (-30,-62);
+ref = tonos;
+}
+);
+width = 1022;
+}
+);
+note = Etatonos;
+unicode = 905;
+}

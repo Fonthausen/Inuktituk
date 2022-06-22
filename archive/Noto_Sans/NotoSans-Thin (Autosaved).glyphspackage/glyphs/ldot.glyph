@@ -1,0 +1,21 @@
+{
+glyphname = ldot;
+kernLeft = b;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (142,-300);
+ref = dotaccent;
+}
+);
+width = 207;
+}
+);
+note = ldot;
+unicode = 320;
+}

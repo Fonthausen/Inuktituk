@@ -1,0 +1,23 @@
+{
+glyphname = uni1F08;
+kernLeft = tonos;
+kernRight = tonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (37,0);
+ref = A;
+},
+{
+pos = (-28,-62);
+ref = uni1FBF;
+}
+);
+width = 614;
+}
+);
+note = uni1F08;
+unicode = 7944;
+}

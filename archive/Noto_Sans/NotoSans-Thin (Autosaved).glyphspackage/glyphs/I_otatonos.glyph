@@ -1,0 +1,21 @@
+{
+glyphname = Iotatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (110,0);
+ref = I;
+},
+{
+pos = (-30,-62);
+ref = tonos;
+}
+);
+width = 393;
+}
+);
+note = Iotatonos;
+unicode = 906;
+}

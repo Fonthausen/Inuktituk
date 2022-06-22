@@ -1,0 +1,22 @@
+{
+glyphname = alphatonos;
+kernLeft = alphatonos;
+kernRight = alphatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (226,0);
+ref = tonos;
+}
+);
+width = 599;
+}
+);
+note = alphatonos;
+unicode = 940;
+}

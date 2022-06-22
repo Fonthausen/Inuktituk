@@ -1,0 +1,19 @@
+{
+glyphname = tthanuktaprehalfdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = tthadeva;
+},
+{
+pos = (363,0);
+ref = viramanuktadeva;
+}
+);
+width = 549;
+}
+);
+note = tthanuktaprehalfdeva;
+}

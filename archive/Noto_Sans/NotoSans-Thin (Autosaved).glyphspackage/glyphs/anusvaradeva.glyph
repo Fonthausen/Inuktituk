@@ -1,0 +1,30 @@
+{
+glyphname = anusvaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-125,732,o),
+(-113,732,qs),
+(-100,732,o),
+(-83,751,o),
+(-83,770,qs),
+(-83,787,o),
+(-99,808,o),
+(-113,808,qs),
+(-126,808,o),
+(-144,788,o),
+(-144,770,qs),
+(-144,751,o)
+);
+}
+);
+width = 0;
+}
+);
+note = anusvaradeva;
+unicode = 2306;
+}

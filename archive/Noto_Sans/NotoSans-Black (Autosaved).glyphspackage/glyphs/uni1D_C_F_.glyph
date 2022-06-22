@@ -1,0 +1,17 @@
+{
+glyphname = uni1DCF;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-256,-824);
+ref = uni035B;
+}
+);
+width = 0;
+}
+);
+note = uni1DCF;
+unicode = 7631;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = uni1E35;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (59,-740);
+ref = macronmod;
+}
+);
+width = 454;
+}
+);
+note = uni1E35;
+unicode = 7733;
+}

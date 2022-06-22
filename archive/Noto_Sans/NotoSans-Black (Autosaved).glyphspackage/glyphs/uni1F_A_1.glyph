@@ -1,0 +1,26 @@
+{
+glyphname = uni1FA1;
+kernLeft = alphatonos;
+kernRight = delta;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (309,0);
+ref = uni1FFE;
+},
+{
+pos = (327,0);
+ref = uni037A;
+}
+);
+width = 923;
+}
+);
+note = uni1FA1;
+unicode = 8097;
+}

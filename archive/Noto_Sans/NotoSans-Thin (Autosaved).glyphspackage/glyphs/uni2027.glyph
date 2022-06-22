@@ -1,0 +1,17 @@
+{
+glyphname = uni2027;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,193);
+ref = period;
+}
+);
+width = 220;
+}
+);
+note = uni2027;
+unicode = 8231;
+}

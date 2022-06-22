@@ -1,0 +1,25 @@
+{
+glyphname = uni2156;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-130);
+ref = uni00B2;
+},
+{
+pos = (374,0);
+ref = fraction;
+},
+{
+pos = (504,-416);
+ref = uni2075;
+}
+);
+width = 828;
+}
+);
+note = uni2156;
+unicode = 8534;
+}

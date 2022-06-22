@@ -1,0 +1,25 @@
+{
+glyphname = uniA8FA;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(46,632,l),
+(187,896,l),
+(42,896,l),
+(-4,778,l),
+(-49,896,l),
+(-186,896,l),
+(-45,632,l)
+);
+}
+);
+width = 0;
+}
+);
+note = uniA8FA;
+unicode = 43258;
+}

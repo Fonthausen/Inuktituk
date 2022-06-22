@@ -1,0 +1,16 @@
+{
+glyphname = uni1FFD.case;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-62);
+ref = tonos;
+}
+);
+width = 160;
+}
+);
+note = uni1FFD.case;
+}

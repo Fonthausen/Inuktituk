@@ -1,0 +1,28 @@
+{
+glyphname = uni03B1030403140300;
+kernRight = alphatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (99,0);
+ref = macronmod;
+},
+{
+pos = (30,147);
+ref = uni1FFE;
+},
+{
+pos = (248,147);
+ref = uni1FEF;
+}
+);
+width = 677;
+}
+);
+note = uni03B1030403140300;
+}

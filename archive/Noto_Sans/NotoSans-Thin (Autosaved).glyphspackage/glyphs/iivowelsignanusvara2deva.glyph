@@ -1,0 +1,19 @@
+{
+glyphname = iivowelsignanusvara2deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iivowelsign2deva;
+},
+{
+pos = (253,46);
+ref = anusvaradeva;
+}
+);
+width = 225;
+}
+);
+note = iivowelsignanusvara2deva;
+}

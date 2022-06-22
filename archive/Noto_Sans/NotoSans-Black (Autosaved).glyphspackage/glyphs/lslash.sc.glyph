@@ -1,0 +1,33 @@
+{
+glyphname = lslash.sc;
+kernLeft = b.sc;
+kernRight = lcaron.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,288,l),
+(411,380,l),
+(334,507,l),
+(250,455,l),
+(250,591,l),
+(60,591,l),
+(60,363,l),
+(-41,305,l),
+(33,178,l),
+(60,197,l),
+(60,0,l),
+(467,0,l),
+(467,151,l),
+(250,151,l)
+);
+}
+);
+width = 501;
+}
+);
+note = lslash.sc;
+}

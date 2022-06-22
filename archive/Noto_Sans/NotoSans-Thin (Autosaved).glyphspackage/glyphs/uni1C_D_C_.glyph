@@ -1,0 +1,17 @@
+{
+glyphname = uni1CDC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-922);
+ref = udattadeva;
+}
+);
+width = 0;
+}
+);
+note = uni1CDC;
+unicode = 7388;
+}

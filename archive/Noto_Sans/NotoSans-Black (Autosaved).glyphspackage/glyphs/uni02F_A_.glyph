@@ -1,0 +1,24 @@
+{
+glyphname = uni02FA;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,628,l),
+(193,628,l),
+(193,455,l),
+(246,455,l),
+(246,681,l),
+(40,681,l)
+);
+}
+);
+width = 286;
+}
+);
+note = uni02FA;
+unicode = 762;
+}

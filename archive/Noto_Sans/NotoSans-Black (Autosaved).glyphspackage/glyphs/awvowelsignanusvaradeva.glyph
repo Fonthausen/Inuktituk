@@ -1,0 +1,19 @@
+{
+glyphname = awvowelsignanusvaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = aavowelsigndeva;
+},
+{
+pos = (318,0);
+ref = ayanusvaravowelsigndeva;
+}
+);
+width = 317;
+}
+);
+note = awvowelsignanusvaradeva;
+}

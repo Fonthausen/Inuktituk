@@ -1,0 +1,21 @@
+{
+glyphname = dcaron.sc;
+kernLeft = b.sc;
+kernRight = d.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (112,31);
+ref = caron;
+}
+);
+width = 572;
+}
+);
+note = dcaron.sc;
+}

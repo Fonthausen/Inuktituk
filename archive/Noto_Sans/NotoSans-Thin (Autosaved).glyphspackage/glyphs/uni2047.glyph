@@ -1,0 +1,20 @@
+{
+glyphname = uni2047;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (376,0);
+ref = question;
+},
+{
+ref = question;
+}
+);
+width = 789;
+}
+);
+note = uni2047;
+unicode = 8263;
+}

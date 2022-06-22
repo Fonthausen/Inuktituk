@@ -1,0 +1,32 @@
+{
+glyphname = lambda.sc;
+kernLeft = alpha.sc;
+kernRight = alpha.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(283,348,ls),
+(291,383,o),
+(302,434,o),
+(306,462,q),
+(311,433,o),
+(321,383,o),
+(331,349,q),
+(412,0,l),
+(613,0,l),
+(429,593,l),
+(184,593,l),
+(0,0,l),
+(202,0,l)
+);
+}
+);
+width = 613;
+}
+);
+note = lambda.sc;
+}

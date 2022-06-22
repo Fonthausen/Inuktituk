@@ -1,0 +1,19 @@
+{
+glyphname = icircumflex.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-53,31);
+ref = circumflex;
+}
+);
+width = 227;
+}
+);
+note = icircumflex.sc;
+}

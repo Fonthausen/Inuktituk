@@ -1,0 +1,16 @@
+{
+glyphname = six.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-416);
+ref = uni2076;
+}
+);
+width = 399;
+}
+);
+note = six.dnom;
+}

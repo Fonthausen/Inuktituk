@@ -1,0 +1,34 @@
+{
+glyphname = oevowelsignanusvaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-71,837,qs),
+(-71,896,o),
+(-159,896,qs),
+(-248,896,o),
+(-248,837,qs),
+(-248,778,o),
+(-159,778,qs),
+(-71,778,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(-70,618,l),
+(-70,766,l),
+(-247,766,l),
+(-247,618,l)
+);
+}
+);
+width = 0;
+}
+);
+note = oevowelsignanusvaradeva;
+}

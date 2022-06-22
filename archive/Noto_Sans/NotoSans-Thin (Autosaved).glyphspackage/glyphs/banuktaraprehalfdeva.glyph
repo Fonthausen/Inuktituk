@@ -1,0 +1,19 @@
+{
+glyphname = banuktaraprehalfdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = baraprehalfdeva;
+},
+{
+pos = (503,59);
+ref = nuktadeva;
+}
+);
+width = 329;
+}
+);
+note = banuktaraprehalfdeva;
+}

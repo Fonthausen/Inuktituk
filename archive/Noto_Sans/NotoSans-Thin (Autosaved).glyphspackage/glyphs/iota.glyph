@@ -1,0 +1,36 @@
+{
+glyphname = iota;
+kernLeft = iotadieresistonos;
+kernRight = iotadieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(234,-4,o),
+(246,0,q),
+(246,26,l),
+(231,19,o),
+(200,15,o),
+(185,15,qs),
+(145,15,o),
+(106,68,o),
+(106,114,qs),
+(106,528,l),
+(80,528,l),
+(80,110,ls),
+(80,49,o),
+(142,-10,o),
+(185,-10,qs),
+(204,-10,o)
+);
+}
+);
+width = 274;
+}
+);
+note = iota;
+unicode = 953;
+}

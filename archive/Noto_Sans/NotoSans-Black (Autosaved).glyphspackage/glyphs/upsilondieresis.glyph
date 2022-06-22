@@ -1,0 +1,22 @@
+{
+glyphname = upsilondieresis;
+kernLeft = upsilondieresistonos;
+kernRight = upsilondieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (-2,0);
+ref = dieresis;
+}
+);
+width = 644;
+}
+);
+note = upsilondieresis;
+unicode = 971;
+}

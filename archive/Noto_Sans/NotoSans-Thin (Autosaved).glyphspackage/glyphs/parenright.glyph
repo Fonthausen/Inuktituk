@@ -1,0 +1,33 @@
+{
+glyphname = parenright;
+kernLeft = parenright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(137,630,o),
+(69,714,q),
+(36,714,l),
+(112,625,o),
+(187,406,o),
+(187,281,qs),
+(187,155,o),
+(113,-69,o),
+(36,-158,q),
+(69,-158,l),
+(137,-77,o),
+(214,149,o),
+(214,282,qs),
+(214,413,o)
+);
+}
+);
+width = 255;
+}
+);
+note = parenright;
+unicode = 41;
+}

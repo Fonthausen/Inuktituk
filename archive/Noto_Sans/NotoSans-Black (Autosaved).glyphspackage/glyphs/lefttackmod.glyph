@@ -1,0 +1,26 @@
+{
+glyphname = lefttackmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(160,252,l),
+(160,180,l),
+(220,180,l),
+(220,390,l),
+(160,390,l),
+(160,318,l),
+(60,318,l),
+(60,252,l)
+);
+}
+);
+width = 300;
+}
+);
+note = lefttackmod;
+unicode = 43882;
+}

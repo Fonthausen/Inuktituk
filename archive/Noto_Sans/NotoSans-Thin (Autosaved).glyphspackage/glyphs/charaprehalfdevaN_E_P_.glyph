@@ -1,0 +1,19 @@
+{
+glyphname = charaprehalfdevaNEP;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = chadeva;
+},
+{
+pos = (532,0);
+ref = vattuviramalowdeva;
+}
+);
+width = 665;
+}
+);
+note = charaprehalfdevaNEP;
+}

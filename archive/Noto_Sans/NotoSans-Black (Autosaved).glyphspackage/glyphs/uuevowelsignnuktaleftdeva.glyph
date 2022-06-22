@@ -1,0 +1,15 @@
+{
+glyphname = uuevowelsignnuktaleftdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uuevowelsignnuktadeva;
+}
+);
+width = 0;
+}
+);
+note = uuevowelsignnuktaleftdeva;
+}

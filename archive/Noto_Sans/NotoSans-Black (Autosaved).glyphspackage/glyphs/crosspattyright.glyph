@@ -1,0 +1,27 @@
+{
+glyphname = crosspattyright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(229,320,l),
+(461,258,l),
+(461,462,l),
+(229,400,l),
+(291,632,l),
+(77,632,l),
+(149,361,l),
+(87,88,l),
+(291,88,l)
+);
+}
+);
+width = 538;
+}
+);
+note = crosspattyright;
+unicode = 11856;
+}

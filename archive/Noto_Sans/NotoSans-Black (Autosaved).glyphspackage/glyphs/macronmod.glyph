@@ -1,0 +1,22 @@
+{
+glyphname = macronmod;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,606,l),
+(395,606,l),
+(395,721,l),
+(40,721,l)
+);
+}
+);
+width = 435;
+}
+);
+note = macronmod;
+unicode = 713;
+}

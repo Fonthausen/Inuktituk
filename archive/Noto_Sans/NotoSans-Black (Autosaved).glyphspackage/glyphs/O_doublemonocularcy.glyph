@@ -1,0 +1,28 @@
+{
+glyphname = Odoublemonocularcy;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (492,0);
+ref = O;
+},
+{
+pos = (748,290);
+ref = period;
+},
+{
+ref = O;
+},
+{
+pos = (256,290);
+ref = period;
+}
+);
+width = 1288;
+}
+);
+note = Odoublemonocularcy;
+unicode = 42604;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = ganuktaraprehalfdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = garaprehalfdeva;
+},
+{
+pos = (481,13);
+ref = nuktadeva;
+}
+);
+width = 300;
+}
+);
+note = ganuktaraprehalfdeva;
+}

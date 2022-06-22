@@ -1,0 +1,19 @@
+{
+glyphname = naddaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = naddadeva;
+},
+{
+pos = (699,0);
+ref = vattudeva;
+}
+);
+width = 749;
+}
+);
+note = naddaradeva;
+}

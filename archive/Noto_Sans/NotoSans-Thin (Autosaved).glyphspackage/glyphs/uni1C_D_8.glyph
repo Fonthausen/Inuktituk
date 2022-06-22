@@ -1,0 +1,17 @@
+{
+glyphname = uni1CD8;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-949);
+ref = ecandravowelsigndeva;
+}
+);
+width = 0;
+}
+);
+note = uni1CD8;
+unicode = 7384;
+}

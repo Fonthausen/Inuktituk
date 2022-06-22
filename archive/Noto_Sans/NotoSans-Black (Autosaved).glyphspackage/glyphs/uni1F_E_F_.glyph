@@ -1,0 +1,24 @@
+{
+glyphname = uni1FEF;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(286,620,l),
+(239,776,l),
+(40,776,l),
+(40,766,l),
+(169,606,l),
+(286,606,l)
+);
+}
+);
+width = 326;
+}
+);
+note = uni1FEF;
+unicode = 8175;
+}

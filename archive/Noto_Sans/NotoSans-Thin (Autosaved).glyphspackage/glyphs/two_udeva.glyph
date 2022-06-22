@@ -1,0 +1,19 @@
+{
+glyphname = two_udeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uniA8EB;
+},
+{
+pos = (-271,0);
+ref = uniA8E2;
+}
+);
+width = 0;
+}
+);
+note = two_udeva;
+}

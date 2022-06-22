@@ -1,0 +1,17 @@
+{
+glyphname = onedotenleader;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (106,0);
+ref = period;
+}
+);
+width = 500;
+}
+);
+note = onedotenleader;
+unicode = 8228;
+}

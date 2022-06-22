@@ -1,0 +1,22 @@
+{
+glyphname = uni1FE5;
+kernLeft = beta;
+kernRight = delta;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = rho;
+},
+{
+pos = (157,0);
+ref = uni1FFE;
+}
+);
+width = 558;
+}
+);
+note = uni1FE5;
+unicode = 8165;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = uni04F4;
+kernLeft = uni0427;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni0427;
+},
+{
+pos = (46,186);
+ref = dieresis;
+}
+);
+width = 653;
+}
+);
+note = uni04F4;
+unicode = 1268;
+}

@@ -1,0 +1,16 @@
+{
+glyphname = four.dnom;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-416);
+ref = uni2074;
+}
+);
+width = 399;
+}
+);
+note = four.dnom;
+}

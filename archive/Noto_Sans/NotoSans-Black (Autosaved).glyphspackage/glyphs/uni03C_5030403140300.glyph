@@ -1,0 +1,29 @@
+{
+glyphname = uni03C5030403140300;
+kernLeft = upsilondieresistonos;
+kernRight = upsilondieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (101,0);
+ref = macronmod;
+},
+{
+pos = (32,147);
+ref = uni1FFE;
+},
+{
+pos = (250,147);
+ref = uni1FEF;
+}
+);
+width = 649;
+}
+);
+note = uni03C5030403140300;
+}

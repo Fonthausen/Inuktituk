@@ -1,0 +1,22 @@
+{
+glyphname = uni1EB9;
+kernLeft = c;
+kernRight = b;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (575,0);
+ref = dotbelowcomb;
+}
+);
+width = 540;
+}
+);
+note = uni1EB9;
+unicode = 7865;
+}

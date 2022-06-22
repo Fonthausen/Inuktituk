@@ -1,0 +1,16 @@
+{
+glyphname = uni02BA;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quotedblright;
+}
+);
+width = 510;
+}
+);
+note = uni02BA;
+unicode = 698;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = comma.deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,-77,o),
+(123,49,o),
+(134,104,q),
+(131,116,l),
+(103,116,l),
+(95,59,o),
+(69,-56,o),
+(47,-129,q),
+(69,-129,l)
+);
+}
+);
+width = 208;
+}
+);
+note = comma.deva;
+}

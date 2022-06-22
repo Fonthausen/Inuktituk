@@ -1,0 +1,24 @@
+{
+glyphname = uni2E3B;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (1840,0);
+ref = emdash;
+},
+{
+pos = (920,0);
+ref = emdash;
+},
+{
+ref = emdash;
+}
+);
+width = 2838;
+}
+);
+note = uni2E3B;
+unicode = 11835;
+}

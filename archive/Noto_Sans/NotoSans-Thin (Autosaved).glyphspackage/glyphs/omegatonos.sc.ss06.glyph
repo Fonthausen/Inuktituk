@@ -1,0 +1,19 @@
+{
+glyphname = omegatonos.sc.ss06;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omega.sc;
+},
+{
+pos = (258,31);
+ref = tonos;
+}
+);
+width = 614;
+}
+);
+note = omegatonos.sc.ss06;
+}

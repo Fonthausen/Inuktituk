@@ -1,0 +1,21 @@
+{
+glyphname = uni03B9030803040301;
+kernLeft = iotadieresistonos;
+kernRight = iotadieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-54,0);
+ref = uni030103040308;
+}
+);
+width = 404;
+}
+);
+note = uni03B9030803040301;
+}

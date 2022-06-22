@@ -1,0 +1,19 @@
+{
+glyphname = shanuktadevaMAR;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = shadevaMAR;
+},
+{
+pos = (467,41);
+ref = nuktadeva;
+}
+);
+width = 786;
+}
+);
+note = shanuktadevaMAR;
+}

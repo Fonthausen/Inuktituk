@@ -1,0 +1,20 @@
+{
+glyphname = aydeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = edeva;
+},
+{
+pos = (512,0);
+ref = ayvowelsigndeva;
+}
+);
+width = 503;
+}
+);
+note = aydeva;
+unicode = 43262;
+}

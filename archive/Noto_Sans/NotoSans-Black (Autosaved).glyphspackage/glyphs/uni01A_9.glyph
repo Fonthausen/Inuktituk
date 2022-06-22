@@ -1,0 +1,16 @@
+{
+glyphname = uni01A9;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Sigma;
+}
+);
+width = 610;
+}
+);
+note = uni01A9;
+unicode = 425;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = uni1F21;
+kernRight = etatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (112,0);
+ref = uni1FFE;
+}
+);
+width = 563;
+}
+);
+note = uni1F21;
+unicode = 7969;
+}

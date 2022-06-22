@@ -1,0 +1,31 @@
+{
+glyphname = kavykainvertedlow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(271,318,o),
+(162,318,qs),
+(108,318,o),
+(45,261,o),
+(40,206,q),
+(65,206,l),
+(69,246,o),
+(116,294,o),
+(162,294,qs),
+(211,294,o),
+(256,246,o),
+(260,206,q),
+(285,206,l)
+);
+}
+);
+width = 325;
+}
+);
+note = kavykainvertedlow;
+unicode = 11845;
+}

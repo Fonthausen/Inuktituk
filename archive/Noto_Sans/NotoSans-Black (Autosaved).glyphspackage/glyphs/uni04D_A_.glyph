@@ -1,0 +1,22 @@
+{
+glyphname = uni04DA;
+kernLeft = uni04D8;
+kernRight = uni041E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni04D8;
+},
+{
+pos = (87,161);
+ref = dieresis;
+}
+);
+width = 793;
+}
+);
+note = uni04DA;
+unicode = 1242;
+}

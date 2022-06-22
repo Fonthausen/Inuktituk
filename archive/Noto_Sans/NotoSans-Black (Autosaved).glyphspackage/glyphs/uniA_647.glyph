@@ -1,0 +1,16 @@
+{
+glyphname = uniA647;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iota;
+}
+);
+width = 435;
+}
+);
+note = uniA647;
+unicode = 42567;
+}

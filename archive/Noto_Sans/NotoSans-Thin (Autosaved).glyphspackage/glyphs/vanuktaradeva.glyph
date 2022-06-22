@@ -1,0 +1,19 @@
+{
+glyphname = vanuktaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = varadeva;
+},
+{
+pos = (503,59);
+ref = nuktadeva;
+}
+);
+width = 494;
+}
+);
+note = vanuktaradeva;
+}

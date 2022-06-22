@@ -1,0 +1,19 @@
+{
+glyphname = rvocalicnuktadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = rvocalicdeva;
+},
+{
+pos = (493,48);
+ref = nuktadeva;
+}
+);
+width = 977;
+}
+);
+note = rvocalicnuktadeva;
+}

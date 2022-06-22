@@ -1,0 +1,19 @@
+{
+glyphname = two_avagrahadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uniA8F1;
+},
+{
+pos = (-207,0);
+ref = uniA8E2;
+}
+);
+width = 0;
+}
+);
+note = two_avagrahadeva;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = uni1FEC;
+kernRight = Rho;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (127,0);
+ref = P;
+},
+{
+pos = (-48,-62);
+ref = uni1FFE;
+}
+);
+width = 700;
+}
+);
+note = uni1FEC;
+unicode = 8172;
+}

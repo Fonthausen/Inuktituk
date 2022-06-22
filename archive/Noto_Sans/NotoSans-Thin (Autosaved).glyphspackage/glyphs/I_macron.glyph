@@ -1,0 +1,20 @@
+{
+glyphname = Imacron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-25,186);
+ref = macronmod;
+}
+);
+width = 283;
+}
+);
+note = Imacron;
+unicode = 298;
+}

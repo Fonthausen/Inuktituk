@@ -1,0 +1,17 @@
+{
+glyphname = Epsilon;
+kernRight = Epsilontonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+}
+);
+width = 550;
+}
+);
+note = Epsilon;
+unicode = 917;
+}

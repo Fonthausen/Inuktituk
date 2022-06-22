@@ -1,0 +1,25 @@
+{
+glyphname = uni02C3;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(270,635,l),
+(270,677,l),
+(23,801,l),
+(23,728,l),
+(174,659,l),
+(23,598,l),
+(23,526,l)
+);
+}
+);
+width = 285;
+}
+);
+note = uni02C3;
+unicode = 707;
+}

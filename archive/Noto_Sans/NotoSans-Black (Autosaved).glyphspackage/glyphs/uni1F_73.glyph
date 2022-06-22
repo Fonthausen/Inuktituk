@@ -1,0 +1,22 @@
+{
+glyphname = uni1F73;
+kernLeft = epsilontonos;
+kernRight = epsilontonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (184,0);
+ref = tonos;
+}
+);
+width = 529;
+}
+);
+note = uni1F73;
+unicode = 8051;
+}

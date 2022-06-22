@@ -1,0 +1,21 @@
+{
+glyphname = uni0304.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(406,624,l),
+(406,648,l),
+(151,648,l),
+(151,624,l)
+);
+}
+);
+width = 552;
+}
+);
+note = uni0304.sc;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = figuredash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(541,419,l),
+(40,419,l),
+(40,277,l),
+(541,277,l)
+);
+}
+);
+width = 581;
+}
+);
+note = figuredash;
+unicode = 8210;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = oevowelsigndeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-70,805,l),
+(-247,805,l),
+(-247,617,l),
+(-70,617,l)
+);
+}
+);
+width = 0;
+}
+);
+note = oevowelsigndeva;
+unicode = 2362;
+}

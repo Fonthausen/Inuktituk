@@ -1,0 +1,21 @@
+{
+glyphname = emdash.deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(960,228,l),
+(960,362,l),
+(40,362,l),
+(40,228,l)
+);
+}
+);
+width = 1000;
+}
+);
+note = emdash.deva;
+}

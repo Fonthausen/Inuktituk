@@ -1,0 +1,21 @@
+{
+glyphname = uni04E3;
+kernLeft = uni0432;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni0438;
+},
+{
+pos = (147,0);
+ref = macronmod;
+}
+);
+width = 716;
+}
+);
+note = uni04E3;
+unicode = 1251;
+}

@@ -1,0 +1,42 @@
+{
+glyphname = upsilon;
+kernLeft = upsilondieresistonos;
+kernRight = upsilondieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(474,143,o),
+(474,292,qs),
+(474,354,o),
+(460,471,o),
+(445,528,q),
+(417,528,l),
+(434,471,o),
+(447,351,o),
+(447,292,qs),
+(447,153,o),
+(351,15,o),
+(268,15,qs),
+(181,15,o),
+(108,110,o),
+(108,225,qs),
+(108,528,l),
+(82,528,l),
+(82,221,ls),
+(82,100,o),
+(169,-10,o),
+(266,-10,qs),
+(364,-10,o)
+);
+}
+);
+width = 549;
+}
+);
+note = upsilon;
+unicode = 965;
+}

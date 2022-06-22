@@ -1,0 +1,22 @@
+{
+glyphname = Ucircumflex;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (118,161);
+ref = circumflex;
+}
+);
+width = 757;
+}
+);
+note = Ucircumflex;
+unicode = 219;
+}

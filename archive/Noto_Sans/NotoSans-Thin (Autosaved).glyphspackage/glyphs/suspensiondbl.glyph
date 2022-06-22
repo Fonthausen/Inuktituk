@@ -1,0 +1,31 @@
+{
+glyphname = suspensiondbl;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(237,755,l),
+(40,555,l),
+(53,541,l),
+(257,740,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(237,181,l),
+(40,-19,l),
+(53,-33,l),
+(257,166,l)
+);
+}
+);
+width = 297;
+}
+);
+note = suspensiondbl;
+unicode = 11844;
+}

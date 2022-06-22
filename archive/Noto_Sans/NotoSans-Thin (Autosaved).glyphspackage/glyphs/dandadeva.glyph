@@ -1,0 +1,22 @@
+{
+glyphname = dandadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(226,0,l),
+(226,622,l),
+(200,622,l),
+(200,0,l)
+);
+}
+);
+width = 335;
+}
+);
+note = dandadeva;
+unicode = 2404;
+}

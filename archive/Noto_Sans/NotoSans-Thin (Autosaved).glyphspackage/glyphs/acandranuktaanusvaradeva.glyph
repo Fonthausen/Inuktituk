@@ -1,0 +1,23 @@
+{
+glyphname = acandranuktaanusvaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = adeva;
+},
+{
+pos = (538,104);
+ref = nuktadeva;
+},
+{
+pos = (637,0);
+ref = candrabindudeva;
+}
+);
+width = 670;
+}
+);
+note = acandranuktaanusvaradeva;
+}

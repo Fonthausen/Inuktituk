@@ -1,0 +1,21 @@
+{
+glyphname = uni1F70;
+kernRight = alphatonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (88,0);
+ref = uni1FEF;
+}
+);
+width = 677;
+}
+);
+note = uni1F70;
+unicode = 8048;
+}

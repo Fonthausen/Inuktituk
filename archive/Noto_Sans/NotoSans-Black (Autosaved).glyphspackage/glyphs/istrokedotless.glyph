@@ -1,0 +1,29 @@
+{
+glyphname = istrokedotless;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(330,216,l),
+(330,337,l),
+(258,337,l),
+(258,553,l),
+(67,553,l),
+(67,337,l),
+(-5,337,l),
+(-5,216,l),
+(67,216,l),
+(67,0,l),
+(258,0,l),
+(258,216,l)
+);
+}
+);
+width = 325;
+}
+);
+note = istrokedotless;
+}

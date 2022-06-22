@@ -1,0 +1,20 @@
+{
+glyphname = uni1E8A;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = X;
+},
+{
+pos = (189,186);
+ref = dotaccent;
+}
+);
+width = 509;
+}
+);
+note = uni1E8A;
+unicode = 7818;
+}

@@ -1,0 +1,16 @@
+{
+glyphname = uniA7B5;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = beta;
+}
+);
+width = 594;
+}
+);
+note = uniA7B5;
+unicode = 42933;
+}

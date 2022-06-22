@@ -1,0 +1,25 @@
+{
+glyphname = bracketright.deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(301,-166,l),
+(301,832,l),
+(49,832,l),
+(49,708,l),
+(146,708,l),
+(146,-42,l),
+(49,-42,l),
+(49,-166,l)
+);
+}
+);
+width = 406;
+}
+);
+note = bracketright.deva;
+}

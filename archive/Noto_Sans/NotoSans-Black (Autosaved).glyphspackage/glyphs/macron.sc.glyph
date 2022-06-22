@@ -1,0 +1,15 @@
+{
+glyphname = macron.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = overscore;
+}
+);
+width = 500;
+}
+);
+note = macron.sc;
+}

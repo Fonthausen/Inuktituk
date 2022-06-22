@@ -1,0 +1,26 @@
+{
+glyphname = uni1F52;
+kernLeft = upsilondieresistonos;
+kernRight = upsilondieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (41,0);
+ref = uni1FBF;
+},
+{
+pos = (228,0);
+ref = uni1FEF;
+}
+);
+width = 644;
+}
+);
+note = uni1F52;
+unicode = 8018;
+}

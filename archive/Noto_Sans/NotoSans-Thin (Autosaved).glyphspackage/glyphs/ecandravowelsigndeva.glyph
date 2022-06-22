@@ -1,0 +1,32 @@
+{
+glyphname = ecandravowelsigndeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(13,803,o),
+(-56,732,o),
+(-115,732,qs),
+(-176,732,o),
+(-251,809,o),
+(-274,878,q),
+(-299,869,l),
+(-272,793,o),
+(-185,706,o),
+(-116,706,qs),
+(-46,706,o),
+(38,790,o),
+(57,870,q),
+(32,878,l)
+);
+}
+);
+width = 0;
+}
+);
+note = ecandravowelsigndeva;
+unicode = 2373;
+}

@@ -1,0 +1,17 @@
+{
+glyphname = uniA67F;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (289,0);
+ref = uniA67D;
+}
+);
+width = 578;
+}
+);
+note = uniA67F;
+unicode = 42623;
+}

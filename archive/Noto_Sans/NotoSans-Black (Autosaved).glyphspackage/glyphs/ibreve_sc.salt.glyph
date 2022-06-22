@@ -1,0 +1,19 @@
+{
+glyphname = ibreve_sc.salt;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i_sc.salt;
+},
+{
+pos = (-144,0);
+ref = uni0306.sc;
+}
+);
+width = 311;
+}
+);
+note = ibreve_sc.salt;
+}

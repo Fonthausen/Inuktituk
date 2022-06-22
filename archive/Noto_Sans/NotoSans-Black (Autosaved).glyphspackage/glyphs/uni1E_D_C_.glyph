@@ -1,0 +1,22 @@
+{
+glyphname = uni1EDC;
+kernLeft = C;
+kernRight = Ohorn;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (151,161);
+ref = grave;
+}
+);
+width = 845;
+}
+);
+note = uni1EDC;
+unicode = 7900;
+}

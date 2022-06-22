@@ -1,0 +1,23 @@
+{
+glyphname = lanuktaradevaMAR;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ladevaMAR;
+},
+{
+pos = (738,0);
+ref = vattudeva;
+},
+{
+pos = (416,31);
+ref = nuktadeva;
+}
+);
+width = 804;
+}
+);
+note = lanuktaradevaMAR;
+}

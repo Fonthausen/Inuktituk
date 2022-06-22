@@ -1,0 +1,22 @@
+{
+glyphname = uni1FD3;
+kernLeft = iotadieresistonos;
+kernRight = iotadieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-160,0);
+ref = dieresistonos;
+}
+);
+width = 274;
+}
+);
+note = uni1FD3;
+unicode = 8147;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = uni0137;
+kernLeft = b;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = k;
+},
+{
+pos = (326,0);
+ref = uni0326;
+}
+);
+width = 659;
+}
+);
+note = uni0137;
+unicode = 311;
+}

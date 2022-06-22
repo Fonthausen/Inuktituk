@@ -1,0 +1,20 @@
+{
+glyphname = Ibreve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-20,186);
+ref = breve;
+}
+);
+width = 283;
+}
+);
+note = Ibreve;
+unicode = 300;
+}

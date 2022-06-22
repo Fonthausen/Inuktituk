@@ -1,0 +1,26 @@
+{
+glyphname = uniA7B1;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(2,25,l),
+(2,0,l),
+(503,0,l),
+(503,25,l),
+(266,25,l),
+(266,714,l),
+(240,714,l),
+(240,25,l)
+);
+}
+);
+width = 505;
+}
+);
+note = uniA7B1;
+unicode = 42929;
+}

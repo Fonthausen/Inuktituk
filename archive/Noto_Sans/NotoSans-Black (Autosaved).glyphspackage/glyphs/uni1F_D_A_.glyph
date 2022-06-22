@@ -1,0 +1,21 @@
+{
+glyphname = uni1FDA;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (296,0);
+ref = I;
+},
+{
+pos = (-30,-62);
+ref = uni1FEF;
+}
+);
+width = 736;
+}
+);
+note = uni1FDA;
+unicode = 8154;
+}

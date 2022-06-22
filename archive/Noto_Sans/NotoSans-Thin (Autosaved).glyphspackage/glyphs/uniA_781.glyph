@@ -1,0 +1,22 @@
+{
+glyphname = uniA781;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,527,l),
+(90,-240,l),
+(116,-240,l),
+(116,527,l)
+);
+}
+);
+width = 207;
+}
+);
+note = uniA781;
+unicode = 42881;
+}

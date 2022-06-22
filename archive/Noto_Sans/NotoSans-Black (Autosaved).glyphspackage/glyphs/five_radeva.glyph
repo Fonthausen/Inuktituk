@@ -1,0 +1,20 @@
+{
+glyphname = five_radeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (9,0);
+ref = uniA8EF;
+},
+{
+pos = (-242,0);
+ref = uniA8E5;
+}
+);
+width = 0;
+}
+);
+note = five_radeva;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = greater.deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(531,284,l),
+(531,369,l),
+(55,616,l),
+(55,471,l),
+(335,332,l),
+(55,210,l),
+(55,65,l)
+);
+}
+);
+width = 585;
+}
+);
+note = greater.deva;
+}

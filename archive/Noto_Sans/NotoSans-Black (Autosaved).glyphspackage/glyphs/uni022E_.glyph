@@ -1,0 +1,20 @@
+{
+glyphname = uni022E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (258,161);
+ref = dotaccent;
+}
+);
+width = 797;
+}
+);
+note = uni022E;
+unicode = 558;
+}

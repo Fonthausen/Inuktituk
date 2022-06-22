@@ -1,0 +1,17 @@
+{
+glyphname = uni032E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-252,-835);
+ref = breve;
+}
+);
+width = 0;
+}
+);
+note = uni032E;
+unicode = 814;
+}

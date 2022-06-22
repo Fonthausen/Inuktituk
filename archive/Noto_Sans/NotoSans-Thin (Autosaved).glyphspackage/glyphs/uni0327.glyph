@@ -1,0 +1,17 @@
+{
+glyphname = uni0327;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-110,0);
+ref = cedilla;
+}
+);
+width = 0;
+}
+);
+note = uni0327;
+unicode = 807;
+}

@@ -1,0 +1,16 @@
+{
+glyphname = uni03F3;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = j;
+}
+);
+width = 324;
+}
+);
+note = uni03F3;
+unicode = 1011;
+}

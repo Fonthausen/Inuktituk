@@ -1,0 +1,16 @@
+{
+glyphname = uni1FEE;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = dieresistonos;
+}
+);
+width = 565;
+}
+);
+note = uni1FEE;
+unicode = 8174;
+}

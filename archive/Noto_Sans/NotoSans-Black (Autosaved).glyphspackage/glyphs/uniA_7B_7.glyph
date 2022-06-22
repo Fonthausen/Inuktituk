@@ -1,0 +1,16 @@
+{
+glyphname = uniA7B7;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omegabroadcy;
+}
+);
+width = 964;
+}
+);
+note = uniA7B7;
+unicode = 42935;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = uni1E21;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (97,0);
+ref = macronmod;
+}
+);
+width = 643;
+}
+);
+note = uni1E21;
+unicode = 7713;
+}

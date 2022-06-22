@@ -1,0 +1,20 @@
+{
+glyphname = llvocalicvowelsignnuktaleftdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (19,0);
+ref = llvocalicvowelsigndeva;
+},
+{
+pos = (-204,0);
+ref = nuktadeva;
+}
+);
+width = 0;
+}
+);
+note = llvocalicvowelsignnuktaleftdeva;
+}

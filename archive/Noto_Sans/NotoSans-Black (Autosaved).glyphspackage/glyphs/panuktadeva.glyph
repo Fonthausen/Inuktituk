@@ -1,0 +1,19 @@
+{
+glyphname = panuktadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = padeva;
+},
+{
+pos = (470,130);
+ref = nuktadeva;
+}
+);
+width = 645;
+}
+);
+note = panuktadeva;
+}

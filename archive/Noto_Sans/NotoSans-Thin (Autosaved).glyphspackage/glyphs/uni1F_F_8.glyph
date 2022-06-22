@@ -1,0 +1,21 @@
+{
+glyphname = uni1FF8;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (60,0);
+ref = O;
+},
+{
+pos = (-30,-62);
+ref = uni1FEF;
+}
+);
+width = 814;
+}
+);
+note = uni1FF8;
+unicode = 8184;
+}

@@ -1,0 +1,10 @@
+{
+glyphname = space_1;
+layers = (
+{
+layerId = m01;
+width = 260;
+}
+);
+note = space_1;
+}

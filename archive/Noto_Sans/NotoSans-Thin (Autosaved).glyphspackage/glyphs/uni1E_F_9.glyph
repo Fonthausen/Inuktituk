@@ -1,0 +1,22 @@
+{
+glyphname = uni1EF9;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (-14,0);
+ref = tilde;
+}
+);
+width = 428;
+}
+);
+note = uni1EF9;
+unicode = 7929;
+}

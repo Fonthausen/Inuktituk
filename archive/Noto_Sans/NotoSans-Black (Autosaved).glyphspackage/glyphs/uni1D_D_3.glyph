@@ -1,0 +1,21 @@
+{
+glyphname = uni1DD3;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-88,0);
+ref = breve;
+},
+{
+pos = (-381,0);
+ref = breve;
+}
+);
+width = 0;
+}
+);
+note = uni1DD3;
+unicode = 7635;
+}

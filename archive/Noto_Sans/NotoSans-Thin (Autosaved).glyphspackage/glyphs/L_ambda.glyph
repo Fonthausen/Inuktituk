@@ -1,0 +1,33 @@
+{
+glyphname = Lambda;
+kernLeft = tonos;
+kernRight = tonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(252,591,ls),
+(260,611,o),
+(276,660,o),
+(283,682,q),
+(293,654,o),
+(307,611,o),
+(313,594,qs),
+(529,0,l),
+(557,0,l),
+(297,716,l),
+(272,716,l),
+(0,0,l),
+(28,0,l)
+);
+}
+);
+width = 557;
+}
+);
+note = Lambda;
+unicode = 923;
+}

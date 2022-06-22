@@ -1,0 +1,20 @@
+{
+glyphname = uni2E28;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (258,0);
+ref = parenleft;
+},
+{
+ref = parenleft;
+}
+);
+width = 600;
+}
+);
+note = uni2E28;
+unicode = 11816;
+}

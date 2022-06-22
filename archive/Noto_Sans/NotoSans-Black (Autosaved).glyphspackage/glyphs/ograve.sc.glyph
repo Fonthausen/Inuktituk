@@ -1,0 +1,21 @@
+{
+glyphname = ograve.sc;
+kernLeft = c.sc;
+kernRight = d.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (36,0);
+ref = gravecomb.sc;
+}
+);
+width = 676;
+}
+);
+note = ograve.sc;
+}

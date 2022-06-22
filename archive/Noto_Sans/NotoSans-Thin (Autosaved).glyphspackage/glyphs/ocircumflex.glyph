@@ -1,0 +1,22 @@
+{
+glyphname = ocircumflex;
+kernLeft = c;
+kernRight = b;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (122,0);
+ref = circumflex;
+}
+);
+width = 575;
+}
+);
+note = ocircumflex;
+unicode = 244;
+}

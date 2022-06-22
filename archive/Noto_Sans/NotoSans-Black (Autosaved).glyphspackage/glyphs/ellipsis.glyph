@@ -1,0 +1,25 @@
+{
+glyphname = ellipsis;
+kernLeft = comma;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = period;
+},
+{
+pos = (289,0);
+ref = period;
+},
+{
+pos = (578,0);
+ref = period;
+}
+);
+width = 867;
+}
+);
+note = ellipsis;
+unicode = 8230;
+}

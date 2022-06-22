@@ -1,0 +1,17 @@
+{
+glyphname = uni0470;
+kernLeft = uni0427;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Psi;
+}
+);
+width = 740;
+}
+);
+note = uni0470;
+unicode = 1136;
+}

@@ -1,0 +1,20 @@
+{
+glyphname = two_radeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (9,0);
+ref = uniA8EF;
+},
+{
+pos = (-251,0);
+ref = uniA8E2;
+}
+);
+width = 0;
+}
+);
+note = two_radeva;
+}

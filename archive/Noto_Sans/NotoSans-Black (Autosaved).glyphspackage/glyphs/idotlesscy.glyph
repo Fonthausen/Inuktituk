@@ -1,0 +1,15 @@
+{
+glyphname = idotlesscy;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = dotlessi;
+}
+);
+width = 325;
+}
+);
+note = idotlesscy;
+}

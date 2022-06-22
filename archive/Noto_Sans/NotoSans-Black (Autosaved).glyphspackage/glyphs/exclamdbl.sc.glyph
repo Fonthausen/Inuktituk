@@ -1,0 +1,19 @@
+{
+glyphname = exclamdbl.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (253,0);
+ref = exclam.sc;
+},
+{
+ref = exclam.sc;
+}
+);
+width = 506;
+}
+);
+note = exclamdbl.sc;
+}

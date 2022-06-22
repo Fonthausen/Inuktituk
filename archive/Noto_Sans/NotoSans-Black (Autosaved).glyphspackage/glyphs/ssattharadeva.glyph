@@ -1,0 +1,19 @@
+{
+glyphname = ssattharadeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ssatthadeva;
+},
+{
+pos = (586,0);
+ref = vattudeva;
+}
+);
+width = 673;
+}
+);
+note = ssattharadeva;
+}

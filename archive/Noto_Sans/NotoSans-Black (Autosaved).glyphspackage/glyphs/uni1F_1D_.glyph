@@ -1,0 +1,26 @@
+{
+glyphname = uni1F1D;
+kernRight = Epsilontonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (455,0);
+ref = E;
+},
+{
+pos = (-49,-62);
+ref = uni1FFE;
+},
+{
+pos = (169,-62);
+ref = tonos;
+}
+);
+width = 1004;
+}
+);
+note = uni1F1D;
+unicode = 7965;
+}

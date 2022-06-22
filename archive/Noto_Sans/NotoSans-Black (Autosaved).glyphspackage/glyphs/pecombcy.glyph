@@ -1,0 +1,26 @@
+{
+glyphname = pecombcy;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-108,620,l),
+(-22,620,l),
+(-22,784,l),
+(42,784,l),
+(42,620,l),
+(128,620,l),
+(128,841,l),
+(-108,841,l)
+);
+}
+);
+width = 0;
+}
+);
+note = pecombcy;
+unicode = 11755;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = uni1F8B.ad;
+kernLeft = tonos;
+kernRight = iotadieresistonos;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (346,0);
+ref = A;
+},
+{
+pos = (-49,-62);
+ref = uni1FFE;
+},
+{
+pos = (169,-62);
+ref = uni1FEF;
+},
+{
+pos = (1072,0);
+ref = uni1FBE;
+}
+);
+width = 1507;
+}
+);
+note = uni1F8B.ad;
+}

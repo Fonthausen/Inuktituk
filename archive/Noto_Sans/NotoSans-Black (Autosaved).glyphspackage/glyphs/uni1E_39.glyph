@@ -1,0 +1,24 @@
+{
+glyphname = uni1E39;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = l;
+},
+{
+pos = (525,0);
+ref = dotbelowcomb;
+},
+{
+pos = (-55,207);
+ref = macronmod;
+}
+);
+width = 323;
+}
+);
+note = uni1E39;
+unicode = 7737;
+}

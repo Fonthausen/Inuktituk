@@ -1,0 +1,19 @@
+{
+glyphname = ttaraprehalfUIdeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = ttaaltdeva;
+},
+{
+pos = (506,0);
+ref = vattuviramadeva;
+}
+);
+width = 559;
+}
+);
+note = ttaraprehalfUIdeva;
+}

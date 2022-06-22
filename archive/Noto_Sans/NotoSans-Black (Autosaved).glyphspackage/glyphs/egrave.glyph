@@ -1,0 +1,22 @@
+{
+glyphname = egrave;
+kernLeft = c;
+kernRight = b;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (100,0);
+ref = grave;
+}
+);
+width = 618;
+}
+);
+note = egrave;
+unicode = 232;
+}

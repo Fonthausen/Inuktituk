@@ -1,0 +1,25 @@
+{
+glyphname = uni1F4D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (405,0);
+ref = O;
+},
+{
+pos = (-49,-62);
+ref = uni1FFE;
+},
+{
+pos = (169,-62);
+ref = tonos;
+}
+);
+width = 1202;
+}
+);
+note = uni1F4D;
+unicode = 8013;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = dhanuktaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = dharadeva;
+},
+{
+pos = (553,44);
+ref = nuktadeva;
+}
+);
+width = 540;
+}
+);
+note = dhanuktaradeva;
+}

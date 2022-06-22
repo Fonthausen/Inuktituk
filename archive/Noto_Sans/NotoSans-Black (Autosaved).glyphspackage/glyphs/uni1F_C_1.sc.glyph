@@ -1,0 +1,20 @@
+{
+glyphname = uni1FC1.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,192);
+ref = tilde;
+},
+{
+pos = (-65,0);
+ref = dieresis;
+}
+);
+width = 491;
+}
+);
+note = uni1FC1.sc;
+}

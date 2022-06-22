@@ -1,0 +1,21 @@
+{
+glyphname = ccircumflex.sc;
+kernLeft = c.sc;
+kernRight = c.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c.sc;
+},
+{
+pos = (62,38);
+ref = circumflex;
+}
+);
+width = 549;
+}
+);
+note = ccircumflex.sc;
+}

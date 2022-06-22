@@ -1,0 +1,17 @@
+{
+glyphname = uni2E34;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,143);
+ref = comma;
+}
+);
+width = 309;
+}
+);
+note = uni2E34;
+unicode = 11828;
+}

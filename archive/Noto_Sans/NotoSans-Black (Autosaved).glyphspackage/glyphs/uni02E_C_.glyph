@@ -1,0 +1,17 @@
+{
+glyphname = uni02EC;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-805);
+ref = caron;
+}
+);
+width = 523;
+}
+);
+note = uni02EC;
+unicode = 748;
+}

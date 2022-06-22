@@ -1,0 +1,20 @@
+{
+glyphname = uni04E4;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni0418;
+},
+{
+pos = (60,186);
+ref = dieresis;
+}
+);
+width = 693;
+}
+);
+note = uni04E4;
+unicode = 1252;
+}

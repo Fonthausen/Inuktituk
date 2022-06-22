@@ -1,0 +1,15 @@
+{
+glyphname = uni1FEF.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni1FEF;
+}
+);
+width = 160;
+}
+);
+note = uni1FEF.sc;
+}

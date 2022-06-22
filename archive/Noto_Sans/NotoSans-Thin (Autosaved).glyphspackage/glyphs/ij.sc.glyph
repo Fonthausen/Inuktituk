@@ -1,0 +1,19 @@
+{
+glyphname = ij.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (227,0);
+ref = j.sc;
+}
+);
+width = 412;
+}
+);
+note = ij.sc;
+}

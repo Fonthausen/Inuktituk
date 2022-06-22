@@ -1,0 +1,32 @@
+{
+glyphname = kavykaaboveleftcmb;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,748,o),
+(31,723,o),
+(-1,723,qs),
+(-42,723,o),
+(-83,745,o),
+(-94,787,q),
+(-197,787,l),
+(-193,703,o),
+(-96,606,o),
+(-1,606,qs),
+(90,606,o),
+(193,705,o),
+(198,787,q),
+(91,787,l)
+);
+}
+);
+width = 0;
+}
+);
+note = kavykaaboveleftcmb;
+unicode = 7671;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = ovowelsignanusvaradeva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = aavowelsigndeva;
+},
+{
+pos = (225,0);
+ref = evowelsignanusvaradeva;
+}
+);
+width = 225;
+}
+);
+note = ovowelsignanusvaradeva;
+}

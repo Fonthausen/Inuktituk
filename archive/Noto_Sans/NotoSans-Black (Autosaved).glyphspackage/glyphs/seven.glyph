@@ -1,0 +1,25 @@
+{
+glyphname = seven;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(553,600,l),
+(553,714,l),
+(38,714,l),
+(38,554,l),
+(347,554,l),
+(102,0,l),
+(302,0,l)
+);
+}
+);
+width = 586;
+}
+);
+note = seven;
+unicode = 55;
+}

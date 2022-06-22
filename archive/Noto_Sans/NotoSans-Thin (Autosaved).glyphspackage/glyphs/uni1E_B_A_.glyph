@@ -1,0 +1,21 @@
+{
+glyphname = uni1EBA;
+kernRight = E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (593,186);
+ref = hookabovecomb;
+}
+);
+width = 550;
+}
+);
+note = uni1EBA;
+unicode = 7866;
+}

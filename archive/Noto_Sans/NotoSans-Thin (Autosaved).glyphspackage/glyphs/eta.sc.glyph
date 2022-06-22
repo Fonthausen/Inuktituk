@@ -1,0 +1,15 @@
+{
+glyphname = eta.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = h.sc;
+}
+);
+width = 567;
+}
+);
+note = eta.sc;
+}

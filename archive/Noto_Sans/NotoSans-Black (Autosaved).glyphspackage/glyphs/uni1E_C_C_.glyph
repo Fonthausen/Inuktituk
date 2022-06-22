@@ -1,0 +1,22 @@
+{
+glyphname = uni1ECC;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (761,0);
+ref = dotbelowcomb;
+}
+);
+width = 797;
+}
+);
+note = uni1ECC;
+unicode = 7884;
+}

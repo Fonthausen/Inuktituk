@@ -1,0 +1,16 @@
+{
+glyphname = Mu;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = M;
+}
+);
+width = 837;
+}
+);
+note = Mu;
+unicode = 924;
+}

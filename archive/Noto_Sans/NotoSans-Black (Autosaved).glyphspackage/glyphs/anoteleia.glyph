@@ -1,0 +1,17 @@
+{
+glyphname = anoteleia;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,385);
+ref = period;
+}
+);
+width = 289;
+}
+);
+note = anoteleia;
+unicode = 903;
+}

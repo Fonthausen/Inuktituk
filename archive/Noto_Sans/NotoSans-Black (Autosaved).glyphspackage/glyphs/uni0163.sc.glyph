@@ -1,0 +1,21 @@
+{
+glyphname = uni0163.sc;
+kernLeft = t.sc;
+kernRight = t.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = t.sc;
+},
+{
+pos = (106,0);
+ref = cedilla;
+}
+);
+width = 509;
+}
+);
+note = uni0163.sc;
+}

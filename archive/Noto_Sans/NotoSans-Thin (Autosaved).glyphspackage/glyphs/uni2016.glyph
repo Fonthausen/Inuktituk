@@ -1,0 +1,21 @@
+{
+glyphname = uni2016;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (-88,0);
+ref = bar;
+},
+{
+pos = (88,0);
+ref = bar;
+}
+);
+width = 535;
+}
+);
+note = uni2016;
+unicode = 8214;
+}

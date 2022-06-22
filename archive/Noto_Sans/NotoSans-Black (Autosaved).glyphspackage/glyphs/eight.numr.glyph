@@ -1,0 +1,16 @@
+{
+glyphname = eight.numr;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,-130);
+ref = uni2078;
+}
+);
+width = 399;
+}
+);
+note = eight.numr;
+}

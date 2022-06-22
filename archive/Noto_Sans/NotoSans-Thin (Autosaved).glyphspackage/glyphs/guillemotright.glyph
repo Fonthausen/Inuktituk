@@ -1,0 +1,39 @@
+{
+glyphname = guillemotright;
+kernLeft = guillemotright;
+kernRight = guillemotright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(211,472,l),
+(195,461,l),
+(332,280,l),
+(195,99,l),
+(211,87,l),
+(363,274,l),
+(363,287,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(42,472,l),
+(26,461,l),
+(163,280,l),
+(26,99,l),
+(42,87,l),
+(194,274,l),
+(194,287,l)
+);
+}
+);
+width = 389;
+}
+);
+note = guillemotright;
+unicode = 187;
+}

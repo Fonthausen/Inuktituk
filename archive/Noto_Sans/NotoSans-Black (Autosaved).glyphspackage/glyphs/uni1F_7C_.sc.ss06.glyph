@@ -1,0 +1,19 @@
+{
+glyphname = uni1F7C.sc.ss06;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = omega.sc;
+},
+{
+pos = (116,37);
+ref = uni1FEF;
+}
+);
+width = 687;
+}
+);
+note = uni1F7C.sc.ss06;
+}

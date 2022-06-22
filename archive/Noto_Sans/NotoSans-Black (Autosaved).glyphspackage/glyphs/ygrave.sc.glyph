@@ -1,0 +1,21 @@
+{
+glyphname = ygrave.sc;
+kernLeft = y.sc;
+kernRight = y.sc;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (-10,0);
+ref = gravecomb.sc;
+}
+);
+width = 583;
+}
+);
+note = ygrave.sc;
+}

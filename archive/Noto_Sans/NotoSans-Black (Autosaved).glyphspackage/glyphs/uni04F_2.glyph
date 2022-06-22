@@ -1,0 +1,22 @@
+{
+glyphname = uni04F2;
+kernLeft = uni040E;
+kernRight = uni040E;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = uni0423;
+},
+{
+pos = (116,161);
+ref = hungarumlaut;
+}
+);
+width = 681;
+}
+);
+note = uni04F2;
+unicode = 1266;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = scedilla;
+kernLeft = s;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (134,0);
+ref = cedilla;
+}
+);
+width = 458;
+}
+);
+note = scedilla;
+unicode = 351;
+}

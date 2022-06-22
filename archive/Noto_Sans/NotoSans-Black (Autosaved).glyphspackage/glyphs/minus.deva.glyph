@@ -1,0 +1,22 @@
+{
+glyphname = minus.deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(531,259,l),
+(531,388,l),
+(55,388,l),
+(55,259,l)
+);
+}
+);
+width = 585;
+}
+);
+note = minus.deva;
+unicode = 8722;
+}

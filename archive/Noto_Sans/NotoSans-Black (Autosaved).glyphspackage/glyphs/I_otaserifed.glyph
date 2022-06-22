@@ -1,0 +1,30 @@
+{
+glyphname = Iotaserifed;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(305,144,l),
+(305,571,l),
+(414,604,l),
+(414,714,l),
+(2,714,l),
+(2,604,l),
+(111,571,l),
+(111,144,l),
+(2,110,l),
+(2,0,l),
+(414,0,l),
+(414,110,l)
+);
+}
+);
+width = 416;
+}
+);
+note = Iotaserifed;
+unicode = 42926;
+}

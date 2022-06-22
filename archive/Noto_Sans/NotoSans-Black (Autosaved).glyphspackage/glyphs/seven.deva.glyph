@@ -1,0 +1,24 @@
+{
+glyphname = seven.deva;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(299,0,l),
+(545,599,l),
+(545,713,l),
+(38,713,l),
+(38,554,l),
+(342,554,l),
+(101,0,l)
+);
+}
+);
+width = 578;
+}
+);
+note = seven.deva;
+}
