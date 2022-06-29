@@ -21,6 +21,17 @@ name = Width;
 tag = wdth;
 }
 );
+classes = (
+{
+code = "zero one two three four five six seven eight nine ";
+name = Num;
+},
+{
+code = "zero.canadian one.canadian two.canadian three.canadian four.canadian five.canadian six.canadian seven.canadian eight.canadian nine.canadian 
+";
+name = Num_can;
+}
+);
 customParameters = (
 {
 name = vendorID;
@@ -114,7 +125,10 @@ lookup SUB_0;
 tag = salt;
 },
 {
-code = "sub space by space.canadian;";
+code = "sub space by space.canadian;
+
+sub @Num by @Num_can;
+";
 labels = (
 {
 language = dflt;
