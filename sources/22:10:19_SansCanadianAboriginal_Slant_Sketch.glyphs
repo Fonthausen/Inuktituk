@@ -2,7 +2,8 @@
 .appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
-"ᐁᑌᑕᑫᘗ"
+"ᐁᑌᑕᑫᘗ",
+"ᐁ"
 );
 axes = (
 {
@@ -107,7 +108,7 @@ value = (
 }
 );
 date = "2022-10-19 14:23:16 +0000";
-familyName = "Sans Canadian Aboriginal";
+familyName = "Sans Canadian Aboriginalbb";
 featurePrefixes = (
 {
 automatic = 1;
@@ -5320,17 +5321,13 @@ color = 3;
 glyphname = "e-canadian";
 kernLeft = ecanleft;
 kernRight = ecanright;
-lastChange = "2022-10-19 16:51:12 +0000";
+lastChange = "2022-10-20 14:37:17 +0000";
 layers = (
 {
 anchors = (
 {
 name = middle_center_can;
 pos = (369,470);
-},
-{
-name = top;
-pos = (367,1069);
 },
 {
 name = top_center_can;
@@ -5405,12 +5402,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(298,19,l),
-(145,697,l),
+(299,19,l),
+(146,697,l),
 (142,691,l),
 (750,691,l),
-(752,703,l),
-(289,18,l)
+(751,703,l),
+(288,18,l)
 );
 }
 );
@@ -5490,23 +5487,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(374,-7,l),
+(367,-7,l),
 (880,669,l),
 (889,714,l),
 (117,714,l),
 (108,669,l),
-(319,-7,l)
+(312,-7,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(424,253,l),
-(322,579,l),
-(304,560,l),
-(618,560,l),
-(613,579,l),
-(379,253,l)
+(412,253,l),
+(311,579,l),
+(300,559,l),
+(614,559,l),
+(602,579,l),
+(367,253,l)
 );
 }
 );
@@ -5517,10 +5514,6 @@ anchors = (
 {
 name = middle_center_can;
 pos = (288,470);
-},
-{
-name = top;
-pos = (418,1065);
 },
 {
 name = top_center_can;
@@ -5611,10 +5604,6 @@ anchors = (
 {
 name = middle_center_can;
 pos = (337,469);
-},
-{
-name = top;
-pos = (460,1065);
 },
 {
 name = top_center_can;
@@ -18249,7 +18238,7 @@ unicode = 5204;
 color = 3;
 glyphname = "ta-canadian";
 kernRight = taright;
-lastChange = "2022-10-19 16:47:27 +0000";
+lastChange = "2022-10-20 12:21:54 +0000";
 layers = (
 {
 anchors = (
@@ -18622,23 +18611,23 @@ shapes = (
 closed = 1;
 nodes = (
 (403,0,l),
-(438,166,l),
-(352,168,ls),
-(263,170,o),
+(438,167,l),
+(352,167,ls),
+(263,167,o),
 (215,231,o),
 (245,374,cs),
 (275,516,o),
 (342,550,o),
 (431,549,cs),
-(509,548,l),
+(509,549,l),
 (544,714,l),
 (469,714,ls),
 (261,714,o),
 (116,636,o),
 (64,393,cs),
 (13,149,o),
-(112,4,o),
-(320,1,cs)
+(112,3,o),
+(320,0,cs)
 );
 }
 );
@@ -18654,7 +18643,7 @@ unicode = 5205;
 color = 7;
 glyphname = "taa-canadian";
 kernRight = taright;
-lastChange = "2022-10-19 16:49:28 +0000";
+lastChange = "2022-10-20 12:30:41 +0000";
 layers = (
 {
 background = {
@@ -18702,11 +18691,11 @@ ref = "ta-canadian";
 },
 {
 anchor = top_center_can;
-pos = (373,-5);
+pos = (371,-5);
 ref = dot_top;
 }
 );
-width = 708;
+width = 628;
 },
 {
 background = {
@@ -18758,7 +18747,7 @@ pos = (314,0);
 ref = dot_top;
 }
 );
-width = 529;
+width = 487;
 }
 );
 note = uni1456;
@@ -18767,7 +18756,7 @@ unicode = 5206;
 {
 color = 7;
 glyphname = "twe-canadian";
-lastChange = "2022-10-19 16:50:07 +0000";
+lastChange = "2022-10-20 10:01:36 +0000";
 layers = (
 {
 background = {
@@ -18819,7 +18808,7 @@ pos = (270,0);
 ref = "te-canadian";
 }
 );
-width = 1083;
+width = 1003;
 },
 {
 background = {
@@ -18880,7 +18869,7 @@ unicode = 5207;
 {
 color = 7;
 glyphname = "tweWestCree-canadian";
-lastChange = "2022-10-19 16:50:07 +0000";
+lastChange = "2022-10-20 10:01:36 +0000";
 layers = (
 {
 background = {
@@ -18928,11 +18917,11 @@ ref = "te-canadian";
 },
 {
 anchor = middle_right_can;
-pos = (813,0);
+pos = (733,0);
 ref = "middledotFinal-canadian";
 }
 );
-width = 1083;
+width = 1003;
 },
 {
 background = {
@@ -20060,7 +20049,7 @@ unicode = 5216;
 color = 7;
 glyphname = "twa-canadian";
 kernRight = taright;
-lastChange = "2022-10-19 16:49:28 +0000";
+lastChange = "2022-10-20 12:30:41 +0000";
 layers = (
 {
 background = {
@@ -20112,7 +20101,7 @@ pos = (270,0);
 ref = "ta-canadian";
 }
 );
-width = 978;
+width = 898;
 },
 {
 background = {
@@ -20164,7 +20153,7 @@ pos = (210,0);
 ref = "ta-canadian";
 }
 );
-width = 739;
+width = 697;
 }
 );
 note = uni1461;
@@ -20173,7 +20162,7 @@ unicode = 5217;
 {
 color = 7;
 glyphname = "twaWestCree-canadian";
-lastChange = "2022-10-19 16:49:28 +0000";
+lastChange = "2022-10-20 12:30:41 +0000";
 layers = (
 {
 background = {
@@ -20221,11 +20210,11 @@ ref = "ta-canadian";
 },
 {
 anchor = middle_right_can;
-pos = (708,0);
+pos = (628,0);
 ref = "middledotFinal-canadian";
 }
 );
-width = 978;
+width = 898;
 },
 {
 background = {
@@ -20273,11 +20262,11 @@ ref = "ta-canadian";
 },
 {
 anchor = middle_right_can;
-pos = (529,0);
+pos = (487,0);
 ref = "middledotFinal-canadian";
 }
 );
-width = 739;
+width = 697;
 }
 );
 note = uni1462;
@@ -20287,7 +20276,7 @@ unicode = 5218;
 color = 7;
 glyphname = "twaa-canadian";
 kernRight = taright;
-lastChange = "2022-10-19 16:49:28 +0000";
+lastChange = "2022-10-20 12:30:41 +0000";
 layers = (
 {
 background = {
@@ -20355,11 +20344,11 @@ ref = "ta-canadian";
 },
 {
 anchor = top_center_can;
-pos = (643,-5);
+pos = (641,-5);
 ref = dot_top;
 }
 );
-width = 978;
+width = 898;
 },
 {
 background = {
@@ -20431,7 +20420,7 @@ pos = (524,0);
 ref = dot_top;
 }
 );
-width = 739;
+width = 697;
 }
 );
 note = uni1463;
@@ -20440,7 +20429,7 @@ unicode = 5219;
 {
 color = 7;
 glyphname = "twaaWestCree-canadian";
-lastChange = "2022-10-19 16:49:28 +0000";
+lastChange = "2022-10-20 12:30:41 +0000";
 layers = (
 {
 background = {
@@ -20503,16 +20492,16 @@ ref = "ta-canadian";
 },
 {
 anchor = top_center_can;
-pos = (373,-5);
+pos = (371,-5);
 ref = dot_top;
 },
 {
 anchor = middle_right_can;
-pos = (708,0);
+pos = (628,0);
 ref = "middledotFinal-canadian";
 }
 );
-width = 978;
+width = 898;
 },
 {
 background = {
@@ -20580,11 +20569,11 @@ ref = dot_top;
 },
 {
 anchor = middle_right_can;
-pos = (529,0);
+pos = (487,0);
 ref = "middledotFinal-canadian";
 }
 );
-width = 739;
+width = 697;
 }
 );
 note = uni1464;
@@ -20593,7 +20582,7 @@ unicode = 5220;
 {
 color = 7;
 glyphname = "twaaNaskapi-canadian";
-lastChange = "2022-10-19 16:49:28 +0000";
+lastChange = "2022-10-20 12:30:41 +0000";
 layers = (
 {
 background = {
@@ -20645,7 +20634,7 @@ pos = (270,0);
 ref = "ta-canadian";
 }
 );
-width = 978;
+width = 898;
 },
 {
 background = {
@@ -20697,7 +20686,7 @@ pos = (210,0);
 ref = "ta-canadian";
 }
 );
-width = 739;
+width = 697;
 }
 );
 note = uni1465;
@@ -20941,7 +20930,7 @@ unicode = 5222;
 {
 color = 7;
 glyphname = "tte-canadian";
-lastChange = "2022-10-19 16:50:07 +0000";
+lastChange = "2022-10-20 10:01:36 +0000";
 layers = (
 {
 background = {
@@ -20985,11 +20974,11 @@ shapes = (
 ref = "te-canadian";
 },
 {
-pos = (813,0);
+pos = (733,0);
 ref = "pWestCree-canadian";
 }
 );
-width = 1066;
+width = 986;
 },
 {
 background = {
@@ -21256,7 +21245,7 @@ unicode = 5225;
 {
 color = 7;
 glyphname = "tta-canadian";
-lastChange = "2022-10-19 16:49:28 +0000";
+lastChange = "2022-10-20 12:30:41 +0000";
 layers = (
 {
 background = {
@@ -21300,11 +21289,11 @@ shapes = (
 ref = "ta-canadian";
 },
 {
-pos = (708,0);
+pos = (628,0);
 ref = "pWestCree-canadian";
 }
 );
-width = 961;
+width = 881;
 },
 {
 background = {
@@ -21348,11 +21337,11 @@ shapes = (
 ref = "ta-canadian";
 },
 {
-pos = (529,0);
+pos = (487,0);
 ref = "pWestCree-canadian";
 }
 );
-width = 717;
+width = 675;
 }
 );
 note = uni146A;
@@ -23953,7 +23942,7 @@ unicode = 5235;
 {
 color = 7;
 glyphname = "kwe-canadian";
-lastChange = "2022-10-19 16:50:07 +0000";
+lastChange = "2022-10-20 10:01:36 +0000";
 layers = (
 {
 background = {
@@ -24005,7 +23994,7 @@ pos = (270,0);
 ref = "ke-canadian";
 }
 );
-width = 948;
+width = 878;
 },
 {
 background = {
@@ -24066,7 +24055,7 @@ unicode = 5236;
 {
 color = 7;
 glyphname = "kweWestCree-canadian";
-lastChange = "2022-10-19 16:50:07 +0000";
+lastChange = "2022-10-20 10:01:36 +0000";
 layers = (
 {
 background = {
@@ -24114,11 +24103,11 @@ ref = "ke-canadian";
 },
 {
 anchor = middle_right_can;
-pos = (678,0);
+pos = (608,0);
 ref = "middledotFinal-canadian";
 }
 );
-width = 948;
+width = 878;
 },
 {
 background = {
@@ -26600,7 +26589,7 @@ unicode = 5252;
 {
 color = 7;
 glyphname = "southslaveykeh-canadian";
-lastChange = "2022-10-19 16:50:07 +0000";
+lastChange = "2022-10-20 10:01:36 +0000";
 layers = (
 {
 background = {
@@ -26644,11 +26633,11 @@ shapes = (
 ref = "ke-canadian";
 },
 {
-pos = (678,0);
+pos = (608,0);
 ref = "pWestCree-canadian";
 }
 );
-width = 931;
+width = 861;
 },
 {
 background = {
@@ -51904,7 +51893,7 @@ unicode = 5388;
 color = 7;
 glyphname = "stwaNaskapi-canadian";
 kernRight = taright;
-lastChange = "2022-10-19 16:49:28 +0000";
+lastChange = "2022-10-20 12:30:41 +0000";
 layers = (
 {
 background = {
@@ -51952,7 +51941,7 @@ pos = (451,0);
 ref = "ta-canadian";
 }
 );
-width = 1159;
+width = 1079;
 },
 {
 background = {
@@ -52000,7 +51989,7 @@ pos = (319,0);
 ref = "ta-canadian";
 }
 );
-width = 848;
+width = 806;
 }
 );
 note = uni150D;
@@ -170034,7 +170023,7 @@ unicode = 6326;
 color = 6;
 glyphname = "tay-canadian";
 kernRight = taright;
-lastChange = "2022-10-19 16:49:28 +0000";
+lastChange = "2022-10-20 10:01:36 +0000";
 layers = (
 {
 background = {
@@ -170138,7 +170127,7 @@ pos = (293,0);
 ref = ring_top;
 }
 );
-width = 529;
+width = 487;
 }
 );
 note = uni18B7;
