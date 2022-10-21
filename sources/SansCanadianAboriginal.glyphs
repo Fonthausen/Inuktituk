@@ -1,6 +1,17 @@
 {
-.appVersion = "3139";
+.appVersion = "3133";
 .formatVersion = 3;
+DisplayStrings = (
+"ᑌᑎᕫᕬᑕᑐᕼ
+ᑕᐁᑌᑫᑲᕼᘗ
+ᗜᗝᗞᗡᑕᑐ
+ᐁᐅᐊᐈᐳᐸᐯᐱᗄᗅᗊᗋ
+ᘗᘘᘙᘗᘚᘛ
+ᑫᑲ /me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒣᒥᒧᒪᖴᖵᖶᖷ
+ᓭᓯᓱᓴᔦᔨᔪᔭ
+ᖼᖽᖾᖿ
+ᕄᕆᕂᕃᕈᕊᕋᕍᖸᖹᖺᖻ"
+);
 axes = (
 {
 name = Weight;
@@ -56384,7 +56395,7 @@ unicode = 5413;
 color = 2;
 glyphname = "ye-canadian";
 kernLeft = yeleft;
-lastChange = "2022-10-03 15:57:26 +0000";
+lastChange = "2022-10-21 15:17:54 +0000";
 layers = (
 {
 anchors = (
@@ -56434,6 +56445,12 @@ nodes = (
 }
 );
 };
+guides = (
+{
+angle = 135;
+pos = (525,717);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -94728,7 +94745,7 @@ unicode = 5561;
 {
 color = 2;
 glyphname = "noBlackfoot-canadian";
-lastChange = "2022-10-03 10:24:06 +0000";
+lastChange = "2022-10-21 16:26:48 +0000";
 layers = (
 {
 background = {
@@ -104798,7 +104815,7 @@ unicode = 5596;
 {
 color = 2;
 glyphname = "thoCarrier-canadian";
-lastChange = "2022-09-28 18:30:34 +0000";
+lastChange = "2022-10-21 12:40:54 +0000";
 layers = (
 {
 background = {
@@ -105678,7 +105695,7 @@ unicode = 5600;
 {
 color = 2;
 glyphname = "thaCarrier-canadian";
-lastChange = "2022-10-03 12:17:13 +0000";
+lastChange = "2022-10-21 12:44:18 +0000";
 layers = (
 {
 background = {
@@ -125995,7 +126012,7 @@ unicode = 5655;
 {
 color = 2;
 glyphname = "jeeCarrier-canadian";
-lastChange = "2022-09-28 20:03:35 +0000";
+lastChange = "2022-10-21 09:27:24 +0000";
 layers = (
 {
 background = {
@@ -126438,7 +126455,7 @@ unicode = 5656;
 {
 color = 2;
 glyphname = "jiCarrier-canadian";
-lastChange = "2022-09-28 20:06:00 +0000";
+lastChange = "2022-10-21 15:02:12 +0000";
 layers = (
 {
 background = {
@@ -126945,7 +126962,7 @@ unicode = 5657;
 {
 color = 2;
 glyphname = "jiSayisi-canadian";
-lastChange = "2022-09-28 20:06:05 +0000";
+lastChange = "2022-10-21 09:33:47 +0000";
 layers = (
 {
 background = {
@@ -127384,7 +127401,7 @@ unicode = 5658;
 {
 color = 2;
 glyphname = "jaCarrier-canadian";
-lastChange = "2022-09-28 20:06:08 +0000";
+lastChange = "2022-10-21 09:32:43 +0000";
 layers = (
 {
 anchors = (
