@@ -2,15 +2,17 @@
 .appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
-"ᑌᑎᕫᕬᑕᑐᕼ
-ᑕᐁᑌᑫᑲᕼᘗ
-ᗜᗝᗞᗡᑕᑐ
-ᐁᐅᐊᐈᐳᐸᐯᐱᗄᗅᗊᗋ
-ᘗᘘᘙᘗᘚᘛ
-ᑫᑲ /me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒣᒥᒧᒪᖴᖵᖶᖷ
-ᓭᓯᓱᓴᔦᔨᔪᔭ
-ᖼᖽᖾᖿ
-ᕄᕆᕂᕃᕈᕊᕋᕍᖸᖹᖺᖻ"
+"ᑫᑭᑯᓀᓂᓄᓇᖛᖜᖝᖞᕴᕵᕷᕹᖆᖇᖈᖉᖯᖰᖱᖲᖳ
+
+ᒉᒋᒍᒐᓓᓕᓗᓚᖊᖋᖌᖍᖗᖘᖙᖚᖠᖢᖤ
+ᒿᔐᔑᔓᔕ
+
+ᕓᕕᕗᕙ
+ᕞᕟᕠᕡᕤᕦᗀᕯ
+ᕭᕮᕰᕱᕲᕳ
+
+ᕒᖧᖨᔦᔨᖪᖬᓬᔌ",
+"ᓬ"
 );
 axes = (
 {
@@ -52108,7 +52110,7 @@ unicode = 5391;
 color = 2;
 glyphname = "she-canadian";
 kernRight = caright;
-lastChange = "2022-10-03 15:44:00 +0000";
+lastChange = "2022-10-24 14:33:06 +0000";
 layers = (
 {
 anchors = (
