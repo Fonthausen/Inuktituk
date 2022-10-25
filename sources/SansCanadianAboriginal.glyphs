@@ -4,6 +4,17 @@
 DisplayStrings = (
 "ᑫᑭᑯᓀᓂᓄᓇᖛᖜᖝᖞᕴᕵᕷᕹᖆᖇᖈᖉᖯᖰᖱᖲᖳ
 
+ᑌᑎᕫᕬ
+ᗜᗝᗡᑕ
+ᐁᐅᐊᐈᐳᐸᐯᐱᗄᗅᗊᗋ
+ᘗᘘᘙᘚᘛ
+ᗡᑕᗞᑐᗢᗣᗤᗧᗨᗩᗪᗭ
+ᑫᑲᕴᕵᕷᕹᖆᖇᖈᖉᖯ ᕼ/me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒣᒥᒧᒪᖴᖵᖶᖷ
+ᓭᓯᓱᓴᔦᔨᔪᔭ
+ᕼᖽᖾᖼᖿ
+ᑌᑎᕄᕆᕂᕃ
+ᗡᑕᕈᕊᕋᕍᖸᖹᖺᖻ
+
 ᒉᒋᒍᒐᓓᓕᓗᓚᖊᖋᖌᖍᖗᖘᖙᖚᖠᖢᖤ
 ᒿᔐᔑᔓᔕ
 
@@ -11,8 +22,14 @@ DisplayStrings = (
 ᕞᕟᕠᕡᕤᕦᗀᕯ
 ᕭᕮᕰᕱᕲᕳ
 
-ᕒᖧᖨᔦᔨᖪᖬᓬᔌ",
-"ᓬ"
+ᕒᖧᖨᔦᔨᖪᖬᓬᔌ
+ᗆᗉᗌᗍ
+
+ᐅᐊᐯᐳᗁᗂᗃᗆᗌᗍᗎᗏᗉᗐᗑᗒᗓᗔᗕᗖᗗᗘᗙᗚᗛ/ye-canadian.square/yi-canadian.square/yo-canadian.square/ya-canadian.square/theThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square",
+"ᓭᓯᓱᓴ/ye-canadian.square/yi-canadian.square/yo-canadian.square/ya-canadian.square/theThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᐀᙭᙮/uni11AB0/uni11AB1/uni11AB2/uni11AB3/uni11AB4/uni11AB5/uni11AB6/uni11AB7/uni11AB8/uni11AB9/uni11ABA/uni11ABB/uni11ABC/uni11ABD/uni11ABE/uni11ABF 
+.,-‚„“”‘’◌̇˙ˇ˘˚/ring_top/.notdef ˛
+
+ᕓᕕᕗᕙᕞᕟᕠᕡᕤᕦᖗᖘᖙᖚᗯᗰᗱᗲᗳᗴᗵᗶᗷᗸᗹᗺᗻᗼᗽᗾᗿᘀᘂᘃᘄᘇᘈᘉᘊᘋᘌᘍᘎᘏᘐᘑᘒᘓᘔᘕᘖᘜᘝᘞᘟᘠᘡᘢᘣᘤᘧᘨᘩᘪᘭᘮᘯᘰᘳᘴᘵᘶᘹᘺᘻᘼᘿᙀᙁᙂᙅᙈᙉᙊᙍᙎᙏᙐᙑᙒᙓᙔᙕᙖᙗᙘᙙᙛᙜᙝᙞᙟᙠᙡᙢᙣᙤᙥᙦᙧᙨᙩᙪᙫᙬ/ke-canadian.square/ki-canadian.square/ko-canadian.square/ka-canadian.square/ce-canadian.square/ci-canadian.square/co-canadian.square/ca-canadian.square/ne-canadian.square/ni-canadian.square/no-canadian.square/na-canadian.square/se-canadian.square/si-canadian.square/so-canadian.square/sa-canadian.square/sho-canadian.square/sha-canadian.square/re-canadian.square/reRCree-canadian.square/leWestCree-canadian.square/ri-canadian.square/ro-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square/reWestCree-canadian.square/riWestCree-canadian.square/roWestCree-canadian.square/raWestCree-canadian.square 0123456789/zero.canadian/one.canadian/two.canadian/three.canadian/four.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian “”‘’̇˙ˇ˘/dot_middle/dot_middle_optic_halfsmall/dot_middle_optic_small/dot_top/doubledot_middle/doubledot_top/g727/g729/g739/stroke_middle/stroke_middle_optic_halfsmall/stroke_middle_optic_small/stroke_middle_optic_threequart/raiseddoubledotFinal-canadian.cree"
 );
 axes = (
 {
@@ -76299,7 +76316,7 @@ unicode = 5491;
 {
 color = 2;
 glyphname = "heNunavik-canadian";
-lastChange = "2022-09-29 20:46:18 +0000";
+lastChange = "2022-10-25 13:40:26 +0000";
 layers = (
 {
 background = {
@@ -105697,7 +105714,7 @@ unicode = 5600;
 {
 color = 2;
 glyphname = "thaCarrier-canadian";
-lastChange = "2022-10-21 12:44:18 +0000";
+lastChange = "2022-10-25 14:49:30 +0000";
 layers = (
 {
 background = {
