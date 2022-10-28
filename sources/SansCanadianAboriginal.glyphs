@@ -2,42 +2,10 @@
 .appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
-"ᑫᑭᑯᓀᓂᓄᓇᖛᖜᖝᖞᕴᕵᕷᕹᖆᖇᖈᖉᖯᖰᖱᖲᖳ
-
-ᑌᑎᕫᕬ
-ᗜᗝᗡᑕ
-ᐁᐅᐊᐈᐳᐸᐯᐱᗄᗅᗊᗋ ᗴᘍ
-ᘗᘘᘙᘚᘛ
-ᗡᑕᗞᑐᗢᗣᗤᗧᗨᗩᗪᗭᗱᘊ
-ᑫᑲᕴᕵᕷᕹᖆᖇᖈᖉᖯ ᕼ/me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒣᒥᒧᒪᖴᖵᖶᖷ
-ᓭᓯᓱᓴᔦᔨᔪᔭ
-ᕼᖽᖾᖼᖿ
-ᑌᑎᕄᕆᕂᕃ
-ᗡᑕᕈᕊᕋᕍᖸᖹᖺᖻ
-
-ᒉᒋᒍᒐᓓᓕᓗᓚᖊᖋᖌᖍᖗᖘᖙᖚᖠᖢᖤ
-ᒿᔐᔑᔓᔕ
-
-ᕓᕕᕗᕙ
-ᕞᕟᕠᕡᕤᕦᗀᕯ
-ᕭᕮᕰᕱᕲᕳ
-
-ᕒᖧᖨᔦᔨᖪᖬᓬᔌ
-ᗆᗉᗌᗍ
-
-ᐅᐊᐯᐳᗁᗂᗃᗆᗌᗍᗎᗏᗉᗐᗑᗒᗓᗔᗕᗖᗗᗘᗙᗚᗛ/ye-canadian.square/yi-canadian.square/yo-canadian.square/ya-canadian.square/theThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square",
-"ᗯᗰᗵᗶᗻᗼᘈᘉᙎᙏᙔᙕᙡᙢᙧᙨ
-ᖗᖘᖙᖚᗱᗲᗳᗷᗸᗹᗺᗽᗾᗿᘀᗱᘊᘋᘌᗴᘍ
-/ke-canadian.square/ki-canadian.square/ka-canadian.square/ko-canadian.square/ro-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square/ce-canadian.square/ci-canadian.square/co-canadian.square/ca-canadian.square/reWestCree-canadian.square/riWestCree-canadian.square/roWestCree-canadian.square/raWestCree-canadian.square 
-/ne-canadian.square/ni-canadian.square/no-canadian.square/na-canadian.square/se-canadian.square/si-canadian.square/so-canadian.square/sa-canadian.square/sho-canadian.square ᗱᗱᗱ/g727/sha-canadian.square/re-canadian.square/reRCree-canadian.square/leWestCree-canadian.square/ri-canadian.square 
-
-ᘂᘃᘄᘇᕓᕕᕗᕙ
-ᑌᑎᕞᕟᕟᕠ
-/g739/stroke_middle/stroke_middle_optic_halfsmall/stroke_middle_optic_small/stroke_middle_optic_threequart 
-ᕤᕦ
-
-ᘎᘏᘐᘑᘒᘓᘔᘕᘖᘜ/ng-canadian.nunavik ᘗᘘᘙᘚᘛᘝᘞᘟᘠᘡᘢᘣᘤᘧᘨᘩᘪᘭᘮᘯᘰᘳᘴᘵᘶᘹᘺᘻᘼᘿᙀᙁᙂᙅᙈᙉᙊᙍᙐᙑᙒᙓᙖᙗᙘᙙᙝᙞᙟᙠᙣᙤᙥᙦᙩᙪᙫᙬ0123456789/zero.canadian/one.canadian/two.canadian/three.canadian/four.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian “”‘’̇˙ˇ˘/dot_middle/dot_middle_optic_halfsmall/dot_middle_optic_small/dot_top/doubledot_middle/doubledot_top/g727/g729/raiseddoubledotFinal-canadian.cree",
-""
+"ıᐟᐠᐥᐦᑊᒻᒽᐨᐩᐪᙾ/plusFinal-canadian.base ᐞᑉᓫᔾᔿᕀᕑᖮᗮᘁᙆᙇᙿᣔ
+ᐡᐢᒡᒢᓪᑦᐣᖦᕐᐜᐤᔇᔋᔈᔅᑋᒾᣟᐧᣞᐝᓐᓒᒃᒄᔉᔊᕝᕪᕻᖕᖖᖟᔥᔆᣛ
+ıᐟᐠᐡᐢᐣᐤᐥᐦᐧᐨᐩᐪᙾᣞᣟ/plusFinal-canadian.base ᐜᐝᐞᑉᑊᑋᑦᒃᒄᒡᒢᒻᒽᒾᓐᓒᓪᓫᔅᔆᔇᔈᔉᔊᔋᔥᔾᔿᕀᕐᕑᕝᕪᕻᖕᖖᖟᖦᖮᗮᘁᘔᘖᘜᘝᘺᘻᘼᘿᙀᙁᙂᙅᙆᙇᙈᙉᙍᙚᙿᣔᣖᣗᣘᣙᣚᣛᣴᣵ2356789/two.canadian/three.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian .,-“”‘’̇˙ˇ˘/dot_middle/dot_middle_optic_halfsmall/dot_middle_optic_small/dot_top/doubledot_middle/doubledot_top/raiseddoubledotFinal-canadian.cree",
+"ᐅᖕᑬᐰᒣᐈ"
 );
 axes = (
 {
@@ -6968,7 +6936,7 @@ unicode = 5127;
 {
 color = 2;
 glyphname = "eeCarrier-canadian";
-lastChange = "2022-09-29 19:37:15 +0000";
+lastChange = "2022-10-28 18:25:02 +0000";
 layers = (
 {
 background = {
@@ -25804,7 +25772,7 @@ color = 2;
 glyphname = "k-canadian";
 kernLeft = mwestleft;
 kernRight = mwestright;
-lastChange = "2022-10-04 14:13:39 +0000";
+lastChange = "2022-10-28 17:04:12 +0000";
 layers = (
 {
 background = {
@@ -44362,7 +44330,7 @@ color = 2;
 glyphname = "l-canadian";
 kernLeft = mwestleft;
 kernRight = mwestright;
-lastChange = "2022-10-04 14:27:49 +0000";
+lastChange = "2022-10-27 16:12:31 +0000";
 layers = (
 {
 background = {
@@ -66862,7 +66830,7 @@ color = 2;
 glyphname = "fa-canadian";
 kernLeft = acanleft;
 kernRight = acanright;
-lastChange = "2022-10-03 15:41:57 +0000";
+lastChange = "2022-10-28 19:07:38 +0000";
 layers = (
 {
 anchors = (
@@ -66954,8 +66922,8 @@ nodes = (
 (445,709,o),
 (414,682,cs),
 (45,367,l),
-(45,347,l),
-(648,0,l)
+(46,347,l),
+(649,0,l)
 );
 },
 {
@@ -89991,7 +89959,7 @@ color = 2;
 glyphname = "lh-canadian";
 kernLeft = mwestleft;
 kernRight = mwestright;
-lastChange = "2022-10-04 15:23:01 +0000";
+lastChange = "2022-10-27 16:12:44 +0000";
 layers = (
 {
 background = {
@@ -90052,6 +90020,29 @@ nodes = (
 (481,372,l),
 (377,228,l),
 (395,215,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(479,357,l),
+(479,379,l),
+(259,379,ls),
+(150,379,o),
+(98,437,o),
+(98,536,cs),
+(98,635,o),
+(150,692,o),
+(259,692,cs),
+(279,692,l),
+(279,714,l),
+(259,714,ls),
+(139,714,o),
+(75,645,o),
+(75,536,cs),
+(75,427,o),
+(139,357,o),
+(256,357,cs)
 );
 }
 );
@@ -127903,7 +127894,7 @@ unicode = 5659;
 {
 color = 2;
 glyphname = "jjuCarrier-canadian";
-lastChange = "2022-09-28 20:07:21 +0000";
+lastChange = "2022-10-28 10:16:52 +0000";
 layers = (
 {
 background = {
@@ -137736,7 +137727,7 @@ unicode = 5689;
 {
 color = 2;
 glyphname = "tluCarrier-canadian";
-lastChange = "2022-09-29 11:00:56 +0000";
+lastChange = "2022-10-28 10:23:50 +0000";
 layers = (
 {
 background = {
@@ -138829,7 +138820,7 @@ unicode = 5691;
 {
 color = 2;
 glyphname = "tleCarrier-canadian";
-lastChange = "2022-09-29 11:02:58 +0000";
+lastChange = "2022-10-28 10:25:45 +0000";
 layers = (
 {
 anchors = (
@@ -146235,7 +146226,7 @@ unicode = 5711;
 {
 color = 2;
 glyphname = "seCarrier-canadian";
-lastChange = "2022-09-29 11:18:55 +0000";
+lastChange = "2022-10-27 15:10:48 +0000";
 layers = (
 {
 background = {
@@ -200567,7 +200558,7 @@ note = uni18E2;
 {
 color = 0;
 glyphname = zero;
-lastChange = "2022-10-04 15:41:42 +0000";
+lastChange = "2022-10-27 11:23:40 +0000";
 layers = (
 {
 background = {
@@ -201079,7 +201070,7 @@ unicode = 49;
 {
 color = 0;
 glyphname = two;
-lastChange = "2022-10-04 15:41:42 +0000";
+lastChange = "2022-10-28 12:10:17 +0000";
 layers = (
 {
 background = {
@@ -203055,7 +203046,7 @@ unicode = 55;
 {
 color = 0;
 glyphname = eight;
-lastChange = "2022-10-04 15:41:42 +0000";
+lastChange = "2022-10-28 14:07:37 +0000";
 layers = (
 {
 background = {
@@ -203607,7 +203598,7 @@ unicode = 56;
 {
 color = 0;
 glyphname = nine;
-lastChange = "2022-10-04 15:41:42 +0000";
+lastChange = "2022-10-28 15:26:53 +0000";
 layers = (
 {
 background = {
@@ -203708,6 +203699,54 @@ nodes = (
 (75,374,o),
 (75,491,cs),
 (75,620,o),
+(141,699,o),
+(262,699,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(493,567,o),
+(430,724,o),
+(262,724,cs),
+(129,724,o),
+(48,632,o),
+(48,489,cs),
+(48,358,o),
+(125,275,o),
+(257,275,cs),
+(359,275,o),
+(435,325,o),
+(466,392,c),
+(468,392,l),
+(463,176,o),
+(388,13,o),
+(194,13,cs),
+(154,13,o),
+(120,19,o),
+(96,28,c),
+(96,1,l),
+(123,-7,o),
+(154,-12,o),
+(194,-12,cs),
+(417,-12,o),
+(493,180,o),
+(493,411,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(420,699,o),
+(461,546,o),
+(461,456,cs),
+(461,368,o),
+(357,300,o),
+(257,300,cs),
+(134,300,o),
+(75,372,o),
+(75,489,cs),
+(75,618,o),
 (141,699,o),
 (262,699,cs)
 );
@@ -204039,7 +204078,7 @@ unicode = 57;
 {
 color = 2;
 glyphname = zero.canadian;
-lastChange = "2022-09-29 18:57:39 +0000";
+lastChange = "2022-10-27 11:24:01 +0000";
 layers = (
 {
 background = {
@@ -204807,7 +204846,7 @@ note = uni14BF;
 {
 color = 2;
 glyphname = three.canadian;
-lastChange = "2022-09-29 18:57:39 +0000";
+lastChange = "2022-10-28 12:33:09 +0000";
 layers = (
 {
 background = {
@@ -205817,7 +205856,7 @@ width = 520;
 {
 color = 2;
 glyphname = six.canadian;
-lastChange = "2022-09-29 18:57:39 +0000";
+lastChange = "2022-10-28 13:15:48 +0000";
 layers = (
 {
 background = {
@@ -206468,7 +206507,7 @@ width = 423;
 {
 color = 2;
 glyphname = eight.canadian;
-lastChange = "2022-09-29 18:57:39 +0000";
+lastChange = "2022-10-28 12:55:19 +0000";
 layers = (
 {
 background = {
@@ -207037,7 +207076,7 @@ metricRight = "geCarrier-canadian";
 {
 color = 2;
 glyphname = nine.canadian;
-lastChange = "2022-09-29 18:57:39 +0000";
+lastChange = "2022-10-28 12:33:59 +0000";
 layers = (
 {
 background = {
@@ -212297,7 +212336,7 @@ unicode = 9676;
 },
 {
 glyphname = dotaccentcomb;
-lastChange = "2022-09-28 16:00:22 +0000";
+lastChange = "2022-10-28 13:50:53 +0000";
 layers = (
 {
 background = {
