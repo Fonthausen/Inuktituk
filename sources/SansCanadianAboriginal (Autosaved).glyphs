@@ -4333,7 +4333,7 @@ note = uni1423;
 {
 color = 2;
 glyphname = "plusFinal-canadian.base";
-lastChange = "2022-10-04 14:10:55 +0000";
+lastChange = "2022-11-02 14:28:09 +0000";
 layers = (
 {
 background = {
@@ -4519,6 +4519,7 @@ width = 350;
 metricLeft = "shorthorizontalstrokeFinal-canadian";
 metricRight = "shorthorizontalstrokeFinal-canadian";
 note = uni1429;
+changeCount = 24;
 },
 {
 color = 7;
@@ -5335,7 +5336,7 @@ color = 2;
 glyphname = "e-canadian";
 kernLeft = ecanleft;
 kernRight = ecanright;
-lastChange = "2022-10-04 10:53:20 +0000";
+lastChange = "2022-11-02 18:24:10 +0000";
 layers = (
 {
 anchors = (
@@ -57531,6 +57532,7 @@ metricLeft = "ye-canadian";
 metricWidth = "ye-canadian";
 note = uni152A;
 unicode = 5418;
+changeCount = 1;
 },
 {
 color = 7;
@@ -60073,7 +60075,7 @@ color = 2;
 glyphname = "y-canadian";
 kernLeft = mwestleft;
 kernRight = mwestright;
-lastChange = "2022-10-04 14:28:54 +0000";
+lastChange = "2022-11-02 11:05:07 +0000";
 layers = (
 {
 background = {
@@ -90306,7 +90308,7 @@ unicode = 5542;
 {
 color = 2;
 glyphname = "theThCree-canadian";
-lastChange = "2022-10-03 10:15:15 +0000";
+lastChange = "2022-11-02 10:10:47 +0000";
 layers = (
 {
 anchors = (
@@ -90620,6 +90622,7 @@ width = 520;
 metricLeft = "ye-canadian";
 note = uni15A7;
 unicode = 5543;
+changeCount = 2;
 },
 {
 color = 2;
@@ -91928,7 +91931,7 @@ color = 2;
 glyphname = "thThCree-canadian";
 kernLeft = mwestleft;
 kernRight = mwestright;
-lastChange = "2022-10-04 14:30:12 +0000";
+lastChange = "2022-11-02 11:21:31 +0000";
 layers = (
 {
 background = {
@@ -95346,7 +95349,7 @@ unicode = 5563;
 {
 color = 2;
 glyphname = "keBlackfoot-canadian";
-lastChange = "2022-10-03 10:24:13 +0000";
+lastChange = "2022-11-02 16:19:44 +0000";
 layers = (
 {
 background = {
@@ -95423,16 +95426,8 @@ nodes = (
 };
 guides = (
 {
-angle = 238.504;
-pos = (709,744);
-},
-{
-angle = 122.7874;
-pos = (24,744);
-},
-{
-angle = 57.2126;
-pos = (488,714);
+angle = 238.34;
+pos = (492,714);
 },
 {
 angle = 122.7874;
@@ -95576,11 +95571,12 @@ width = 550;
 metricLeft = "nunavuth-canadian";
 note = uni15BC;
 unicode = 5564;
+changeCount = 19;
 },
 {
 color = 2;
 glyphname = "kiBlackfoot-canadian";
-lastChange = "2022-10-03 10:24:16 +0000";
+lastChange = "2022-11-02 16:12:27 +0000";
 layers = (
 {
 background = {
@@ -95759,7 +95755,7 @@ unicode = 5565;
 {
 color = 2;
 glyphname = "koBlackfoot-canadian";
-lastChange = "2022-10-03 10:24:20 +0000";
+lastChange = "2022-11-02 16:19:06 +0000";
 layers = (
 {
 background = {
@@ -95914,7 +95910,8 @@ shapes = (
 closed = 1;
 nodes = (
 (212,0,l),
-(291,182,l),
+(323,257,l),
+(259,257,l),
 (370,0,l),
 (550,0,l),
 (351,458,l),
@@ -95934,6 +95931,7 @@ metricLeft = "nunavuth-canadian";
 metricRight = "keBlackfoot-canadian";
 note = uni15BE;
 unicode = 5566;
+changeCount = 44;
 },
 {
 color = 2;
@@ -207678,7 +207676,7 @@ unicode = 13;
 },
 {
 glyphname = .notdef;
-lastChange = "2022-09-28 16:00:22 +0000";
+lastChange = "2022-11-01 15:10:17 +0000";
 layers = (
 {
 background = {
@@ -207882,6 +207880,7 @@ width = 432;
 }
 );
 note = ".notdef";
+changeCount = 2;
 },
 {
 glyphname = .null;
