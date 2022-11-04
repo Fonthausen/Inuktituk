@@ -1,6 +1,22 @@
 {
-.appVersion = "3139";
+.appVersion = "3143";
 .formatVersion = 3;
+DisplayStrings = (
+"/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋ
+ᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘ/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋ
+/.notdef ıᑊᐟᐠᐥᐦᐧᐨᐪᙾᣞᐝᐤᣟᕼᒣᒥᒧᒪ/me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒻᒽᖴᖵᖶᖷ/uni11ABE/uni11ABF/uni11ABC/uni11ABD ᙆᙿ᐀ᕀᐩ/plusFinal-canadian.base ᣔᘁᐞᗮᖼᖽᖾᖿᔾᔱᔲᔳᔴᔪᔵᔶᔷᔸᔹᔺᔻᔼᔭᔽ/ye-canadian.square/yi-canadian.square/yii-canadian.square/yo-canadian.square/yoo-canadian.square/ya-canadian.square/yaa-canadian.square ᙷᙸᙹᙺᙻᙼᙽ/theThCree-canadian.square/thiThCree-canadian.square/dot_top/thiiThCree-canadian.square/thoThCree-canadian.square/thooThCree-canadian.square/thaThCree-canadian.square/thaaThCree-canadian.square/thweeWoodScree-canadian.square/thwiWoodScree-canadian.square/thwiiWoodScree-canadian.square/thwoWoodScree-canadian.square/thwooWoodScree-canadian.square/thwaWoodScree-canadian.square/thwaaWoodScree-canadian.square ᖧᖨᖩᖪᖫᖬᖭᖮᔾ
+ᔦᔧᔨᔩᔪᔫᔬᔭᔮᔦᔨᔪᔭᔾᕯᑌᑎᑐᑕ
+ᖰᖱᖲᖳᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘᣴᗄᗅᗆᗉᗊᗋᗌᗏᗍᗎᐯᗐᐳᐸᗑᗒᗓᗔᗕᗖᗗᗘᗘᗙᗚᗛ
+
+ᓀᓂᓄᓇᐣᑦᓪᖦᕐᐡᐢᐜᖟᓐᓒᣙᣖᒄᒃᕻᣗᒢᒡᣛᔈᖕᖖᕝᕪᒾᔅᔥᙚᣵᔆᣚᔇᔋᔉᔊᕫᕬᒐᒉᒋᒍᓚᓓᓕᓗᖠᖢᖤᑌᑎ
+ᑕᑐᕭᕮᗞ
+
+ᔌᓬᕑᕒᔿᓫ᙭᙮ᓭᓯᓱᓴᕰᕱᕲᕳᖛᖜᖝᖞᑫᑭᑯᑲᕴᕵᕷᕹᕂᕃᕄᕆᕈᕊᕋᕍ/ke-canadian.square/ki-canadian.square/ko-canadian.square/ka-canadian.square/ce-canadian.square/ci-canadian.square/co-canadian.square/ca-canadian.square/ne-canadian.square/ni-canadian.square/no-canadian.square/na-canadian.square/se-canadian.square/si-canadian.square/so-canadian.square/sa-canadian.square/sho-canadian.square/sha-canadian.square/re-canadian.square/reRCree-canadian.square/leWestCree-canadian.square/ri-canadian.square/ro-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square 
+
+ᕡ/dot_top ᕣ0ᒿᔐᔑᔓᔕᕓᕕᕗᕙᕞᕟᕠᕡᕤᕦᖆᖇᖈᖉᖊᖋᖌᖍᖗᖘᖙᖚᖠᖢᖤᖯᖸᖹᖺᖻᗀᗁᗂᗃᗜᗝᗞᗡᗢᗣᗤᗧᗨᗩᗪᗭᗯᗰᗱᗲᗳᗴᗵᗶᗷᗸᗹᗺᗻᗼᗽᗾᗿᘀᘂᘃᘄᘇᘈᘉᘊᘋᘌᘍᘎᘏᘐᘑᘒᘓᘔᘕᘖᘗᘘᘙᘚᘛᘜᘝᘞᘟᘠᘡᘢᘣᘤᘧᘨᘩᘪᘭᘮᘯᘰᘳᘴᘵᘶᘹᘺᘻᘼᘿᙀᙁᙂᙅᙈᙉᙊᙍᙎᙏᙐᙑᙒᙓᙔᙕᙖᙗᙘᙙᙚᙛᙜᙝᙞᙟᙠᙡᙢᙣᙤᙥᙦᙧᙨᙩᙪᙫᙬ/reWestCree-canadian.square/riWestCree-canadian.square/roWestCree-canadian.square/raWestCree-canadian.square/zero.canadian/one.canadian/two.canadian/three.canadian/four.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian 
+/.null   /space.canadian .,-“”‘’◌̇˙ˇ˘˚/ring_top ˛/dot_middle/dot_middle_optic_halfsmall/dot_middle_optic_small/dot_top/doubledot_middle/doubledot_top/g727/g729/g739/stroke_middle/stroke_middle_optic_halfsmall/stroke_middle_optic_small/stroke_middle_optic_threequart/uni11AB0/uni11AB2/uni11AB4/uni11AB6/uni11AB8/uni11ABA/raiseddoubledotFinal-canadian.cree",
+"ᗞᗡ"
+);
 axes = (
 {
 name = Weight;
@@ -11207,7 +11223,7 @@ unicode = 5150;
 {
 color = 7;
 glyphname = "en-canadian";
-lastChange = "2022-10-04 14:28:37 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -11248,9 +11264,11 @@ ref = "graveFinal-canadian";
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "e-canadian";
 },
 {
+alignment = -1;
 pos = (840,0);
 ref = "graveFinal-canadian";
 }
@@ -20584,7 +20602,7 @@ color = 2;
 glyphname = "t-canadian";
 kernLeft = mwestleft;
 kernRight = mwestright;
-lastChange = "2022-10-04 14:26:12 +0000";
+lastChange = "2022-11-04 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -79132,16 +79150,16 @@ shapes = (
 ref = "r-canadian";
 },
 {
-pos = (265,0);
+pos = (255,0);
 ref = "ki-canadian";
 },
 {
 anchor = top_center_can;
-pos = (380,0);
+pos = (370,0);
 ref = ring_top;
 }
 );
-width = 731;
+width = 721;
 },
 {
 background = {
@@ -79383,16 +79401,16 @@ shapes = (
 ref = "r-canadian";
 },
 {
-pos = (265,0);
+pos = (255,0);
 ref = "ki-canadian";
 },
 {
 anchor = top_center_can;
-pos = (450,0);
+pos = (440,0);
 ref = dot_top;
 }
 );
-width = 731;
+width = 721;
 },
 {
 background = {
@@ -79634,16 +79652,16 @@ shapes = (
 ref = "r-canadian";
 },
 {
-pos = (265,0);
+pos = (255,0);
 ref = "ko-canadian";
 },
 {
 anchor = top_right_can;
-pos = (598,0);
+pos = (588,0);
 ref = dot_top;
 }
 );
-width = 731;
+width = 721;
 },
 {
 background = {
@@ -79886,16 +79904,16 @@ shapes = (
 ref = "r-canadian";
 },
 {
-pos = (265,0);
+pos = (255,0);
 ref = "ka-canadian";
 },
 {
 anchor = top_left_can;
-pos = (298,0);
+pos = (288,0);
 ref = dot_top;
 }
 );
-width = 731;
+width = 721;
 },
 {
 background = {
@@ -82885,7 +82903,7 @@ unicode = 5517;
 color = 7;
 glyphname = "ngaai-canadian";
 kernRight = ciright;
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -82941,13 +82959,16 @@ ref = ring_top;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian";
 },
 {
+alignment = -1;
 pos = (755,0);
 ref = "ci-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (954,0);
 ref = ring_top;
@@ -82975,13 +82996,16 @@ ref = ring_top;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian";
 },
 {
+alignment = -1;
 pos = (535,0);
 ref = "ci-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (651,0);
 ref = ring_top;
@@ -83138,7 +83162,7 @@ unicode = 5519;
 color = 7;
 glyphname = "ngii-canadian";
 kernRight = ciright;
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -83194,13 +83218,16 @@ ref = dot_top;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian";
 },
 {
+alignment = -1;
 pos = (755,0);
 ref = "ci-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (995,0);
 ref = dot_top;
@@ -83228,13 +83255,16 @@ ref = dot_top;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian";
 },
 {
+alignment = -1;
 pos = (535,0);
 ref = "ci-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (721,0);
 ref = dot_top;
@@ -83609,7 +83639,7 @@ unicode = 5523;
 {
 color = 7;
 glyphname = "ngaa-canadian";
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -83665,13 +83695,16 @@ ref = dot_top;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian";
 },
 {
+alignment = -1;
 pos = (755,0);
 ref = "ca-canadian";
 },
 {
+alignment = -1;
 anchor = top_left_can;
 pos = (802,0);
 ref = dot_top;
@@ -83699,13 +83732,16 @@ ref = dot_top;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian";
 },
 {
+alignment = -1;
 pos = (535,0);
 ref = "ca-canadian";
 },
 {
+alignment = -1;
 anchor = top_left_can;
 pos = (568,0);
 ref = dot_top;
@@ -89959,7 +89995,7 @@ color = 2;
 glyphname = "lh-canadian";
 kernLeft = mwestleft;
 kernRight = mwestright;
-lastChange = "2022-10-04 15:23:01 +0000";
+lastChange = "2022-11-04 14:26:04 +0000";
 layers = (
 {
 background = {
@@ -105093,7 +105129,7 @@ unicode = 5597;
 {
 color = 2;
 glyphname = "theCarrier-canadian";
-lastChange = "2022-09-28 18:44:25 +0000";
+lastChange = "2022-11-04 22:00:41 +0000";
 layers = (
 {
 anchors = (
@@ -167069,7 +167105,7 @@ unicode = 5744;
 color = 7;
 glyphname = "nngi-canadian";
 kernRight = ciright;
-lastChange = "2022-10-04 15:24:04 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -167138,9 +167174,11 @@ ref = "ci-canadian";
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "nng-canadian";
 },
 {
+alignment = -1;
 pos = (757,0);
 ref = "ci-canadian";
 }
@@ -167183,7 +167221,7 @@ unicode = 5745;
 color = 7;
 glyphname = "nngii-canadian";
 kernRight = ciright;
-lastChange = "2022-10-04 15:24:04 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -167279,13 +167317,16 @@ ref = dot_top;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "nng-canadian";
 },
 {
+alignment = -1;
 pos = (757,0);
 ref = "ci-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (943,0);
 ref = dot_top;
@@ -167340,7 +167381,7 @@ unicode = 5746;
 {
 color = 7;
 glyphname = "nngo-canadian";
-lastChange = "2022-10-04 15:24:04 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -167409,9 +167450,11 @@ ref = "ce-canadian";
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "nng-canadian";
 },
 {
+alignment = -1;
 pos = (757,0);
 ref = "ce-canadian";
 }
@@ -167453,7 +167496,7 @@ unicode = 5747;
 {
 color = 7;
 glyphname = "nngoo-canadian";
-lastChange = "2022-10-04 15:24:04 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -167549,13 +167592,16 @@ ref = dot_top;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "nng-canadian";
 },
 {
+alignment = -1;
 pos = (757,0);
 ref = "ce-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (938,0);
 ref = dot_top;
@@ -167611,7 +167657,7 @@ unicode = 5748;
 color = 7;
 glyphname = "nnga-canadian";
 kernRight = caright;
-lastChange = "2022-10-04 15:24:04 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -167680,9 +167726,11 @@ ref = "ca-canadian";
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "nng-canadian";
 },
 {
+alignment = -1;
 pos = (757,0);
 ref = "ca-canadian";
 }
@@ -167724,7 +167772,7 @@ unicode = 5749;
 {
 color = 7;
 glyphname = "nngaa-canadian";
-lastChange = "2022-10-04 15:24:04 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -167820,13 +167868,16 @@ ref = dot_top;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "nng-canadian";
 },
 {
+alignment = -1;
 pos = (757,0);
 ref = "ca-canadian";
 },
 {
+alignment = -1;
 anchor = top_left_can;
 pos = (790,0);
 ref = dot_top;
@@ -179151,7 +179202,7 @@ note = uni14BC;
 {
 color = 2;
 glyphname = "ngaai-canadian.nunavik";
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -179209,13 +179260,16 @@ color = 11;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (761,0);
 ref = "ci-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (960,0);
 ref = ring_top;
@@ -179244,13 +179298,16 @@ color = 11;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (521,0);
 ref = "ci-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (637,0);
 ref = ring_top;
@@ -179299,7 +179356,7 @@ note = uni158E;
 {
 color = 2;
 glyphname = "ngi-canadian.nunavik";
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -179342,9 +179399,11 @@ color = 11;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (761,0);
 ref = "ci-canadian";
 }
@@ -179367,9 +179426,11 @@ color = 11;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (521,0);
 ref = "ci-canadian";
 }
@@ -179407,7 +179468,7 @@ note = uni158F;
 {
 color = 2;
 glyphname = "ngii-canadian.nunavik";
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -179465,13 +179526,16 @@ color = 11;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (761,0);
 ref = "ci-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (1001,0);
 ref = dot_top;
@@ -179500,13 +179564,16 @@ color = 11;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (521,0);
 ref = "ci-canadian";
 },
 {
+alignment = -1;
 anchor = top_center_can;
 pos = (707,0);
 ref = dot_top;
@@ -179555,7 +179622,7 @@ note = uni1590;
 {
 color = 2;
 glyphname = "ngo-canadian.nunavik";
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -179598,9 +179665,11 @@ color = 11;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (761,0);
 ref = "co-canadian";
 }
@@ -179623,9 +179692,11 @@ color = 11;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (521,0);
 ref = "co-canadian";
 }
@@ -179663,7 +179734,7 @@ note = uni1591;
 {
 color = 2;
 glyphname = "ngoo-canadian.nunavik";
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -179709,9 +179780,11 @@ color = 11;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ngo-canadian.nunavik";
 },
 {
+alignment = -1;
 anchor = top_right_can;
 pos = (1159,0);
 ref = dot_top;
@@ -179736,9 +179809,11 @@ color = 11;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ngo-canadian.nunavik";
 },
 {
+alignment = -1;
 anchor = top_right_can;
 pos = (853,0);
 ref = dot_top;
@@ -179779,7 +179854,7 @@ note = uni1592;
 {
 color = 2;
 glyphname = "nga-canadian.nunavik";
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -179822,9 +179897,11 @@ color = 11;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (761,0);
 ref = "ca-canadian";
 }
@@ -179847,9 +179924,11 @@ color = 11;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (521,0);
 ref = "ca-canadian";
 }
@@ -179887,7 +179966,7 @@ note = uni1593;
 {
 color = 2;
 glyphname = "ngaa-canadian.nunavik";
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -179945,13 +180024,16 @@ color = 11;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (761,0);
 ref = "ca-canadian";
 },
 {
+alignment = -1;
 anchor = top_left_can;
 pos = (808,0);
 ref = dot_top;
@@ -179980,13 +180062,16 @@ color = 11;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (521,0);
 ref = "ca-canadian";
 },
 {
+alignment = -1;
 anchor = top_left_can;
 pos = (554,0);
 ref = dot_top;
@@ -180641,7 +180726,7 @@ note = g739;
 {
 color = 2;
 glyphname = "ngai-canadian.nunavik";
-lastChange = "2022-10-04 15:24:50 +0000";
+lastChange = "2022-11-03 17:59:37 +0000";
 layers = (
 {
 background = {
@@ -180684,9 +180769,11 @@ color = 11;
 layerId = "A1461942-0433-4891-A171-8512F51D8C86";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (761,0);
 ref = "ce-canadian";
 }
@@ -180709,9 +180796,11 @@ color = 11;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
+alignment = -1;
 ref = "ng-canadian.nunavik";
 },
 {
+alignment = -1;
 pos = (521,0);
 ref = "ce-canadian";
 }
