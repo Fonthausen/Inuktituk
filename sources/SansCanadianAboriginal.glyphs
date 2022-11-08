@@ -2,19 +2,18 @@
 .appVersion = "3143";
 .formatVersion = 3;
 DisplayStrings = (
-"/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋ
-ᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘ/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋ
-/.notdef ıᑊᐟᐠᐥᐦᐧᐨᐪᙾᣞᐝᐤᣟᕼᒣᒥᒧᒪ/me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒻᒽᖴᖵᖶᖷ/uni11ABE/uni11ABF/uni11ABC/uni11ABD ᙆᙿ᐀ᕀᐩ/plusFinal-canadian.base ᣔᘁᐞᗮᖼᖽᖾᖿᔾᔱᔲᔳᔴᔪᔵᔶᔷᔸᔹᔺᔻᔼᔭᔽ/ye-canadian.square/yi-canadian.square/yii-canadian.square/yo-canadian.square/yoo-canadian.square/ya-canadian.square/yaa-canadian.square ᙷᙸᙹᙺᙻᙼᙽ/theThCree-canadian.square/thiThCree-canadian.square/dot_top/thiiThCree-canadian.square/thoThCree-canadian.square/thooThCree-canadian.square/thaThCree-canadian.square/thaaThCree-canadian.square/thweeWoodScree-canadian.square/thwiWoodScree-canadian.square/thwiiWoodScree-canadian.square/thwoWoodScree-canadian.square/thwooWoodScree-canadian.square/thwaWoodScree-canadian.square/thwaaWoodScree-canadian.square ᖧᖨᖩᖪᖫᖬᖭᖮᔾ
-ᔦᔧᔨᔩᔪᔫᔬᔭᔮᔦᔨᔪᔭᔾᕯᑌᑎᑐᑕ
-ᖰᖱᖲᖳᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘᣴᗄᗅᗆᗉᗊᗋᗌᗏᗍᗎᐯᗐᐳᐸᗑᗒᗓᗔᗕᗖᗗᗘᗘᗙᗚᗛᔿᓫᕑᓬᕒ
+"/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘ/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋ/.notdef ıᑊᐟᐠᐥᐦᐧᐨᐪᙾᣞᐝᐤᣟᕼᒣᒥᒧᒪ/me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒻᒽᖴᖵᖶᖷ/uni11ABE/uni11ABF/uni11ABC/uni11ABD ᙆᙿ᐀ᕀᐩ/plusFinal-canadian.base ᣔᘁᐞᗮᖼᖽᖾᖿᔾᔱᔲᔳᔴᔪᔵᔶᔷᔸᔹᔺᔻᔼᔭᔽ/ye-canadian.square/yi-canadian.square/yii-canadian.square/yo-canadian.square/yoo-canadian.square/ya-canadian.square/yaa-canadian.square ᙷᙸᙹᙺᙻᙼᙽ/theThCree-canadian.square/thiThCree-canadian.square/dot_top/thiiThCree-canadian.square/thoThCree-canadian.square/thooThCree-canadian.square/thaThCree-canadian.square/thaaThCree-canadian.square/thweeWoodScree-canadian.square/thwiWoodScree-canadian.square/thwiiWoodScree-canadian.square/thwoWoodScree-canadian.square/thwooWoodScree-canadian.square/thwaWoodScree-canadian.square/thwaaWoodScree-canadian.square ᖧᖨᖩᖪᖫᖬᖭᖮᔾᔦᔧᔨᔩᔪᔫᔬᔭᔮᔦᔨᔪᔭᔾᕯᑌᑎᑐᑕᖰᖱᖲᖳᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘᣴᗄᗅᗆᗉᗊᗋᗌᗏᗍᗎᐯᗐᐳᐸᗑᗒᗓᗔᗕᗖᗗᗘᗘᗙᗚᗛᔿᓫᕑᓬᕒᐡᐢᐜᔅᣚᔇᔋᔈ
 
-ᑌᑎᕭᕮᑕᑐᗡᗞ
-ᓀᓂᓄᓇ
-ᐣᑦᓪᖦᕐᐡᐢᐜᖟᓐᓒᣙᣖᒄᒃᕻᣗᒢᒡᣛᔈᖕᖖᕝᕪᒾᔅᔥᙚᣵᔆᔅᣚᔇᔋᔉᔊᕫᕬᒐᒉᒋᒍᓚᓓᓕᓗᖠᖢᖤ
+ᐣᑦᓪᖦᕐᖟᓐᓒᣙᣖᒄᒃᕻᣗᒢᒡᣛᖕᖖᕝᕪᒾᔅᔥᙚᣵᔆᔉᔊ
+ᑌᑎᗜᗝᗨᗩᗢᗣᕫᕬᕰᕱ
+ᑐᑕᗞᗡᗤᗧᗪᗭᕭᕮᕲᕳ
+ᓀᓂᓄᓇᖛᖜᖝᖞ
+ᑫᑭᑯᑲᕴᕵᕷᕹᒐᒉᒋᒍᓚᓓᓕᓗᖠᖢᖤ
+/ne-canadian.square/ni-canadian.square/no-canadian.square/na-canadian.square/re-canadian.square/reRCree-canadian.square/leWestCree-canadian.square/ri-canadian.square ᕂᕃᕄᕆ/ke-canadian.square/ki-canadian.square/ko-canadian.square/ka-canadian.square/ro-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square ᕈᕊᕋᕍ
 
-ᔌ᙭᙮ᓭᓯᓱᓴᕰᕱᕲᕳᖛᖜᖝᖞᑫᑭᑯᑲᕴᕵᕷᕹᕂᕃᕄᕆᕈᕊᕋᕍ/ke-canadian.square/ki-canadian.square/ko-canadian.square/ka-canadian.square/ce-canadian.square/ci-canadian.square/co-canadian.square/ca-canadian.square/ne-canadian.square/ni-canadian.square/no-canadian.square/na-canadian.square/se-canadian.square/si-canadian.square/so-canadian.square/sa-canadian.square/sho-canadian.square/sha-canadian.square/re-canadian.square/reRCree-canadian.square/leWestCree-canadian.square/ri-canadian.square/ro-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square 
+ᔌ᙭᙮ᓭᓯᓱᓴ/ce-canadian.square/ci-canadian.square/co-canadian.square/ca-canadian.square ᘂᘃᘄᘇ/se-canadian.square/si-canadian.square/so-canadian.square/sa-canadian.square/sho-canadian.square/sha-canadian.square 
 
-ᕡ/dot_top ᕣ0ᒿᔐᔑᔓᔕᕓᕕᕗᕙᕞᕟᕠᕡᕤᕦᖆᖇᖈᖉᖊᖋᖌᖍᖗᖘᖙᖚᖠᖢᖤᖯᖸᖹᖺᖻᗀᗁᗂᗃᗜᗝᗞᗡᗢᗣᗤᗧᗨᗩᗪᗭᗯᗰᗱᗲᗳᗴᗵᗶᗷᗸᗹᗺᗻᗼᗽᗾᗿᘀᘂᘃᘄᘇᘈᘉᘊᘋᘌᘍᘎᘏᘐᘑᘒᘓᘔᘕᘖᘗᘘᘙᘚᘛᘜᘝᘞᘟᘠᘡᘢᘣᘤᘧᘨᘩᘪᘭᘮᘯᘰᘳᘴᘵᘶᘹᘺᘻᘼᘿᙀᙁᙂᙅᙈᙉᙊᙍᙎᙏᙐᙑᙒᙓᙔᙕᙖᙗᙘᙙᙚᙛᙜᙝᙞᙟᙠᙡᙢᙣᙤᙥᙦᙧᙨᙩᙪᙫᙬ/reWestCree-canadian.square/riWestCree-canadian.square/roWestCree-canadian.square/raWestCree-canadian.square/zero.canadian/one.canadian/two.canadian/three.canadian/four.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian 
+ᕡ/dot_top ᕣ0ᒿᔐᔑᔓᔕᕓᕕᕗᕙᕞᕟᕠᕡᕤᕦᖆᖇᖈᖉᖊᖋᖌᖍᖗᖘᖙᖚᖠᖢᖤᖯᖸᖹᖺᖻᗀᗁᗂᗃᗯᗰᗱᗲᗳᗴᗵᗶᗷᗸᗹᗺᗻᗼᗽᗾᗿᘀᘈᘉᘊᘋᘌᘍᘎᘏᘐᘑᘒᘓᘔᘕᘖᘗᘘᘙᘚᘛᘜᘝᘞᘟᘠᘡᘢᘣᘤᘧᘨᘩᘪᘭᘮᘯᘰᘳᘴᘵᘶᘹᘺᘻᘼᘿᙀᙁᙂᙅᙈᙉᙊᙍᙎᙏᙐᙑᙒᙓᙔᙕᙖᙗᙘᙙᙚᙛᙜᙝᙞᙟᙠᙡᙢᙣᙤᙥᙦᙧᙨᙩᙪᙫᙬ/reWestCree-canadian.square/riWestCree-canadian.square/roWestCree-canadian.square/raWestCree-canadian.square/zero.canadian/one.canadian/two.canadian/three.canadian/four.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian 
 /.null   /space.canadian .,-“”‘’◌̇˙ˇ˘˚/ring_top ˛/dot_middle/dot_middle_optic_halfsmall/dot_middle_optic_small/dot_top/doubledot_middle/doubledot_top/g727/g729/g739/stroke_middle/stroke_middle_optic_halfsmall/stroke_middle_optic_small/stroke_middle_optic_threequart/uni11AB0/uni11AB2/uni11AB4/uni11AB6/uni11AB8/uni11ABA/raiseddoubledotFinal-canadian.cree",
 "ᗞᗡ"
 );
@@ -17273,7 +17272,7 @@ unicode = 5199;
 color = 2;
 glyphname = "to-canadian";
 kernLeft = toleft;
-lastChange = "2022-10-03 15:42:20 +0000";
+lastChange = "2022-11-08 11:22:35 +0000";
 layers = (
 {
 anchors = (
@@ -106018,7 +106017,7 @@ unicode = 5601;
 {
 color = 2;
 glyphname = "ttuCarrier-canadian";
-lastChange = "2022-09-28 18:47:15 +0000";
+lastChange = "2022-11-08 09:19:19 +0000";
 layers = (
 {
 background = {
@@ -106169,7 +106168,7 @@ nodes = (
 closed = 1;
 nodes = (
 (310,157,o),
-(253,224,o),
+(253,223,o),
 (253,346,cs),
 (253,560,l),
 (77,556,l),
@@ -106704,7 +106703,7 @@ unicode = 5603;
 {
 color = 2;
 glyphname = "tteCarrier-canadian";
-lastChange = "2022-09-28 18:47:25 +0000";
+lastChange = "2022-11-08 12:21:08 +0000";
 layers = (
 {
 anchors = (
@@ -108293,7 +108292,7 @@ unicode = 5609;
 {
 color = 2;
 glyphname = "peCarrier-canadian";
-lastChange = "2022-09-28 18:49:44 +0000";
+lastChange = "2022-11-08 12:21:48 +0000";
 layers = (
 {
 anchors = (
