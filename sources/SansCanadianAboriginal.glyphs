@@ -1,19 +1,24 @@
 {
-.appVersion = "3143";
+.appVersion = "3145";
 .formatVersion = 3;
 DisplayStrings = (
-"/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘ/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋ/.notdef ıᑊᐟᐠᐥᐦᐧᐨᐪᙾᣞᐝᐤᣟᕼᒣᒥᒧᒪ/me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒻᒽᖴᖵᖶᖷ/uni11ABE/uni11ABF/uni11ABC/uni11ABD ᙆᙿ᐀ᕀᐩ/plusFinal-canadian.base ᣔᘁᐞᗮᖼᖽᖾᖿᔾᔱᔲᔳᔴᔪᔵᔶᔷᔸᔹᔺᔻᔼᔭᔽ/ye-canadian.square/yi-canadian.square/yii-canadian.square/yo-canadian.square/yoo-canadian.square/ya-canadian.square/yaa-canadian.square ᙷᙸᙹᙺᙻᙼᙽ/theThCree-canadian.square/thiThCree-canadian.square/dot_top/thiiThCree-canadian.square/thoThCree-canadian.square/thooThCree-canadian.square/thaThCree-canadian.square/thaaThCree-canadian.square/thweeWoodScree-canadian.square/thwiWoodScree-canadian.square/thwiiWoodScree-canadian.square/thwoWoodScree-canadian.square/thwooWoodScree-canadian.square/thwaWoodScree-canadian.square/thwaaWoodScree-canadian.square ᖧᖨᖩᖪᖫᖬᖭᖮᔾᔦᔧᔨᔩᔪᔫᔬᔭᔮᔦᔨᔪᔭᔾᕯᑌᑎᑐᑕᖰᖱᖲᖳᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘᣴᗄᗅᗆᗉᗊᗋᗌᗏᗍᗎᐯᗐᐳᐸᗑᗒᗓᗔᗕᗖᗗᗘᗘᗙᗚᗛᔿᓫᕑᓬᕒᐡᐢᐜᔅᣚᔇᔋᔈ
-
-ᐣᑦᓪᖦᕐᖟᓐᓒᣙᣖᒄᒃᕻᣗᒢᒡᣛᖕᖖᕝᕪᒾᔅᔥᙚᣵᔆᔉᔊ
+"/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘ/ye-canadian.square/yi-canadian.square ᔦᔨ/yo-canadian.square/ya-canadian.square ᔦᔦᖧᔨᖨᖪᖬᔾᖮ/theThCree-canadian.square/thiThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᑋ/.notdef ıᑊᐟᐠᐥᐦᐧᐨᐪᙾᣞᐝᐤᣟᕼᒣᒥᒧᒪ/me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒻᒽᖴᖵᖶᖷ/uni11ABE/uni11ABF/uni11ABC/uni11ABD ᙆᙿ᐀ᐩ/plusFinal-canadian.base ᣔᘁᐞᗮᖼᖽᖾᖿᔾᔱᔲᔳᔴᔪᔵᔶᔷᔸᔹᔺᔻᔼᔭᔽ/ye-canadian.square/yi-canadian.square/yii-canadian.square/yo-canadian.square/yoo-canadian.square/ya-canadian.square/yaa-canadian.square ᙷᙸᙹᙺᙻᙼᙽ/theThCree-canadian.square/thiThCree-canadian.square/dot_top/thiiThCree-canadian.square/thoThCree-canadian.square/thooThCree-canadian.square/thaThCree-canadian.square/thaaThCree-canadian.square/thweeWoodScree-canadian.square/thwiWoodScree-canadian.square/thwiiWoodScree-canadian.square/thwoWoodScree-canadian.square/thwooWoodScree-canadian.square/thwaWoodScree-canadian.square/thwaaWoodScree-canadian.square ᖧᖨᖩᖪᖫᖬᖬᖭᖮᔾᔦᔧᔨᔩᔪᔫᔬᔭᔭ/dot_top ᔮᔦᔨᔪᔭᔾᕯᑌᑎᑐᑕᖰᖱᖲᖳᐁᐃᐅᐊᐋᐗᐘᐙᐚᐛᐮᢱᢲᢳᐆ/doubledot_top ᐇᐈᐉᐊᐯᐱᐳᐸᑉᣘᣴᗄᗅᗆᗉᗊᗋᗌᗏᗍᗎᐯᗐᐳᐸᗑᗒᗓᗔᗕᗖᗗᗘᗘᗙᗚᗛᔿᓫᕑᓬᕒᐡᐢᐜᔅᣚᔇᔋᔈ
 ᑌᑎᗜᗝᗨᗩᗢᗣᕫᕬᕰᕱ
-ᑐᑕᗞᗡᗤᗧᗪᗭᕭᕮᕲᕳ
-ᓀᓂᓄᓇᖛᖜᖝᖞ
-ᑫᑭᑯᑲᕴᕵᕷᕹᒐᒉᒋᒍᓚᓓᓕᓗᖠᖢᖤ
-/ne-canadian.square/ni-canadian.square/no-canadian.square/na-canadian.square/re-canadian.square/reRCree-canadian.square/leWestCree-canadian.square/ri-canadian.square ᕂᕃᕄᕆ/ke-canadian.square/ki-canadian.square/ko-canadian.square/ka-canadian.square/ro-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square ᕈᕊᕋᕍ
+/plusFinal-canadian.base ᗧᕭᕮᗪᗭᑐᑕᗞᗡᕲᕳ
 
-ᔌ᙭᙮ᓭᓯᓱᓴ/ce-canadian.square/ci-canadian.square/co-canadian.square/ca-canadian.square ᘂᘃᘄᘇ/se-canadian.square/si-canadian.square/so-canadian.square/sa-canadian.square/sho-canadian.square/sha-canadian.square 
+ᐣᑦᓪᕐᣗᒢᒡᓐᖟᒃᓒᣙᣖᒄᒃᣛᖕᖖᕝᕪᒾᔅᔉᔆᙚᣵ
+ᔥᔊᓀᓇᓂᓄᖛᖜᖝᖛᑫᑭᑲᑯᒐᒉᒋᒍᓚᓓᓕᓗ
+ᕂᕄᕃᕆ/re-canadian.square/reRCree-canadian.square/ri-canadian.square/ce-canadian.square/ci-canadian.square/co-canadian.square ᘂᑎᑌ/ne-canadian.square/ni-canadian.square/no-canadian.square/na-canadian.square/ke-canadian.square/ka-canadian.square 
+ᑐᑕ ᘄᘇ
+/se-canadian.square/si-canadian.square/so-canadian.square/sa-canadian.square ᓭᓯᓱᓴᖸᖹᖺᖻ/ki-canadian.square/ko-canadian.square/ro-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square ᕈᕊᕋᕍ/sho-canadian.square/sha-canadian.square 
 
-ᕡ/dot_top ᕣ0ᒿᔐᔑᔓᔕᕓᕕᕗᕙᕞᕟᕠᕡᕤᕦᖆᖇᖈᖉᖊᖋᖌᖍᖗᖘᖙᖚᖠᖢᖤᖯᖸᖹᖺᖻᗀᗁᗂᗃᗯᗰᗱᗲᗳᗴᗵᗶᗷᗸᗹᗺᗻᗼᗽᗾᗿᘀᘈᘉᘊᘋᘌᘍᘎᘏᘐᘑᘒᘓᘔᘕᘖᘗᘘᘙᘚᘛᘜᘝᘞᘟᘠᘡᘢᘣᘤᘧᘨᘩᘪᘭᘮᘯᘰᘳᘴᘵᘶᘹᘺᘻᘼᘿᙀᙁᙂᙅᙈᙉᙊᙍᙎᙏᙐᙑᙒᙓᙔᙕᙖᙗᙘᙙᙚᙛᙜᙝᙞᙟᙠᙡᙢᙣᙤᙥᙦᙧᙨᙩᙪᙫᙬ/reWestCree-canadian.square/riWestCree-canadian.square/roWestCree-canadian.square/raWestCree-canadian.square/zero.canadian/one.canadian/two.canadian/three.canadian/four.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian 
+ᖦᕴᕵᕷᕹᖠᖢᖤᕴᕵᕷᕹᖠᖢᖤ/reWestCree-canadian.square/riWestCree-canadian.square/roWestCree-canadian.square/raWestCree-canadian.square 
+ᔌ᙭᙮
+
+/zero.canadian/one.canadian/two.canadian/three.canadian/four.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian 
+
+
+ᕡ/dot_top ᕣ0ᒿᔐᔑᔓᔕᕓᕕᕗᕙᕞᕟᕠᕡᕤᕦᖆᖇᖈᖉᖗᖘᖙᖚᖠᖢᖤᖯᗀᗁᗂᗃᗯᗰᗱᗲᗳᗴᗵᗶᗷᗸᗹᗺᗻᗼᗽᗾᗿᘀᘈᘉᘊᘋᘌᘍᘎᘏᘐᘑᘒᘓᘔᘕᘖᘗᘘᘙᘚᘛᘜᘝᘞᘟᘠᘡᘢᘣᘤᘧᘨᘩᘪᘭᘮᘯᘰᘳᘴᘵᘶᘹᘺᘻᘼᘿᙀᙁᙂᙅᙈᙉᙊᙍᙎᙏᙐᙑᙒᙓᙔᙕᙖᙗᙘᙙᙚᙛᙜᙝᙞᙟᙠᙡᙢᙣᙤᙥᙦᙧᙨᙩᙪᙫᙬ
 /.null   /space.canadian .,-“”‘’◌̇˙ˇ˘˚/ring_top ˛/dot_middle/dot_middle_optic_halfsmall/dot_middle_optic_small/dot_top/doubledot_middle/doubledot_top/g727/g729/g739/stroke_middle/stroke_middle_optic_halfsmall/stroke_middle_optic_small/stroke_middle_optic_threequart/uni11AB0/uni11AB2/uni11AB4/uni11AB6/uni11AB8/uni11ABA/raiseddoubledotFinal-canadian.cree",
 "ᗞᗡ"
 );
@@ -88602,7 +88607,7 @@ unicode = 5535;
 color = 2;
 glyphname = "lhi-canadian";
 kernRight = niright;
-lastChange = "2022-10-03 15:33:41 +0000";
+lastChange = "2022-11-10 13:51:57 +0000";
 layers = (
 {
 anchors = (
@@ -118516,7 +118521,7 @@ unicode = 5635;
 {
 color = 2;
 glyphname = "neCarrier-canadian";
-lastChange = "2022-09-28 19:36:54 +0000";
+lastChange = "2022-11-10 15:52:35 +0000";
 layers = (
 {
 anchors = (
@@ -119086,7 +119091,7 @@ unicode = 5638;
 {
 color = 2;
 glyphname = "naCarrier-canadian";
-lastChange = "2022-09-28 19:37:26 +0000";
+lastChange = "2022-11-13 19:16:28 +0000";
 layers = (
 {
 background = {
@@ -119195,6 +119200,29 @@ nodes = (
 (55,579,o),
 (55,356,cs),
 (55,133,o),
+(192,0,o),
+(430,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(794,0,l),
+(794,171,l),
+(445,171,ls),
+(320,171,o),
+(248,235,o),
+(248,358,cs),
+(248,481,o),
+(320,543,o),
+(445,543,cs),
+(468,543,l),
+(468,714,l),
+(430,714,ls),
+(192,714,o),
+(55,581,o),
+(55,358,cs),
+(55,135,o),
 (192,0,o),
 (430,0,cs)
 );
@@ -186801,7 +186829,7 @@ note = uni14AB;
 {
 color = 2;
 glyphname = "ne-canadian.square";
-lastChange = "2022-09-28 16:00:22 +0000";
+lastChange = "2022-11-14 09:55:26 +0000";
 layers = (
 {
 anchors = (
