@@ -14,10 +14,19 @@ DisplayStrings = (
 ᙐᙓᙣᙦᙙᙖᙑᙒ
 ᙗᙘᙝᙞᙟᙠᙤᙥᙩᙪᙫᙬ
 /ki-canadian.square/ko-canadian.square/ro-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square ᕈᕊᕋᕍ/sho-canadian.square/sha-canadian.square/raWestCree-canadian.square/reWestCree-canadian.square/riWestCree-canadian.square/roWestCree-canadian.square/uni11AB0/uni11AB2/uni11AB4/uni11AB6/uni11AB8/uni11ABA 
-ᘢᘣᘤᘧᘨᘩᘪᘭᘮᘯᘰᘳᘴᘵᘶᘹᘺᘻᘼᘿ
+ᘢᑌᘢᘣᘤᘧᘨᘩᘪᘭᘮᘯᘰᘳᘴᘵᘶᘹᗯᘺᘻᘼᘿ
+ᑫᑲᑭᑯᖆᖇᖈᖉᓭᓯᓱᓴ/uni11AB0/uni11AB2/uni11AB4 
 ᖦᕴᕵᕷᕹᖠᖢᖤᕴᕵᕷᕹᖠᖢᖤᖠᖢᖤ
 ᔌ᙭᙮ /g727/g729 
-0ᒿ/zero.canadian/one.canadian/two.canadian/three.canadian/four.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian",
+0ᒿ/zero.canadian/one.canadian/two.canadian/three.canadian/four.canadian/five.canadian/six.canadian/seven.canadian/eight.canadian/nine.canadian ᑌ
+/.notdef ᕼᒣᒥᒧᒪ/me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒻᒽᣘᐨ
+ᗀᗁᗂᗃᗱᗴᗲᗳᗷᗸᗹᗺᘊᘋᘌᘍᗽᗾᗿ
+ᗯᗰᗵᗶᘈᘉᗻᗼᐜ
+ᓭᓯᓱᓴ/se-canadian.square/si-canadian.square/so-canadian.square/sa-canadian.square ᔅᣚᔇᔋᔈ
+/reRCree-canadian.square/ri-canadian.square/re-canadian.square/ne-canadian.square/ni-canadian.square/no-canadian.square/na-canadian.square/ki-canadian.square/ko-canadian.square/ke-canadian.square/ka-canadian.square/ro-canadian.square/loWestCree-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square ᕈᕊᕋᕍ
+ᐣᑦᓪ
+ᙀᙁᙈᙉᙂᙅᙊᙍ
+ᑫᑲᑭᑯᕴᕵᕷᕹᖯ◌ᐧᣞᐝᐤᣟ/dot_top/doubledot_top",
 "ᗞᗡ"
 );
 axes = (
@@ -80066,7 +80075,7 @@ unicode = 5509;
 {
 color = 2;
 glyphname = "tlhe-canadian";
-lastChange = "2022-10-03 09:58:08 +0000";
+lastChange = "2022-11-20 00:08:45 +0000";
 layers = (
 {
 anchors = (
@@ -80522,7 +80531,7 @@ nodes = (
 );
 }
 );
-width = 529;
+width = 530;
 }
 );
 metricRight = "te-canadian";
@@ -130949,7 +130958,7 @@ unicode = 5665;
 {
 color = 2;
 glyphname = "luCarrier-canadian";
-lastChange = "2022-09-28 20:11:25 +0000";
+lastChange = "2022-11-19 19:02:01 +0000";
 layers = (
 {
 background = {
@@ -131251,7 +131260,7 @@ unicode = 5666;
 {
 color = 2;
 glyphname = "loCarrier-canadian";
-lastChange = "2022-09-28 20:11:29 +0000";
+lastChange = "2022-11-19 19:06:34 +0000";
 layers = (
 {
 background = {
@@ -133152,7 +133161,7 @@ unicode = 5673;
 {
 color = 2;
 glyphname = "dleCarrier-canadian";
-lastChange = "2022-09-28 20:13:39 +0000";
+lastChange = "2022-11-19 22:26:09 +0000";
 layers = (
 {
 anchors = (
@@ -137850,7 +137859,7 @@ unicode = 5689;
 {
 color = 2;
 glyphname = "tluCarrier-canadian";
-lastChange = "2022-09-29 11:00:56 +0000";
+lastChange = "2022-11-19 20:27:24 +0000";
 layers = (
 {
 background = {
@@ -176775,7 +176784,7 @@ unicode = 6375;
 {
 color = 6;
 glyphname = "tlhwe-canadian";
-lastChange = "2022-10-04 14:16:54 +0000";
+lastChange = "2022-11-20 00:31:26 +0000";
 layers = (
 {
 background = {
@@ -176875,11 +176884,11 @@ ref = "tlhe-canadian";
 },
 {
 anchor = middle_right_can;
-pos = (529,0);
+pos = (530,0);
 ref = "middledotFinal-canadian";
 }
 );
-width = 739;
+width = 740;
 }
 );
 note = uni18E8;
@@ -219519,7 +219528,7 @@ note = g723;
 {
 color = 2;
 glyphname = uni11AB0;
-lastChange = "2022-10-03 15:52:09 +0000";
+lastChange = "2022-11-20 00:23:34 +0000";
 layers = (
 {
 anchors = (
