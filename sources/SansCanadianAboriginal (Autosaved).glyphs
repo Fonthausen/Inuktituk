@@ -118300,7 +118300,7 @@ unicode = 5634;
 {
 color = 2;
 glyphname = "noCarrier-canadian";
-lastChange = "2022-09-28 19:36:22 +0000";
+lastChange = "2022-11-23 17:00:17 +0000";
 layers = (
 {
 background = {
@@ -118535,6 +118535,7 @@ metricLeft = "=|nuCarrier-canadian";
 metricRight = "te-canadian";
 note = uni1603;
 unicode = 5635;
+changeCount = 15;
 },
 {
 color = 2;
