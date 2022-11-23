@@ -68776,7 +68776,7 @@ unicode = 5470;
 {
 color = 2;
 glyphname = "theNCree-canadian";
-lastChange = "2022-11-22 15:57:42 +0000";
+lastChange = "2022-11-22 15:59:36 +0000";
 layers = (
 {
 background = {
@@ -69001,6 +69001,29 @@ nodes = (
 (621,455,o),
 (601,427,o),
 (568,427,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(635,-20,o),
+(768,116,o),
+(768,342,cs),
+(768,709,l),
+(575,709,l),
+(575,341,ls),
+(575,215,o),
+(521,152,o),
+(414,152,cs),
+(310,152,o),
+(253,219,o),
+(253,341,cs),
+(253,709,l),
+(60,709,l),
+(60,342,ls),
+(60,112,o),
+(190,-20,o),
+(415,-20,cs)
 );
 }
 );
@@ -69239,6 +69262,7 @@ metricLeft = "te-canadian";
 metricRight = "te-canadian";
 note = uni155F;
 unicode = 5471;
+changeCount = 10;
 },
 {
 color = 2;
