@@ -126441,7 +126441,7 @@ unicode = 5677;
 {
 color = 9;
 glyphname = "lhuCarrier-canadian";
-lastChange = "2022-11-28 22:45:16 +0000";
+lastChange = "2022-11-28 22:45:18 +0000";
 layers = (
 {
 background = {
@@ -126619,7 +126619,7 @@ nodes = (
 );
 }
 );
-width = 855;
+width = 854;
 },
 {
 background = {
@@ -126804,7 +126804,7 @@ metricLeft = "luCarrier-canadian";
 metricRight = "=|";
 note = uni162E;
 unicode = 5678;
-changeCount = 100;
+changeCount = 101;
 },
 {
 color = 9;
