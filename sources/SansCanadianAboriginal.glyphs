@@ -2,22 +2,7 @@
 .appVersion = "3146";
 .formatVersion = 3;
 DisplayStrings = (
-"/.notdef ᕼᖴᖶᖵᖷᒣᒥᒧᒪ/me-canadian.square/mi-canadian.square/mo-canadian.square/ma-canadian.square ᒻᒽᣘᐨᙿ᐀ᐪᗮ
-/uni11ABE/uni11ABF ᔾᔦᔨ
-ᕼᐯᐱᐁᐃᐳᐸᐅᐊᐈᐉ
-ᗀᗁᗂᗃᗱᗴᗲᗳᗷᗸᗹᗺᘊᘋᘌᘍᗽᗾᗿ
-ᗯᗰᗵᗶᘈᘉᗻᗼᐜ
-ᓭᓯᓱᓴ/uni11AB0/uni11AB2 ᓭ/uni11AB4/se-canadian.square/si-canadian.square/so-canadian.square/sa-canadian.square/uni11AB6/uni11AB8/uni11ABA ᣚᔇᔅᔈᔋ
-ᑌᑎᗜᗝᕫᕬᗨᗩ/reRCree-canadian.square/ri-canadian.square/re-canadian.square/ne-canadian.square/ni-canadian.square/no-canadian.square/na-canadian.square/ki-canadian.square/ko-canadian.square/ke-canadian.square/ka-canadian.square/ro-canadian.square/loWestCree-canadian.square/loWestCree-canadian.square/ra-canadian.square/laWestCree-canadian.square ᕈᕊᕋᕍ
-ᘃ/ci-canadian.square/co-canadian.square ᘂ/reWestCree-canadian.square/riWestCree-canadian.square/roWestCree-canadian.square/raWestCree-canadian.square ᒡᒢᣗ
-ᑐᑕᘄᘇᓚᓓᓕᓗᖠᖢᖤᐣᑦᓪ
-ᑌᑎᗢᗣᕰᕱᐡᐢᕞᕡᕟᕠᕤᕦᕪ
-ᙀᙁᙈᙉᙂᙅᙊᙍ
-ᘢᘣᘩᘨᘤᘪᘧᘭ
-ᖗᖚᖘᖙᑫᑲᑭᑯᖆᖉᖇᖈᕴᕵᕷᕹᖯᖰᖱᖲᖳ◌ᐧᣞᐝᐤᣟ/dot_top/doubledot_top 
-/stroke_middle/stroke_middle_optic_small ᖼ
-
-ᙿ᐀ᐩ/plusFinal-canadian.base ᙾıᑊᐟᐠᐥᐦᕯ
+"ᙿ᐀ᐩ/plusFinal-canadian.base ᙾıᑊᐟᐠᐥᐦᕯ
  /uni11ABC/uni11ABD ᙆᣴᑋ
 ᔦᔨᔪᔭ/ye-canadian.square/yi-canadian.square/yo-canadian.square/ya-canadian.square ᖧᖨᖪᖬ/theThCree-canadian.square/thiThCree-canadian.square/thoThCree-canadian.square/thaThCree-canadian.square ᖮᔾ
 ᑉᣔᘁᐞ
@@ -28,20 +13,16 @@ DisplayStrings = (
 ᕂᕄᕃᕆᖸᖹᖺᖻᒉᒋᒍᒐᖊᖋᖌᖍ
 ᗤᗧᕭᕮᗪᗭᗞᗡᕲᕳ
 ᕐᓐᖟᒃᓒᣙᣖᒄᒃᣛᖕᕝᕪᒾᔉᔆᙚᙚᣵᖦᔥᣛ
-/one.canadian/four.canadian/seven.canadian/zero.canadian 
-
 ᔐᔑᔓᔕ/sho-canadian.square/sha-canadian.square ᔆᔥᣵ/g727/g729 
 ᙇ᙭᙮
 ᕓᕕᕗᕙ
 ᒡ/ng-canadian.nunavik ᔊ ᕻ/g739 
-ᑌᘎᘏᘐᘑᘒᘓᘔᘕᘖᘗᘘᘙᘚᘛᘜᘝᘞᘟᘠᘡ 
+ᘔᘖᘗᘚᘛᘘᘙᘜᘝᘞᘟᘠᘡ 
 ᘮᘰᘺᘻᘼᘿ
-ᙎᙏᙎᙔᙕᙡᙢᙧᙨᙛᙜ
-ᙐᙑᙒᙓᙖᙗᙘᙖᙙᙝᙞᙟᙝᙠᙤᙥᙣᙦᙩᙪᙫᙬ
+ᙐᙓᙑᙒᙖᙗᙘᙙᙣᙦᙝᙞᙟᙝᙠᙤᙥᙩᙬᙪᙫ
 ıᐟᐠᐡᐥᐦᑊ/stroke_middle_optic_halfsmall  /stroke_middle_optic_threequart ᐩ/plusFinal-canadian.base ᕀᕯ
-ᒾᒿ/two.canadian/three.canadian/five.canadian/six.canadian/eight.canadian/nine.canadian 
-/.null ,-“”‘’.̇˙ᐝ˚/dot_middle/dot_middle_optic_halfsmall/doubledot_middle/raiseddoubledotFinal-canadian.cree ˛ˇ˘
-"
+
+/.null ,-“”‘’.̇˙ᐝ˚/dot_middle/dot_middle_optic_halfsmall/doubledot_middle/raiseddoubledotFinal-canadian.cree ˛ˇ˘"
 );
 axes = (
 {
@@ -123107,7 +123088,7 @@ unicode = 5648;
 {
 color = 2;
 glyphname = "yeeCarrier-canadian";
-lastChange = "2022-09-28 19:42:33 +0000";
+lastChange = "2022-11-27 23:11:46 +0000";
 layers = (
 {
 background = {
@@ -123514,7 +123495,7 @@ unicode = 5649;
 {
 color = 2;
 glyphname = "yiCarrier-canadian";
-lastChange = "2022-11-17 13:36:24 +0000";
+lastChange = "2022-11-27 23:16:23 +0000";
 layers = (
 {
 background = {
@@ -124822,7 +124803,7 @@ unicode = 5652;
 {
 color = 2;
 glyphname = "juSayisi-canadian";
-lastChange = "2022-09-28 19:45:06 +0000";
+lastChange = "2022-11-27 23:33:29 +0000";
 layers = (
 {
 anchors = (
@@ -126187,7 +126168,7 @@ unicode = 5655;
 {
 color = 2;
 glyphname = "jeeCarrier-canadian";
-lastChange = "2022-11-17 12:07:04 +0000";
+lastChange = "2022-11-27 19:42:31 +0000";
 layers = (
 {
 background = {
@@ -207250,7 +207231,7 @@ metricRight = "geCarrier-canadian";
 {
 color = 2;
 glyphname = nine.canadian;
-lastChange = "2022-09-29 18:57:39 +0000";
+lastChange = "2022-11-24 14:26:18 +0000";
 layers = (
 {
 background = {
