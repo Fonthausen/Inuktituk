@@ -1,5 +1,5 @@
 {
-.appVersion = "3146";
+.appVersion = "3147";
 .formatVersion = 3;
 DisplayStrings = (
 "ᙿ᐀ᐩ/plusFinal-canadian.base ᙾıᑊᐟᐠᐥᐦᕯ
@@ -22,7 +22,7 @@ DisplayStrings = (
 ᙐᙓᙑᙒᙖᙗᙘᙙᙣᙦᙝᙞᙟᙝᙠᙤᙥᙩᙬᙪᙫ
 ıᐟᐠᐡᐥᐦᑊ/stroke_middle_optic_halfsmall  /stroke_middle_optic_threequart ᐩ/plusFinal-canadian.base ᕀᕯ
 
-/.null ,-“”‘’.̇˙ᐝ˚/dot_middle/dot_middle_optic_halfsmall/doubledot_middle/raiseddoubledotFinal-canadian.cree ˛ˇ˘"
+/.null ˛ˇ˘"
 );
 axes = (
 {
