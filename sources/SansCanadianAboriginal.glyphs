@@ -23,7 +23,7 @@ DisplayStrings = (
 ıᐟᐠᐡᐥᐦᑊ/stroke_middle_optic_halfsmall  /stroke_middle_optic_threequart ᐩ/plusFinal-canadian.base ᕀᕯ
 
 /.null ˛ˇ˘",
-"ᔥ"
+"ᙏ/g729/g727/four.canadian"
 );
 axes = (
 {
@@ -120158,7 +120158,7 @@ unicode = 5641;
 {
 color = 2;
 glyphname = "meCarrier-canadian";
-lastChange = "2022-11-16 16:33:39 +0000";
+lastChange = "2022-12-07 13:40:29 +0000";
 layers = (
 {
 background = {
@@ -120422,45 +120422,6 @@ nodes = (
 (285,24,cs),
 (226,24,l),
 (226,0,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(286,0,ls),
-(399,0,o),
-(472,63,o),
-(472,182,cs),
-(472,270,o),
-(427,337,o),
-(351,359,c),
-(351,356,l),
-(427,376,o),
-(472,441,o),
-(472,530,cs),
-(472,651,o),
-(399,714,o),
-(286,714,cs),
-(71,714,l),
-(71,690,l),
-(285,690,ls),
-(386,690,o),
-(447,640,o),
-(447,530,cs),
-(447,424,o),
-(385,369,o),
-(287,369,cs),
-(226,369,l),
-(226,345,l),
-(288,345,ls),
-(384,345,o),
-(447,289,o),
-(447,182,cs),
-(447,73,o),
-(386,24,o),
-(285,24,cs),
-(71,24,l),
-(71,0,l)
 );
 }
 );
@@ -175614,7 +175575,7 @@ unicode = 6363;
 {
 color = 7;
 glyphname = "easternw-canadian";
-lastChange = "2022-09-28 16:00:22 +0000";
+lastChange = "2022-12-07 16:14:08 +0000";
 layers = (
 {
 background = {
@@ -175748,9 +175709,15 @@ unicode = 6364;
 {
 color = 7;
 glyphname = "westernw-canadian";
-lastChange = "2022-09-28 16:00:22 +0000";
+lastChange = "2022-12-07 16:18:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+pos = (495,396);
+}
+);
 background = {
 shapes = (
 {
@@ -175771,16 +175738,43 @@ color = 9;
 layerId = m01;
 shapes = (
 {
-alignment = -1;
-anchor = top_center_can;
-pos = (548,-318);
-ref = dot_top;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(514,506,o),
+(528,520,o),
+(528,539,cs),
+(528,558,o),
+(514,572,o),
+(495,572,cs),
+(476,572,o),
+(462,558,o),
+(462,539,cs),
+(462,520,o),
+(476,506,o),
+(495,506,cs)
+);
 },
 {
-pos = (508,0);
-ref = "glottalstop-canadian";
-scale = (-1,1);
+closed = 1;
+nodes = (
+(428,366,l),
+(261,714,l),
+(247,714,l),
+(80,366,l),
+(80,357,l),
+(428,357,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(413,378,l),
+(95,378,l),
+(103,364,l),
+(264,700,l),
+(244,700,l),
+(405,364,l)
+);
 }
 );
 width = 608;
@@ -175821,6 +175815,12 @@ scale = (-1,1);
 width = 662;
 },
 {
+anchors = (
+{
+name = _top;
+pos = (369,396);
+}
+);
 background = {
 shapes = (
 {
@@ -175841,16 +175841,43 @@ color = 9;
 layerId = "341CD669-D84F-4333-8BC8-F9777E6D3814";
 shapes = (
 {
-alignment = -1;
-anchor = top_center_can;
-pos = (419,-318);
-ref = dot_top;
-scale = (-1,1);
+closed = 1;
+nodes = (
+(386,509,o),
+(399,522,o),
+(399,539,cs),
+(399,556,o),
+(386,569,o),
+(369,569,cs),
+(352,569,o),
+(339,556,o),
+(339,539,cs),
+(339,522,o),
+(352,509,o),
+(369,509,cs)
+);
 },
 {
-pos = (359,0);
-ref = "glottalstop-canadian";
-scale = (-1,1);
+closed = 1;
+nodes = (
+(302,366,l),
+(184,714,l),
+(174,714,l),
+(57,366,l),
+(57,357,l),
+(302,357,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(288,379,l),
+(71,379,l),
+(78,364,l),
+(186,691,l),
+(172,691,l),
+(281,364,l)
+);
 }
 );
 width = 456;
